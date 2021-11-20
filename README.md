@@ -53,3 +53,8 @@ The Bokeh was achieved with a deph-map shader & photoshop
 ## Full feature-table
 
 ![feature list](https://user-images.githubusercontent.com/78741736/142738621-3e0d83f1-01ed-424a-8468-428213cacdb5.png)
+
+## Links
+
+[CureForge](https://www.curseforge.com/minecraft/texture-packs/nautilus3d)
+[Planet Minecraft](https://www.planetminecraft.com/texture-pack/nautilus-pack-3d/)
