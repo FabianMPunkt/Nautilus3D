@@ -1,0 +1,12 @@
+{
+    "multipart": [
+		{	"apply":	{ "model": "jukebox" }},
+		
+		{	"when":		{ "has_record": "true" },		
+				"apply":[		
+					{ "model": "jukebox_vinyl", "weight": 249 },
+					{ "model": "jukebox_vinyl_alt", "weight": 1 }
+				]
+		}
+    ]
+}

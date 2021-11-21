@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/parents/trapdoor/trapdoor_bottom",
+  "textures": {
+    "trapdoor": "minecraft:blocks/trapdoor"
+  }
+}
