@@ -1,0 +1,24 @@
+{
+	"variants":{
+			"normal":[
+				{ "model": "mushrooms/brown/0_0", "y": 0	},
+				{ "model": "mushrooms/brown/0_1", "y": 0	},
+				{ "model": "mushrooms/brown/1_0", "y": 0	},
+				{ "model": "mushrooms/brown/1_0", "y": 90	},
+				{ "model": "mushrooms/brown/1_0", "y": 180},
+				{ "model": "mushrooms/brown/1_0", "y": 270},
+				{ "model": "mushrooms/brown/1_1", "y": 0	},
+				{ "model": "mushrooms/brown/1_1", "y": 90	},
+				{ "model": "mushrooms/brown/1_1", "y": 180},
+				{ "model": "mushrooms/brown/1_1", "y": 270},
+				{ "model": "mushrooms/brown/2_0_0", "y": 0},
+				{ "model": "mushrooms/brown/2_0_0", "y": 90	},
+				{ "model": "mushrooms/brown/2_0_0", "y": 180	},
+				{ "model": "mushrooms/brown/2_0_0", "y": 270	},
+				{ "model": "mushrooms/brown/2_0_1", "y": 0	},
+				{ "model": "mushrooms/brown/2_0_1", "y": 90	},
+				{ "model": "mushrooms/brown/2_0_1", "y": 180	},
+				{ "model": "mushrooms/brown/2_0_1", "y": 270	}
+			]
+	}
+}
