@@ -32,7 +32,7 @@ The main focus is of course always laid on the newest version of the game. Most 
 OptiFine is strongly recommended!
 
 
-Versions below 1.12 have serious limitations (see full feature-table for more)
+Versions below 1.12 include the new 1.14 textures.
 
 
 ## Screenshots
