@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=east": [
+      { "model": "minecraft:block/ladder0", "y": 90, "weight": 90 },
+      { "model": "minecraft:block/ladder1", "y": 90, "weight": 5 },
+      { "model": "minecraft:block/ladder2", "y": 90, "weight": 5 }
+	 ],
+	  
+    "facing=north": [
+      { "model": "minecraft:block/ladder0", "weight": 90 },
+      { "model": "minecraft:block/ladder1", "weight": 5 },
+      { "model": "minecraft:block/ladder2", "weight": 5 }
+	 ],
+	 
+    "facing=south": [
+      { "model": "minecraft:block/ladder0", "y": 180, "weight": 90 },
+      { "model": "minecraft:block/ladder1", "y": 180, "weight": 5 },
+      { "model": "minecraft:block/ladder2", "y": 180, "weight": 5 }
+	 ],
+	 
+    "facing=west": [
+      { "model": "minecraft:block/ladder0", "y": 270, "weight": 90 },
+      { "model": "minecraft:block/ladder1", "y": 270, "weight": 5 },
+      { "model": "minecraft:block/ladder2", "y": 270, "weight": 5 }
+	 ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/ores/gold_ore/_parent/3_2",
+	"textures": {
+				"ore": "minecraft:block/gold_ore"
+	}
+}

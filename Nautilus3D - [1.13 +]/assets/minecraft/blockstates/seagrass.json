@@ -1,0 +1,40 @@
+{
+	"multipart":[
+				{ "apply": [
+							{ "model": "block/crops/seagrass/seagrass/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/seagrass/seagrass/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/seagrass/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/crops/seagrass/seagrass/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/seagrass/seagrass/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/seagrass/seagrass/2_3", "y": 0 , "weight":	98	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/crops/seagrass/seagrass/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/seagrass/seagrass/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/seagrass/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/crops/seagrass/seagrass/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/seagrass/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/seagrass/seagrass/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/crops/seagrass/seagrass/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/seagrass/seagrass/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/seagrass/seagrass/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/crops/seagrass/seagrass/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/seagrass/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/seagrass/seagrass/6_3", "y": 0 , "weight":	98	 }
+							]
+				}
+	]
+}

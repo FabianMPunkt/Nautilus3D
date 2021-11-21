@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/rails/powered_rail/parents/parent_powered_rail_raised",
+  "textures": {
+    "#redstone": "minecraft:custom_textures/rails/redstone_bright",
+	"particle": "block/powered_rail_on"
+  }
+}

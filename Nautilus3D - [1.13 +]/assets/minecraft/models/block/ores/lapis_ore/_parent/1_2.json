@@ -1,0 +1,36 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"particle": "#ore"
+	},
+	"elements": [
+		{
+			"from": [9, 1, -0.25],
+			"to": [12, 3, 0],
+			"faces": {
+				"north": {"uv": [4, 13, 7, 15], "texture": "#ore", "cullface": "north"},
+				"east": {"uv": [4, 13, 4.5, 15], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [6, 13, 6.5, 15], "texture": "#ore", "cullface": "north"},
+				"up": {"uv": [4, 13, 7, 13.5], "rotation": 180, "texture": "#ore", "cullface": "north"},
+				"down": {"uv": [4, 14, 7, 14.5], "rotation": 180, "texture": "#ore", "cullface": "north"}
+			}
+		},
+		{
+			"from": [10, 3, -0.25],
+			"to": [11, 4, 0],
+			"faces": {
+				"north": {"uv": [5, 12, 6, 13], "texture": "#ore", "cullface": "north"},
+				"east": {"uv": [5, 12, 5.5, 13], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [5, 12, 5.5, 13], "texture": "#ore", "cullface": "north"},
+				"up": {"uv": [5, 12, 6, 12.5], "rotation": 180, "texture": "#ore", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "1_2",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		}
+	]
+}

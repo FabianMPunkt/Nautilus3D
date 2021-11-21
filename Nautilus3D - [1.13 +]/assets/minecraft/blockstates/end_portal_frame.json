@@ -1,0 +1,19 @@
+{
+    "multipart": [
+        { "when":  { "facing": "north"},
+		  "apply": { "model": "block/end_portal_frame" }
+		},
+		{ "when":  { "facing": "east"},
+		  "apply": { "model": "block/end_portal_frame", "y": 90 }
+		},
+		{ "when":  { "facing": "south"},
+		  "apply": { "model": "block/end_portal_frame", "y": 180 }
+		},
+		{ "when":  { "facing": "west"},
+		  "apply": { "model": "block/end_portal_frame", "y": 270 }
+		},
+		{ "when":  { "eye": "true"},	
+		  "apply": { "model": "block/end_portal_frame_eye"}
+		}
+	]
+}

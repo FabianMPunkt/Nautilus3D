@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/parents/parent_lantern_hanging_alt",
+  "textures": {
+    "texture": "minecraft:block/lantern"
+  }
+}

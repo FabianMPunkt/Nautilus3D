@@ -1,0 +1,65 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"particle": "#ore"
+	},
+	"elements": [
+		{
+			"from": [11, 6, -0.5],
+			"to": [15, 7, 0],
+			"faces": {
+				"north": {"uv": [1, 9, 5, 10], "texture": "#ore", "cullface": "north"},
+				"east": {"uv": [1, 9, 1.5, 10], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [4, 9, 4.5, 10], "texture": "#ore", "cullface": "north"},
+				"up": {"uv": [1, 9, 5, 9.5], "rotation": 180, "texture": "#ore", "cullface": "north"},
+				"down": {"uv": [1, 9, 5, 9.5], "rotation": 180, "texture": "#ore", "cullface": "north"}
+			}
+		},
+		{
+			"from": [12, 7, -0.4],
+			"to": [13, 8, 0.1],
+			"faces": {
+				"north": {"uv": [3, 8, 4, 9], "texture": "#ore", "cullface": "north"},
+				"east": {"uv": [3, 8, 4, 9], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [3, 8, 4, 9], "texture": "#ore", "cullface": "north"},
+				"up": {"uv": [3, 8, 4, 9], "texture": "#ore", "cullface": "north"}
+			}
+		},
+		{
+			"from": [11, 7, -0.25],
+			"to": [12, 8, 0],
+			"faces": {
+				"north": {"uv": [4, 8, 5, 9], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [4, 8, 5, 9], "texture": "#ore", "cullface": "north"},
+				"up": {"uv": [4, 8, 5, 9], "texture": "#ore", "cullface": "north"}
+			}
+		},
+		{
+			"from": [10, 6, -0.25],
+			"to": [11, 7, 0],
+			"faces": {
+				"north": {"uv": [4, 8, 5, 9], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [4, 8, 5, 9], "texture": "#ore", "cullface": "north"},
+				"up": {"uv": [4, 8, 5, 9], "texture": "#ore", "cullface": "north"},
+				"down": {"uv": [4, 8, 5, 9], "texture": "#ore", "cullface": "north"}
+			}
+		},
+		{
+			"from": [12, 5, -0.25],
+			"to": [14, 6, 0],
+			"faces": {
+				"north": {"uv": [2, 10, 4, 11], "texture": "#ore", "cullface": "north"},
+				"east": {"uv": [2, 10, 2.25, 11], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [3, 10, 4, 11], "texture": "#ore", "cullface": "north"},
+				"down": {"uv": [2, 10, 4, 10.25], "rotation": 180, "texture": "#ore", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "4_1",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

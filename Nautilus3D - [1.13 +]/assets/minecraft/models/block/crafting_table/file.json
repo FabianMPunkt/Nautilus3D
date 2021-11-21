@@ -1,0 +1,70 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"0": "block/crafting_table_front",
+		"particle": "block/crafting_table_front"
+	},
+	"elements": [
+		{
+			"name": "file",
+			"from": [4, 10, -0.25],
+			"to": [5, 13, 0.5],
+			"faces": {
+				"north": {"uv": [3, 5, 4, 8], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [3, 5, 4, 8], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [3, 5, 4, 8], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [3, 5, 4, 6], "rotation": 90, "texture": "#0", "cullface": "north"},
+				"down": {"uv": [3, 8, 4, 9], "rotation": 270, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"name": "file",
+			"from": [4, 5, 0],
+			"to": [5, 10, 0.5],
+			"faces": {
+				"north": {"uv": [13, 6, 14, 11], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [13, 6, 13.5, 11], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [13, 6, 13.5, 11], "texture": "#0", "cullface": "north"},
+				"down": {"uv": [13, 10, 13.5, 11], "rotation": 270, "texture": "#0", "cullface": "north"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "File",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		}
+	]
+}

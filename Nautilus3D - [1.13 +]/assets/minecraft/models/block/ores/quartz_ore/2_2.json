@@ -1,0 +1,47 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"0": "block/nether_quartz_ore",
+		"particle": "block/nether_quartz_ore"
+	},
+	"elements": [
+		{
+			"from": [8, 2, -0.4],
+			"to": [10, 3, 0.1],
+			"faces": {
+				"north": {"uv": [7, 12, 9, 13], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [7, 12, 8, 13], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [7, 12, 9, 13], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"down": {"uv": [7, 12, 9, 12.5], "rotation": 180, "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"from": [8, 1, -0.25],
+			"to": [9, 2, 0],
+			"faces": {
+				"north": {"uv": [8, 13, 9, 14], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [8, 13, 9, 14], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [8, 13, 9, 14], "texture": "#0", "cullface": "north"},
+				"down": {"uv": [8, 13, 9, 14], "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"from": [7, 2, -0.4],
+			"to": [8, 4, 0.1],
+			"faces": {
+				"north": {"uv": [9, 11, 10, 13], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [9, 11, 9.5, 13], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [9, 11, 9.5, 13], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [9, 11, 10, 11.5], "rotation": 180, "texture": "#0", "cullface": "north"},
+				"down": {"uv": [9, 12, 10, 12.5], "rotation": 180, "texture": "#0", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "2_2",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2]
+		}
+	]
+}

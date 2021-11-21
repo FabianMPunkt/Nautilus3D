@@ -1,0 +1,26 @@
+{
+	"multipart":[
+				{ "apply": [
+							{ "model": "block/mushrooms/crimson/0_0", "y": 0,		"weight":	91	 },
+							{ "model": "block/mushrooms/crimson/0_1", "y": 0,		"weight":	94	 },
+							{ "model": "block/mushrooms/crimson/1_0", "y": 0,		"weight":	95	 },
+							{ "model": "block/mushrooms/crimson/1_0", "y": 90,	"weight":	96	 },
+							{ "model": "block/mushrooms/crimson/1_0", "y": 180,	"weight":	95	 },
+							{ "model": "block/mushrooms/crimson/1_0", "y": 270,	"weight":	96	 },
+							{ "model": "block/mushrooms/crimson/1_1", "y": 0,		"weight":	93	 },
+							{ "model": "block/mushrooms/crimson/1_1", "y": 90,	"weight":	94	 },
+							{ "model": "block/mushrooms/crimson/1_1", "y": 180,	"weight":	93	 },
+							{ "model": "block/mushrooms/crimson/1_1", "y": 270,	"weight":	92	 }
+							]
+				},
+
+				{ "apply": [
+							{ "model": "block/mushrooms/crimson/2_0", "y": 0,		"weight":	66	 },
+							{ "model": "block/mushrooms/crimson/2_0", "y": 90,	"weight":	65	 },
+							{ "model": "block/mushrooms/crimson/2_0", "y": 180,	"weight":	63	 },
+							{ "model": "block/mushrooms/crimson/2_0", "y": 270,	"weight":	68	 },
+							{ "model": "block/_placeholder", "y": 0 , "weight":	93	 }
+							]
+				}
+	]
+}

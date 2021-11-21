@@ -1,0 +1,30 @@
+{
+	"variants": {
+		"": [
+		{	"model": "minecraft:block/leaves/birch/0", "weight": 99 },
+		{	"model": "minecraft:block/leaves/birch/0", "y": 90, "weight": 98 },
+		{	"model": "minecraft:block/leaves/birch/0", "y": 180, "weight": 95 },
+		{	"model": "minecraft:block/leaves/birch/0", "y": 270, "weight": 97 },
+		                                             
+		{	"model": "minecraft:block/leaves/birch/1"	, "weight": 95 },
+		{	"model": "minecraft:block/leaves/birch/1", "y": 90, "weight": 96 },
+		{	"model": "minecraft:block/leaves/birch/1", "y": 180, "weight": 95 },
+		{	"model": "minecraft:block/leaves/birch/1", "y": 270, "weight": 99 },
+		                                             
+		{	"model": "minecraft:block/leaves/birch/2"	, "weight": 92 },
+		{	"model": "minecraft:block/leaves/birch/2", "y": 90, "weight": 99 },
+		{	"model": "minecraft:block/leaves/birch/2", "y": 180, "weight": 94 },
+		{	"model": "minecraft:block/leaves/birch/2", "y": 270, "weight": 97 },
+		                                             
+		{	"model": "minecraft:block/leaves/birch/3"	, "weight": 98 },
+		{	"model": "minecraft:block/leaves/birch/3", "y": 90, "weight": 93 },
+		{	"model": "minecraft:block/leaves/birch/3", "y": 180, "weight": 96 },
+		{	"model": "minecraft:block/leaves/birch/3", "y": 270, "weight": 98 },
+		                                             
+		{	"model": "minecraft:block/leaves/birch/4"	, "weight": 96 },
+		{	"model": "minecraft:block/leaves/birch/4", "y": 90, "weight": 98 },
+		{	"model": "minecraft:block/leaves/birch/4", "y": 180, "weight": 94 },
+		{	"model": "minecraft:block/leaves/birch/4", "y": 270, "weight": 96 }
+		]
+	}
+}

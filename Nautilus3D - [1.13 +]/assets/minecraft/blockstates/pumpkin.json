@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/pumpkin" },
+		{ "model": "block/pumpkin", "y": 90 },
+		{ "model": "block/pumpkin", "y": 180 },
+		{ "model": "block/pumpkin", "y": 270 }
+		]
+    }
+}

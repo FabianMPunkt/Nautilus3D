@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/crops/base/3_1",
+	"textures": {
+				"crop": "minecraft:block/seagrass"
+	}
+}

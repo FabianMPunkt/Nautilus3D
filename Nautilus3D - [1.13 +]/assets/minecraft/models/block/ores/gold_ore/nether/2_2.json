@@ -1,0 +1,39 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"0": "block/nether_gold_ore",
+		"particle": "block/nether_gold_ore"
+	},
+	"elements": [
+		{
+			"from": [3, 3, -0.25],
+			"to": [4, 4, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, 9, 8]},
+			"faces": {
+				"north": {"uv": [12, 11, 13, 12], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [12, 11, 13, 12], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [12, 11, 13, 12], "texture": "#0", "cullface": "north"},
+				"down": {"uv": [12, 11, 13, 12], "texture": "#0", "cullface": "north"}
+			}
+		},
+		{
+			"from": [2, 3, -0.25],
+			"to": [3, 5, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-2, 10, 8]},
+			"faces": {
+				"north": {"uv": [13, 10, 14, 12], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [13, 10, 13.5, 12], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [13, 10, 13.5, 12], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [13, 10, 14, 11], "texture": "#0", "cullface": "north"},
+				"down": {"uv": [13, 11, 14, 11.5], "texture": "#0", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "2_2",
+			"origin": [8, 8, 8],
+			"children": [0, 1]
+		}
+	]
+}

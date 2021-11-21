@@ -1,0 +1,7 @@
+{
+	"ambientocclusion": false,
+	"parent": "minecraft:block/crops/base/6_1",
+	"textures": {
+				"crop": "minecraft:block/grass"
+	}
+}

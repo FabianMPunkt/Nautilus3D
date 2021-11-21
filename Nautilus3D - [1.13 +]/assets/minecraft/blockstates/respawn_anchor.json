@@ -1,0 +1,15 @@
+{
+    "multipart": [
+
+        {	"apply": {	"model": "minecraft:block/respawn_anchor_0"	}},
+
+        {   "when": { "charges": 1 },
+            "apply": { "model": "minecraft:block/respawn_anchor_1"	}},
+        {   "when": { "charges": 2 },
+            "apply": { "model": "minecraft:block/respawn_anchor_2"	}},
+        {   "when": { "charges": 3 },
+            "apply": { "model": "minecraft:block/respawn_anchor_3"	}},
+        {   "when": { "charges": 4 },
+            "apply": { "model": "minecraft:block/respawn_anchor_4"	}}
+    ]
+}

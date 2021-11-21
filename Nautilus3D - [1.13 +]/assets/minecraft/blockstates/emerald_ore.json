@@ -1,0 +1,274 @@
+{
+	"multipart":[
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/1_1", "weight":	89	 },
+							{ "model": "block/ores/emerald_ore/stone/1_2", "weight":	85	 },
+							{ "model": "block/_placeholder", "weight":	89	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/2_1", "weight":	87	 },
+							{ "model": "block/ores/emerald_ore/stone/2_2", "weight":	82	 },
+							{ "model": "block/_placeholder", "weight":	89	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/3_1", "weight":	87	 },
+							{ "model": "block/ores/emerald_ore/stone/3_2", "weight":	85	 },
+							{ "model": "block/_placeholder", "weight":	88	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/4_1", "weight":	85	 },
+							{ "model": "block/ores/emerald_ore/stone/4_2", "weight":	82	 },
+							{ "model": "block/_placeholder", "weight":	81	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/5_1", "weight":	86	 },
+							{ "model": "block/ores/emerald_ore/stone/5_2", "weight":	81	 },
+							{ "model": "block/_placeholder", "weight":	84	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/6_1", "weight":	81	 },
+							{ "model": "block/ores/emerald_ore/stone/6_2", "weight":	81	 },
+							{ "model": "block/_placeholder", "weight":	87	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/7_1", "weight":	87	 },
+							{ "model": "block/ores/emerald_ore/stone/7_2", "weight":	87	 }
+							]
+				},
+
+
+
+
+
+
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/1_1", "y": 90 , "weight":	85	 },
+							{ "model": "block/ores/emerald_ore/stone/1_2", "y": 90 , "weight":	83	 },
+							{ "model": "block/_placeholder", "weight":	69	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/2_1", "y": 90 , "weight":	87	 },
+							{ "model": "block/ores/emerald_ore/stone/2_2", "y": 90 , "weight":	84	 },
+							{ "model": "block/_placeholder", "weight":	64	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/3_1", "y": 90 , "weight":	87	 },
+							{ "model": "block/ores/emerald_ore/stone/3_2", "y": 90 , "weight":	86	 },
+							{ "model": "block/_placeholder", "weight":	64	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/4_1", "y": 90 , "weight":	88	 },
+							{ "model": "block/ores/emerald_ore/stone/4_2", "y": 90 , "weight":	83	 },
+							{ "model": "block/_placeholder", "weight":	60	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/5_1", "y": 90 , "weight":	85	 },
+							{ "model": "block/ores/emerald_ore/stone/5_2", "y": 90 , "weight":	88	 },
+							{ "model": "block/_placeholder", "weight":	66	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/6_1", "y": 90 , "weight":	84	 },
+							{ "model": "block/ores/emerald_ore/stone/6_2", "y": 90 , "weight":	84	 },
+							{ "model": "block/_placeholder", "weight":	62	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/7_1", "y": 90 , "weight":	87	 },
+							{ "model": "block/ores/emerald_ore/stone/7_2", "y": 90 , "weight":	87	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/1_1", "y": 180 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/1_2", "y": 180 , "weight":	87	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/2_1", "y": 180 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/2_2", "y": 180 , "weight":	86	 },
+							{ "model": "block/_placeholder", "weight":	62	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/3_1", "y": 180 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/3_2", "y": 180 , "weight":	86	 },
+							{ "model": "block/_placeholder", "weight":	68	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/4_1", "y": 180 , "weight":	85	 },
+							{ "model": "block/ores/emerald_ore/stone/4_2", "y": 180 , "weight":	82	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/5_1", "y": 180 , "weight":	83	 },
+							{ "model": "block/ores/emerald_ore/stone/5_2", "y": 180 , "weight":	86	 },
+							{ "model": "block/_placeholder", "weight":	62	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/6_1", "y": 180 , "weight":	86	 },
+							{ "model": "block/ores/emerald_ore/stone/6_2", "y": 180 , "weight":	86	 },
+							{ "model": "block/_placeholder", "weight":	61	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/7_1", "y": 180 , "weight":	80	 },
+							{ "model": "block/ores/emerald_ore/stone/7_2", "y": 180 , "weight":	87	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/1_1", "y": 270 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/1_2", "y": 270 , "weight":	85	 },
+							{ "model": "block/_placeholder", "weight":	62	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/2_1", "y": 270 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/2_2", "y": 270 , "weight":	85	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/3_1", "y": 270 , "weight":	83	 },
+							{ "model": "block/ores/emerald_ore/stone/3_2", "y": 270 , "weight":	86	 },
+							{ "model": "block/_placeholder", "weight":	60	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/4_1", "y": 270 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/4_2", "y": 270 , "weight":	86	 },
+							{ "model": "block/_placeholder", "weight":	68	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/5_1", "y": 270 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/5_2", "y": 270 , "weight":	86	 },
+							{ "model": "block/_placeholder", "weight":	66	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/6_1", "y": 270 , "weight":	85	 },
+							{ "model": "block/ores/emerald_ore/stone/6_2", "y": 270 , "weight":	85	 },
+							{ "model": "block/_placeholder", "weight":	64	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/7_1", "y": 270 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/7_2", "y": 270 , "weight":	87	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/1_1", "x": 90 , "y": 180 , "weight":	86	 },
+							{ "model": "block/ores/emerald_ore/stone/1_2", "x": 90 , "y": 180 , "weight":	83	 },
+							{ "model": "block/_placeholder", "weight":	69	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/2_1", "x": 90 , "y": 180 , "weight":	84	 },
+							{ "model": "block/ores/emerald_ore/stone/2_2", "x": 90 , "y": 180 , "weight":	82	 },
+							{ "model": "block/_placeholder", "weight":	61	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/3_1", "x": 90 , "y": 180 , "weight":	87	 },
+							{ "model": "block/ores/emerald_ore/stone/3_2", "x": 90 , "y": 180 , "weight":	83	 },
+							{ "model": "block/_placeholder", "weight":	60	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/4_1", "x": 90 , "y": 180 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/4_2", "x": 90 , "y": 180 , "weight":	85	 },
+							{ "model": "block/_placeholder", "weight":	62	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/5_1", "x": 90 , "y": 180 , "weight":	86	 },
+							{ "model": "block/ores/emerald_ore/stone/5_2", "x": 90 , "y": 180 , "weight":	82	 },
+							{ "model": "block/_placeholder", "weight":	69	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/6_1", "x": 90 , "y": 180 , "weight":	86	 },
+							{ "model": "block/ores/emerald_ore/stone/6_2", "x": 90 , "y": 180 , "weight":	86	 },
+							{ "model": "block/_placeholder", "weight":	68	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/7_1", "x": 90 , "y": 180 , "weight":	87	 },
+							{ "model": "block/ores/emerald_ore/stone/7_2", "x": 90 , "y": 180 , "weight":	87	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/1_1", "x": 270 , "y": 180 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/1_2", "x": 270 , "y": 180 , "weight":	88	 },
+							{ "model": "block/_placeholder", "weight":	69	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/2_1", "x": 270 , "y": 180 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/2_2", "x": 270 , "y": 180 , "weight":	83	 },
+							{ "model": "block/_placeholder", "weight":	62	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/3_1", "x": 270 , "y": 180 , "weight":	88	 },
+							{ "model": "block/ores/emerald_ore/stone/3_2", "x": 270 , "y": 180 , "weight":	83	 },
+							{ "model": "block/_placeholder", "weight":	63	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/4_1", "x": 270 , "y": 180 , "weight":	81	 },
+							{ "model": "block/ores/emerald_ore/stone/4_2", "x": 270 , "y": 180 , "weight":	87	 },
+							{ "model": "block/_placeholder", "weight":	69	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/5_1", "x": 270 , "y": 180 , "weight":	85	 },
+							{ "model": "block/ores/emerald_ore/stone/5_2", "x": 270 , "y": 180 , "weight":	87	 },
+							{ "model": "block/_placeholder", "weight":	60	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/6_1", "x": 270 , "y": 180 , "weight":	82	 },
+							{ "model": "block/ores/emerald_ore/stone/6_2", "x": 270 , "y": 180 , "weight":	82	 },
+							{ "model": "block/_placeholder", "weight":	65	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/emerald_ore/stone/7_1", "x": 270 , "y": 180 , "weight":	81	 },
+							{ "model": "block/ores/emerald_ore/stone/7_2", "x": 270 , "y": 180 , "weight":	87	 }
+							]
+				},
+				{ "apply": { "model": "block/ores/common_ore_blank"}}
+		
+	]
+}

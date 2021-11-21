@@ -1,0 +1,62 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"particle": "#ore"
+	},
+	"elements": [
+		{
+			"from": [3, 3, -0.5],
+			"to": [8, 5, 0],
+			"faces": {
+				"north": {"uv": [8, 11, 13, 13], "texture": "#ore", "cullface": "north"},
+				"east": {"uv": [8, 11, 8.5, 13], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [12, 11, 12.5, 13], "texture": "#ore", "cullface": "north"},
+				"up": {"uv": [8, 11, 13, 11.5], "rotation": 180, "texture": "#ore", "cullface": "north"},
+				"down": {"uv": [8, 12, 13, 12.5], "rotation": 180, "texture": "#ore", "cullface": "north"}
+			}
+		},
+		{
+			"from": [5, 2, -0.4],
+			"to": [6, 3, 0.1],
+			"faces": {
+				"north": {"uv": [10, 13, 11, 14], "texture": "#ore", "cullface": "north"},
+				"east": {"uv": [10, 13, 10.5, 14], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [10, 13, 10.5, 14], "texture": "#ore", "cullface": "north"},
+				"down": {"uv": [10, 13, 11, 13.5], "rotation": 180, "texture": "#ore", "cullface": "north"}
+			}
+		},
+		{
+			"from": [6, 2, -0.25],
+			"to": [7, 3, 0],
+			"faces": {
+				"north": {"uv": [9, 13, 10, 14], "texture": "#ore", "cullface": "north"},
+				"east": {"uv": [9, 13, 10, 14], "texture": "#ore", "cullface": "north"},
+				"down": {"uv": [9, 13, 10, 14], "texture": "#ore", "cullface": "north"}
+			}
+		},
+		{
+			"from": [5, 5, -0.5],
+			"to": [7, 6, 0],
+			"faces": {
+				"north": {"uv": [9, 10, 11, 11], "texture": "#ore", "cullface": "north"},
+				"east": {"uv": [9, 10, 9.5, 11], "texture": "#ore", "cullface": "north"},
+				"west": {"uv": [10, 10, 10.5, 11], "texture": "#ore", "cullface": "north"},
+				"up": {"uv": [9, 10, 11, 10.5], "rotation": 180, "texture": "#ore", "cullface": "north"}
+			}
+		},
+		{
+			"from": [4, 5, -0.01],
+			"to": [6, 7, -0.01],
+			"faces": {
+				"north": {"uv": [10, 9, 12, 11], "texture": "#ore", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "6_1",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

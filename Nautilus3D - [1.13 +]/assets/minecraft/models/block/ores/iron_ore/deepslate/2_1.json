@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/ores/iron_ore/_parent/2_1",
+	"textures": {
+				"ore": "minecraft:block/deepslate_iron_ore"
+	}
+}

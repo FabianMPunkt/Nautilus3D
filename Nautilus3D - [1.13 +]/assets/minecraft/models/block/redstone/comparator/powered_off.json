@@ -1,0 +1,47 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/comparator",
+		"2": "block/smooth_stone",
+		"unlit": "block/redstone_torch_off",
+		"particle": "block/smooth_stone"
+	},
+	"elements": [
+		{
+			"name": "Element",
+			"from": [10, 0, 11],
+			"to": [12, 7, 13],
+			"faces": {
+				"north": {"uv": [7, 6, 9, 13], "texture": "#unlit"},
+				"east": {"uv": [7, 6, 9, 13], "texture": "#unlit"},
+				"south": {"uv": [7, 6, 9, 13], "texture": "#unlit"},
+				"west": {"uv": [7, 6, 9, 13], "texture": "#unlit"},
+				"up": {"uv": [7, 6, 9, 8], "texture": "#unlit"},
+				"down": {"uv": [10, 3, 12, 5], "texture": "#2", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Element",
+			"from": [4, 0, 11],
+			"to": [6, 7, 13],
+			"faces": {
+				"north": {"uv": [7, 6, 9, 13], "texture": "#unlit"},
+				"east": {"uv": [7, 6, 9, 13], "texture": "#unlit"},
+				"south": {"uv": [7, 6, 9, 13], "texture": "#unlit"},
+				"west": {"uv": [7, 6, 9, 13], "texture": "#unlit"},
+				"up": {"uv": [7, 6, 9, 8], "texture": "#unlit"},
+				"down": {"uv": [4, 3, 6, 5], "texture": "#2", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6, 0, 11],
+			"to": [10, 1.5, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [17, 8, 19]},
+			"faces": {
+				"up": {"uv": [6, 11, 10, 13], "texture": "#1"},
+				"down": {"uv": [6, 3, 10, 5], "texture": "#2", "cullface": "down"}
+			}
+		}
+	]
+}

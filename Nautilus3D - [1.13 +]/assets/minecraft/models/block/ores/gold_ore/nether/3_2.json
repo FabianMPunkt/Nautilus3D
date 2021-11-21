@@ -1,0 +1,28 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"0": "block/nether_gold_ore",
+		"particle": "block/nether_gold_ore"
+	},
+	"elements": [
+		{
+			"from": [13, 3, -0.25],
+			"to": [14, 4, 0],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 9, 8]},
+			"faces": {
+				"north": {"uv": [1, 11, 2, 12], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [1, 11, 2, 12], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [1, 11, 2, 12], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [1, 11, 2, 12], "texture": "#0", "cullface": "north"},
+				"down": {"uv": [1, 11, 2, 12], "texture": "#0", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "3_2",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

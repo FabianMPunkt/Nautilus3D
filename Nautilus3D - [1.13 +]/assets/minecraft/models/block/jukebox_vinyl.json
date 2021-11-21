@@ -1,0 +1,57 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"2": "custom_textures/music_disc_cat",
+		"particle": "custom_textures/music_disc_cat"
+	},
+	"elements": [
+		{
+			"name": "Vinyl",
+			"from": [7.75, 13, 4],
+			"to": [8.42, 17, 12],
+			"faces": {
+				"north": {"uv": [2, 4, 3, 5], "texture": "#2", "cullface": "up"},
+				"east": {"uv": [2, 4, 13, 10], "texture": "#2", "cullface": "up"},
+				"south": {"uv": [12, 4, 13, 5], "texture": "#2", "cullface": "up"},
+				"west": {"uv": [2, 4, 13, 10], "texture": "#2", "cullface": "up"},
+				"up": {"uv": [2, 4, 13, 5], "rotation": 90, "texture": "#2", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Vinyl",
+			"from": [7.75, 17, 6.18],
+			"to": [8.42, 17.67, 9.82],
+			"faces": {
+				"north": {"uv": [5, 3, 6, 4], "texture": "#2", "cullface": "up"},
+				"east": {"uv": [5, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"south": {"uv": [9, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"west": {"uv": [5, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"up": {"uv": [5, 3, 10, 4], "texture": "#2", "cullface": "up"}
+			}
+		},
+		{
+			"name": "Vinyl",
+			"from": [7.75, 13.67, 3.37],
+			"to": [8.42, 16.34, 4],
+			"faces": {
+				"north": {"uv": [5, 3, 6, 4], "texture": "#2", "cullface": "up"},
+				"east": {"uv": [5, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"west": {"uv": [5, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"up": {"uv": [5, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"down": {"uv": [5, 3, 10, 4], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Vinyl",
+			"from": [7.75, 13.67, 12],
+			"to": [8.42, 16.34, 12.63],
+			"faces": {
+				"east": {"uv": [5, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"south": {"uv": [9, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"west": {"uv": [5, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"up": {"uv": [5, 3, 10, 4], "texture": "#2", "cullface": "up"},
+				"down": {"uv": [5, 3, 10, 4], "texture": "#2"}
+			}
+		}
+	]
+}

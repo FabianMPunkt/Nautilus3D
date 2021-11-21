@@ -1,0 +1,100 @@
+{
+	"multipart": [
+		{	"when": { "facing": "north" },
+			"apply": { "model": "block/beehive"}
+		},
+
+		{	"when": { "facing": "east" },
+			"apply": { "model": "block/beehive", "y": 90}
+		},
+		
+		{	"when": { "facing": "south" },
+			"apply": { "model": "block/beehive", "y": 180}
+		},
+		
+		{	"when": { "facing": "west" },
+			"apply": { "model": "block/beehive", "y": 270}
+		},
+		
+		
+		{	"when": { "facing": "north", "honey_level": "1" },
+			"apply": { "model": "block/beehive_honey_1"}
+		},
+
+		{	"when": { "facing": "east", "honey_level": "1" },
+			"apply": { "model": "block/beehive_honey_1", "y": 90}
+		},
+		
+		{	"when": { "facing": "south", "honey_level": "1" },
+			"apply": { "model": "block/beehive_honey_1", "y": 180}
+		},
+		
+		{	"when": { "facing": "west", "honey_level": "1" },
+			"apply": { "model": "block/beehive_honey_1", "y": 270}
+		},
+		
+		{	"when": { "facing": "north", "honey_level": "2" },
+			"apply": { "model": "block/beehive_honey_2"}
+		},
+
+		{	"when": { "facing": "east", "honey_level": "2" },
+			"apply": { "model": "block/beehive_honey_2", "y": 90}
+		},
+		
+		{	"when": { "facing": "south", "honey_level": "2" },
+			"apply": { "model": "block/beehive_honey_2", "y": 180}
+		},
+		
+		{	"when": { "facing": "west", "honey_level": "2" },
+			"apply": { "model": "block/beehive_honey_2", "y": 270}
+		},
+		
+		{	"when": { "facing": "north", "honey_level": "3" },
+			"apply": { "model": "block/beehive_honey_3"}
+		},
+
+		{	"when": { "facing": "east", "honey_level": "3" },
+			"apply": { "model": "block/beehive_honey_3", "y": 90}
+		},
+		
+		{	"when": { "facing": "south", "honey_level": "3" },
+			"apply": { "model": "block/beehive_honey_3", "y": 180}
+		},
+		
+		{	"when": { "facing": "west", "honey_level": "3" },
+			"apply": { "model": "block/beehive_honey_3", "y": 270}
+		},
+		
+		{	"when": { "facing": "north", "honey_level": "4" },
+			"apply": { "model": "block/beehive_honey_4"}
+		},
+
+		{	"when": { "facing": "east", "honey_level": "4" },
+			"apply": { "model": "block/beehive_honey_4", "y": 90}
+		},
+		
+		{	"when": { "facing": "south", "honey_level": "4" },
+			"apply": { "model": "block/beehive_honey_4", "y": 180}
+		},
+		
+		{	"when": { "facing": "west", "honey_level": "4" },
+			"apply": { "model": "block/beehive_honey_4", "y": 270}
+		},
+		
+		{	"when": { "facing": "north", "honey_level": "5" },
+			"apply": { "model": "block/beehive_honey_5"}
+		},
+
+		{	"when": { "facing": "east", "honey_level": "5" },
+			"apply": { "model": "block/beehive_honey_5", "y": 90}
+		},
+		
+		{	"when": { "facing": "south", "honey_level": "5" },
+			"apply": { "model": "block/beehive_honey_5", "y": 180}
+		},
+		
+		{	"when": { "facing": "west", "honey_level": "5" },
+			"apply": { "model": "block/beehive_honey_5", "y": 270}
+		}
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"6": "custom_textures/ember",
+		"particle": "custom_textures/ember"
+	},
+	"elements": [
+		{
+			"from": [3, 1, 0.75],
+			"to": [13, 6, 0.75],
+			"faces": {
+				"north": {"uv": [3, 9, 13, 14], "texture": "#6", "cullface": "north"}
+			}
+		}
+	]
+}

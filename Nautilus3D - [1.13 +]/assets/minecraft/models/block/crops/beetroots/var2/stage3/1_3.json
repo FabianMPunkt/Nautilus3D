@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/crops/base2/1_3",
+	"textures": {
+				"crop": "minecraft:custom_textures/beetroot/2_stage3"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/ores/copper_ore/_parent/5_1",
+	"textures": {
+				"ore": "minecraft:block/deepslate_copper_ore"
+	}
+}

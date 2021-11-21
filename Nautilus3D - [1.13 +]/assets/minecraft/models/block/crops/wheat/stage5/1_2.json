@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/crops/base/1_2",
+	"textures": {
+				"crop": "minecraft:block/wheat_stage5"
+	}
+}

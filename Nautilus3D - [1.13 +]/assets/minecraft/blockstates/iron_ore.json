@@ -1,0 +1,267 @@
+{
+	"multipart":[
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/1_1", "weight":	99	 },
+							{ "model": "block/ores/iron_ore/stone/1_2", "weight":	95	 },
+							{ "model": "block/_placeholder", "weight":	69	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/2_1", "weight":	97	 },
+							{ "model": "block/ores/iron_ore/stone/2_2", "weight":	92	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/3_1", "weight":	97	 },
+							{ "model": "block/ores/iron_ore/stone/3_2", "weight":	95	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/4_1", "weight":	95	 },
+							{ "model": "block/ores/iron_ore/stone/4_2", "weight":	92	 },
+							{ "model": "block/_placeholder", "weight":	71	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/5_1", "weight":	96	 },
+							{ "model": "block/ores/iron_ore/stone/5_2", "weight":	91	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/6_1", "weight":	95	 },
+							{ "model": "block/ores/iron_ore/stone/6_2", "weight":	91	 },
+							{ "model": "block/_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/7_1", "weight":	97	 },
+							{ "model": "block/ores/iron_ore/stone/7_2", "weight":	93	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+
+
+
+
+
+
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/1_1", "y": 90 , "weight":	95	 },
+							{ "model": "block/ores/iron_ore/stone/1_2", "y": 90 , "weight":	93	 },
+							{ "model": "block/_placeholder", "weight":	69	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/2_1", "y": 90 , "weight":	97	 },
+							{ "model": "block/ores/iron_ore/stone/2_2", "y": 90 , "weight":	94	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/3_1", "y": 90 , "weight":	97	 },
+							{ "model": "block/ores/iron_ore/stone/3_2", "y": 90 , "weight":	96	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/4_1", "y": 90 , "weight":	98	 },
+							{ "model": "block/ores/iron_ore/stone/4_2", "y": 90 , "weight":	93	 },
+							{ "model": "block/_placeholder", "weight":	70	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/5_1", "y": 90 , "weight":	95	 },
+							{ "model": "block/ores/iron_ore/stone/5_2", "y": 90 , "weight":	98	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/6_1", "y": 90 , "weight":	99	 },
+							{ "model": "block/ores/iron_ore/stone/6_2", "y": 90 , "weight":	94	 },
+							{ "model": "block/_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/7_1", "y": 90 , "weight":	97	 },
+							{ "model": "block/ores/iron_ore/stone/7_2", "y": 90 , "weight":	97	 },
+							{ "model": "block/_placeholder", "weight":	62	 }
+							]
+				},
+				
+				
+				
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/1_1", "y": 180 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/1_2", "y": 180 , "weight":	97	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/2_1", "y": 180 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/2_2", "y": 180 , "weight":	96	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/3_1", "y": 180 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/3_2", "y": 180 , "weight":	96	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/4_1", "y": 180 , "weight":	95	 },
+							{ "model": "block/ores/iron_ore/stone/4_2", "y": 180 , "weight":	92	 },
+							{ "model": "block/_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/5_1", "y": 180 , "weight":	93	 },
+							{ "model": "block/ores/iron_ore/stone/5_2", "y": 180 , "weight":	96	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/6_1", "y": 180 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/6_2", "y": 180 , "weight":	96	 },
+							{ "model": "block/_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/7_1", "y": 180 , "weight":	90	 },
+							{ "model": "block/ores/iron_ore/stone/7_2", "y": 180 , "weight":	92	 },
+							{ "model": "block/_placeholder", "weight":	64	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/1_1", "y": 270 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/1_2", "y": 270 , "weight":	95	 },
+							{ "model": "block/_placeholder", "weight":	62	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/2_1", "y": 270 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/2_2", "y": 270 , "weight":	95	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/3_1", "y": 270 , "weight":	93	 },
+							{ "model": "block/ores/iron_ore/stone/3_2", "y": 270 , "weight":	96	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/4_1", "y": 270 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/4_2", "y": 270 , "weight":	96	 },
+							{ "model": "block/_placeholder", "weight":	78	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/5_1", "y": 270 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/5_2", "y": 270 , "weight":	96	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/6_1", "y": 270 , "weight":	99	 },
+							{ "model": "block/ores/iron_ore/stone/6_2", "y": 270 , "weight":	95	 },
+							{ "model": "block/_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/7_1", "y": 270 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/7_2", "y": 270 , "weight":	95	 },
+							{ "model": "block/_placeholder", "weight":	63	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/1_1", "x": 90 , "weight":	96	 },
+							{ "model": "block/ores/iron_ore/stone/1_2", "x": 90 , "weight":	93	 },
+							{ "model": "block/_placeholder", "weight":	69	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/2_1", "x": 90 , "weight":	94	 },
+							{ "model": "block/ores/iron_ore/stone/2_2", "x": 90 , "weight":	92	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/3_1", "x": 90 , "weight":	97	 },
+							{ "model": "block/ores/iron_ore/stone/3_2", "x": 90 , "weight":	93	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/4_1", "x": 90 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/4_2", "x": 90 , "weight":	95	 },
+							{ "model": "block/_placeholder", "weight":	72	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/5_1", "x": 90 , "weight":	96	 },
+							{ "model": "block/ores/iron_ore/stone/5_2", "x": 90 , "weight":	92	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/6_1", "x": 90 , "weight":	91	 },
+							{ "model": "block/ores/iron_ore/stone/6_2", "x": 90 , "weight":	96	 },
+							{ "model": "block/_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/7_1", "x": 90 , "weight":	97	 },
+							{ "model": "block/ores/iron_ore/stone/7_2", "x": 90 , "weight":	93	 },
+							{ "model": "block/_placeholder", "weight":	68	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/1_1", "x": 270 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/1_2", "x": 270 , "weight":	98	 },
+							{ "model": "block/_placeholder", "weight":	69	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/2_1", "x": 270 , "weight":	92	 },
+							{ "model": "block/ores/iron_ore/stone/2_2", "x": 270 , "weight":	93	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/3_1", "x": 270 , "weight":	98	 },
+							{ "model": "block/ores/iron_ore/stone/3_2", "x": 270 , "weight":	93	 },
+							{ "model": "block/_placeholder", "weight":	67	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/4_1", "x": 270 , "weight":	91	 },
+							{ "model": "block/ores/iron_ore/stone/4_2", "x": 270 , "weight":	97	 },
+							{ "model": "block/_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/5_1", "x": 270 , "weight":	95	 },
+							{ "model": "block/ores/iron_ore/stone/5_2", "x": 270 , "weight":	97	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/6_1", "x": 270 , "weight":	96	 },
+							{ "model": "block/ores/iron_ore/stone/6_2", "x": 270 , "weight":	92	 },
+							{ "model": "block/_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/ores/iron_ore/stone/7_1", "x": 270 , "weight":	91	 },
+							{ "model": "block/ores/iron_ore/stone/7_2", "x": 270 , "weight":	98	 },
+							{ "model": "block/_placeholder", "weight":	68	 }
+							]
+				},
+				{ "apply": { "model": "block/ores/common_ore_blank"}}
+		
+	]
+}

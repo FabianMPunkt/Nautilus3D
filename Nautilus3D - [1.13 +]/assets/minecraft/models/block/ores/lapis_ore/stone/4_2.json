@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/ores/lapis_ore/_parent/4_2",
+	"textures": {
+				"ore": "minecraft:block/lapis_ore"
+	}
+}

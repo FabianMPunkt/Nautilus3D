@@ -1,0 +1,9 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"parent": "minecraft:block/parents/parent_farmland",
+	"textures": {
+		"dirt": "block/dirt",
+		"top": "block/farmland",
+		"bottom": "block/dirt"
+	}
+}

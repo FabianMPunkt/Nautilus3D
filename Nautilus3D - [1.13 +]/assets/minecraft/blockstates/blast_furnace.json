@@ -1,0 +1,36 @@
+{
+	"multipart": [
+		{	"when": { "facing": "north" },
+			"apply": { "model": "block/blast_furnace"}
+		},
+
+		{	"when": { "facing": "east" },
+			"apply": { "model": "block/blast_furnace", "y": 90}
+		},
+		
+		{	"when": { "facing": "south" },
+			"apply": { "model": "block/blast_furnace", "y": 180}
+		},
+		
+		{	"when": { "facing": "west" },
+			"apply": { "model": "block/blast_furnace", "y": 270}
+		},
+		
+		
+		{	"when": { "facing": "north", "lit": "true" },
+			"apply": { "model": "block/blast_furnace_on"}
+		},
+
+		{	"when": { "facing": "east", "lit": "true" },
+			"apply": { "model": "block/blast_furnace_on", "y": 90}
+		},
+		
+		{	"when": { "facing": "south", "lit": "true" },
+			"apply": { "model": "block/blast_furnace_on", "y": 180}
+		},
+		
+		{	"when": { "facing": "west", "lit": "true" },
+			"apply": { "model": "block/blast_furnace_on", "y": 270}
+		}
+	]
+}

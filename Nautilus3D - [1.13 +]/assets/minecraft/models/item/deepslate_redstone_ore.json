@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/ores/redstone_ore/redstone_ore_item",
+  "textures": {
+    "ore": "minecraft:block/deepslate_redstone_ore"
+  }
+}

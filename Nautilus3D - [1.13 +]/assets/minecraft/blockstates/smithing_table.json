@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/smithing_table" },
+		{ "model": "block/smithing_table", "y": 90},
+		{ "model": "block/smithing_table", "y": 180},
+		{ "model": "block/smithing_table", "y": 270}
+	]
+    }
+}

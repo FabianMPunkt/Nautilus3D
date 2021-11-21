@@ -1,0 +1,365 @@
+{
+	"multipart" : [
+	
+
+
+		{	"when": { "age": "5" },
+			  "apply": [
+							{ "model": "block/crops/wheat/stage5/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/wheat/stage5/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage5/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "age": "5" },
+				 "apply": [
+							{ "model": "block/crops/wheat/stage5/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage5/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage5/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "age": "5" },	
+				 "apply": [
+							{ "model": "block/crops/wheat/stage5/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage5/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage5/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "age": "5" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage5/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage5/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage5/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "age": "5" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage5/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/wheat/stage5/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage5/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "age": "5" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage5/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage5/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage5/6_3", "y": 0 , "weight":	98	 }
+							]
+				},
+				
+				
+				
+		{	"when": { "age": "0" },
+			  "apply": [
+							{ "model": "block/crops/wheat/stage0/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/wheat/stage0/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage0/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "age": "0" },
+				 "apply": [
+							{ "model": "block/crops/wheat/stage0/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage0/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage0/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "age": "0" },	
+				 "apply": [
+							{ "model": "block/crops/wheat/stage0/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage0/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage0/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "age": "0" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage0/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage0/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage0/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "age": "0" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage0/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/wheat/stage0/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage0/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "age": "0" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage0/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage0/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage0/6_3", "y": 0 , "weight":	98	 }
+							]
+				},
+				
+				
+				
+		{	"when": { "age": "1" },
+			  "apply": [
+							{ "model": "block/crops/wheat/stage1/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/wheat/stage1/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage1/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "age": "1" },
+				 "apply": [
+							{ "model": "block/crops/wheat/stage1/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage1/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage1/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "age": "1" },	
+				 "apply": [
+							{ "model": "block/crops/wheat/stage1/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage1/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage1/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "age": "1" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage1/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage1/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage1/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "age": "1" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage1/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/wheat/stage1/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage1/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "age": "1" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage1/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage1/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage1/6_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+
+
+
+		{	"when": { "age": "2" },
+			  "apply": [
+							{ "model": "block/crops/wheat/stage2/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/wheat/stage2/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage2/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "age": "2" },
+				 "apply": [
+							{ "model": "block/crops/wheat/stage2/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage2/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage2/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "age": "2" },	
+				 "apply": [
+							{ "model": "block/crops/wheat/stage2/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage2/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage2/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "age": "2" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage2/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage2/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage2/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "age": "2" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage2/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/wheat/stage2/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage2/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "age": "2" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage2/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage2/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage2/6_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+
+
+
+		{	"when": { "age": "3" },
+			  "apply": [
+							{ "model": "block/crops/wheat/stage3/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/wheat/stage3/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage3/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "age": "3" },
+				 "apply": [
+							{ "model": "block/crops/wheat/stage3/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage3/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage3/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "age": "3" },	
+				 "apply": [
+							{ "model": "block/crops/wheat/stage3/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage3/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage3/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "age": "3" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage3/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage3/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage3/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "age": "3" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage3/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/wheat/stage3/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage3/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "age": "3" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage3/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage3/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage3/6_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+
+
+
+		{	"when": { "age": "4" },
+			  "apply": [
+							{ "model": "block/crops/wheat/stage4/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/wheat/stage4/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage4/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "age": "4" },
+				 "apply": [
+							{ "model": "block/crops/wheat/stage4/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage4/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage4/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "age": "4" },	
+				 "apply": [
+							{ "model": "block/crops/wheat/stage4/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage4/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage4/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "age": "4" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage4/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage4/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage4/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "age": "4" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage4/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/wheat/stage4/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage4/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "age": "4" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage4/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage4/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage4/6_3", "y": 0 , "weight":	98	 }
+							]
+				},
+
+
+
+
+		{	"when": { "age": "6" },
+			  "apply": [
+							{ "model": "block/crops/wheat/stage6/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/wheat/stage6/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage6/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "age": "6" },
+				 "apply": [
+							{ "model": "block/crops/wheat/stage6/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage6/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage6/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "age": "6" },	
+				 "apply": [
+							{ "model": "block/crops/wheat/stage6/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage6/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage6/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "age": "6" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage6/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage6/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage6/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "age": "6" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage6/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/wheat/stage6/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage6/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "age": "6" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage6/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage6/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage6/6_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+
+
+
+		{	"when": { "age": "7" },
+			  "apply": [
+							{ "model": "block/crops/wheat/stage7/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/wheat/stage7/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage7/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "age": "7" },
+				 "apply": [
+							{ "model": "block/crops/wheat/stage7/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage7/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage7/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "age": "7" },	
+				 "apply": [
+							{ "model": "block/crops/wheat/stage7/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/wheat/stage7/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage7/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "age": "7" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage7/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage7/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/wheat/stage7/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "age": "7" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage7/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/wheat/stage7/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage7/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "age": "7" },		
+				 "apply": [
+							{ "model": "block/crops/wheat/stage7/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/wheat/stage7/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/wheat/stage7/6_3", "y": 0 , "weight":	98	 }
+							]
+				}				
+	]
+}		

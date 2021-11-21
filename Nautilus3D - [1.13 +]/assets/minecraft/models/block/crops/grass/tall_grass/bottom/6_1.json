@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/crops/base/6_1",
+	"textures": {
+				"crop": "minecraft:block/tall_grass_bottom"
+	}
+}

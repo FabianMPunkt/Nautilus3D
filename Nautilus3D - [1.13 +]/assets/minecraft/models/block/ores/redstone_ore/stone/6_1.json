@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/ores/redstone_ore/_parent/6_1",
+	"textures": {
+				"ore": "minecraft:block/redstone_ore"
+	}
+}

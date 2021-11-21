@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "": [
+		    { "model": "block/lily_pads/lily_pad_flower_0" },
+            { "model": "block/lily_pads/lily_pad_flower_0", "y": 90 },
+            { "model": "block/lily_pads/lily_pad_flower_0", "y": 180 },
+            { "model": "block/lily_pads/lily_pad_flower_0", "y": 270 },
+			{ "model": "block/lily_pads/lily_pad_flower_1" },
+            { "model": "block/lily_pads/lily_pad_flower_1", "y": 90 },
+            { "model": "block/lily_pads/lily_pad_flower_1", "y": 180 },
+            { "model": "block/lily_pads/lily_pad_flower_1", "y": 270 },
+            { "model": "block/lily_pads/lily_pad_0" },
+            { "model": "block/lily_pads/lily_pad_0", "y": 90 },
+            { "model": "block/lily_pads/lily_pad_0", "y": 180 },
+            { "model": "block/lily_pads/lily_pad_0", "y": 270 },
+			{ "model": "block/lily_pads/lily_pad_1" },
+			{ "model": "block/lily_pads/lily_pad_1", "y": 90 },
+			{ "model": "block/lily_pads/lily_pad_1", "y": 180 },
+			{ "model": "block/lily_pads/lily_pad_1", "y": 270 },
+			{ "model": "block/lily_pads/lily_pad_2" },
+			{ "model": "block/lily_pads/lily_pad_2", "y": 90 },
+			{ "model": "block/lily_pads/lily_pad_2", "y": 180 },
+			{ "model": "block/lily_pads/lily_pad_2", "y": 270 },
+			{ "model": "block/lily_pads/lily_pad_3" },
+			{ "model": "block/lily_pads/lily_pad_3", "y": 90 },
+			{ "model": "block/lily_pads/lily_pad_3", "y": 180 },
+			{ "model": "block/lily_pads/lily_pad_3", "y": 270 }
+        ]
+    }
+}

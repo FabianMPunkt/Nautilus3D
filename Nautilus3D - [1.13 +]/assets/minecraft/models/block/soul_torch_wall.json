@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/parents/parent_torch_wall",
+  "textures": {
+    "texture": "minecraft:block/soul_torch"
+  }
+}

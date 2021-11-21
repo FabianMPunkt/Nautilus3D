@@ -1,0 +1,54 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#all"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "east", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "south", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "west", "tintindex": 0},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "up", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "down", "tintindex": 0}
+			}
+		},
+		{
+			"name": "bush",
+			"from": [9, -8, -7],
+			"to": [9, 24, 25],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [9, 9, 9]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#bush", "tintindex": 0}
+			}
+		},
+		{
+			"name": "bush",
+			"from": [-7, -7.25, 9],
+			"to": [25, 24.75, 9],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [9, 10, 9]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#bush", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#bush", "tintindex": 0}
+			}
+		}
+	],
+	"groups": [
+		0,
+		{
+			"name": "bush",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [1, 2]
+		}
+	]
+}

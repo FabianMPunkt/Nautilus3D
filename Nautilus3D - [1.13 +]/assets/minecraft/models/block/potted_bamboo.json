@@ -1,0 +1,57 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"bamboo_singleleaf": "block/bamboo_singleleaf",
+		"particle": "block/flower_pot",
+		"bamboo_stalk": "block/bamboo_stalk"
+	},
+	"elements": [
+		{
+			"name": "Bamboo",
+			"from": [6.75, 4, 6.75],
+			"to": [9.25, 15.5, 9.25],
+			"faces": {
+				"north": {"uv": [9, 0, 12, 16], "texture": "#bamboo_stalk"},
+				"east": {"uv": [9, 0, 12, 16], "texture": "#bamboo_stalk"},
+				"south": {"uv": [9, 0, 12, 16], "texture": "#bamboo_stalk"},
+				"west": {"uv": [9, 0, 12, 16], "texture": "#bamboo_stalk"},
+				"up": {"uv": [13, 0, 16, 3], "texture": "#bamboo_stalk", "cullface": "up"}
+			}
+		},
+		{
+			"name": "leaf",
+			"from": [9, 12, 7.5],
+			"to": [15, 16, 7.5],
+			"faces": {
+				"north": {"uv": [1, 1, 7, 5], "texture": "#bamboo_singleleaf"},
+				"south": {"uv": [7, 1, 0, 5], "texture": "#bamboo_singleleaf"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 315, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 315, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"rotation": [0, 180, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

@@ -1,0 +1,214 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"cauldron_side": "block/cauldron_side",
+		"particle": "block/oak_planks",
+		"oak_planks": "block/oak_planks"
+	},
+	"elements": [
+		{
+			"name": "planks-upright",
+			"from": [2, 0, 15],
+			"to": [4, 16, 16],
+			"faces": {
+				"north": {"uv": [8, 0, 10, 16], "texture": "#oak_planks"},
+				"east": {"uv": [7, 0, 8, 16], "texture": "#oak_planks"},
+				"south": {"uv": [8, 0, 10, 16], "texture": "#oak_planks", "cullface": "south"},
+				"west": {"uv": [10, 0, 11, 16], "texture": "#oak_planks"},
+				"up": {"uv": [8, 0, 10, 1], "texture": "#oak_planks", "cullface": "up"},
+				"down": {"uv": [8, 15, 10, 16], "texture": "#oak_planks", "cullface": "down"}
+			}
+		},
+		{
+			"name": "planks-upright",
+			"from": [12, 0, 15],
+			"to": [14, 16, 16],
+			"faces": {
+				"north": {"uv": [2, 0, 4, 16], "texture": "#oak_planks"},
+				"east": {"uv": [1, 0, 2, 16], "texture": "#oak_planks"},
+				"south": {"uv": [2, 0, 4, 16], "texture": "#oak_planks", "cullface": "south"},
+				"west": {"uv": [4, 0, 5, 16], "texture": "#oak_planks"},
+				"up": {"uv": [2, 0, 4, 1], "texture": "#oak_planks", "cullface": "up"},
+				"down": {"uv": [2, 15, 4, 16], "texture": "#oak_planks", "cullface": "down"}
+			}
+		},
+		{
+			"name": "planks-sideways",
+			"from": [1, 1, 14.5],
+			"to": [15, 3, 15.5],
+			"faces": {
+				"north": {"uv": [1, 13, 15, 15], "texture": "#oak_planks"},
+				"east": {"uv": [0, 13, 1, 15], "texture": "#oak_planks"},
+				"south": {"uv": [1, 13, 15, 15], "texture": "#oak_planks", "cullface": "south"},
+				"west": {"uv": [15, 13, 16, 15], "texture": "#oak_planks"},
+				"up": {"uv": [1, 12, 15, 13], "texture": "#oak_planks"},
+				"down": {"uv": [1, 15, 15, 16], "texture": "#oak_planks"}
+			}
+		},
+		{
+			"name": "planks-sideways",
+			"from": [1, 5, 14.5],
+			"to": [15, 7, 15.5],
+			"faces": {
+				"north": {"uv": [1, 9, 15, 11], "texture": "#oak_planks"},
+				"east": {"uv": [0, 9, 1, 11], "texture": "#oak_planks"},
+				"south": {"uv": [1, 9, 15, 11], "texture": "#oak_planks", "cullface": "south"},
+				"west": {"uv": [15, 9, 16, 11], "texture": "#oak_planks"},
+				"up": {"uv": [1, 8, 15, 9], "texture": "#oak_planks"},
+				"down": {"uv": [1, 11, 15, 12], "texture": "#oak_planks"}
+			}
+		},
+		{
+			"name": "planks-sideways",
+			"from": [1, 9, 14.5],
+			"to": [8, 11, 15.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [3, 10, 15]},
+			"faces": {
+				"north": {"uv": [8, 5, 15, 7], "texture": "#oak_planks"},
+				"east": {"uv": [7, 5, 8, 7], "texture": "#oak_planks"},
+				"south": {"uv": [8, 5, 15, 7], "texture": "#oak_planks", "cullface": "south"},
+				"west": {"uv": [15, 5, 16, 7], "texture": "#oak_planks"},
+				"up": {"uv": [8, 4, 15, 5], "texture": "#oak_planks"},
+				"down": {"uv": [8, 7, 15, 8], "texture": "#oak_planks"}
+			}
+		},
+		{
+			"name": "planks-sideways",
+			"from": [8, 10, 14.5],
+			"to": [10, 11, 15.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [3, 10, 15]},
+			"faces": {
+				"north": {"uv": [6, 5, 8, 6], "texture": "#oak_planks"},
+				"east": {"uv": [6, 5, 7, 6], "texture": "#oak_planks"},
+				"south": {"uv": [6, 5, 8, 6], "texture": "#oak_planks", "cullface": "south"},
+				"up": {"uv": [6, 4, 8, 5], "texture": "#oak_planks"},
+				"down": {"uv": [6, 6, 8, 7], "texture": "#oak_planks"}
+			}
+		},
+		{
+			"name": "planks-sideways",
+			"from": [1, 13, 14.5],
+			"to": [15, 15, 15.5],
+			"faces": {
+				"north": {"uv": [1, 1, 15, 3], "texture": "#oak_planks"},
+				"east": {"uv": [0, 1, 1, 3], "texture": "#oak_planks"},
+				"south": {"uv": [1, 1, 15, 3], "texture": "#oak_planks", "cullface": "south"},
+				"west": {"uv": [15, 1, 16, 3], "texture": "#oak_planks"},
+				"up": {"uv": [1, 0, 15, 1], "texture": "#oak_planks"},
+				"down": {"uv": [1, 3, 15, 4], "texture": "#oak_planks"}
+			}
+		},
+		{
+			"name": "nail",
+			"from": [2.75, 1.75, 14.25],
+			"to": [3.25, 2.25, 14.75],
+			"faces": {
+				"north": {"uv": [4, 2, 6, 4], "texture": "#cauldron_side"},
+				"east": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"west": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"up": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"down": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"}
+			}
+		},
+		{
+			"name": "nail",
+			"from": [2.75, 5.75, 14.25],
+			"to": [3.25, 6.25, 14.75],
+			"faces": {
+				"north": {"uv": [4, 2, 6, 4], "texture": "#cauldron_side"},
+				"east": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"west": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"up": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"down": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"}
+			}
+		},
+		{
+			"name": "nail",
+			"from": [2.75, 9.75, 14.25],
+			"to": [3.25, 10.25, 14.75],
+			"faces": {
+				"north": {"uv": [4, 2, 6, 4], "texture": "#cauldron_side"},
+				"east": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"west": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"up": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"down": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"}
+			}
+		},
+		{
+			"name": "nail",
+			"from": [2.75, 13.75, 14.25],
+			"to": [3.25, 14.25, 14.75],
+			"faces": {
+				"north": {"uv": [4, 2, 6, 4], "texture": "#cauldron_side"},
+				"east": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"west": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"up": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"down": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"}
+			}
+		},
+		{
+			"name": "nail",
+			"from": [12.75, 13.75, 14.25],
+			"to": [13.25, 14.25, 14.75],
+			"faces": {
+				"north": {"uv": [4, 2, 6, 4], "texture": "#cauldron_side"},
+				"east": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"west": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"up": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"down": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"}
+			}
+		},
+		{
+			"name": "nail",
+			"from": [12.75, 9.75, 14.25],
+			"to": [13.25, 10.25, 15.75],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [13, 10, 15.25]},
+			"faces": {
+				"north": {"uv": [4, 2, 6, 4], "texture": "#cauldron_side"},
+				"east": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"west": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"up": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"down": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"}
+			}
+		},
+		{
+			"name": "nail",
+			"from": [12.75, 5.75, 14.25],
+			"to": [13.25, 6.25, 14.75],
+			"faces": {
+				"north": {"uv": [4, 2, 6, 4], "texture": "#cauldron_side"},
+				"east": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"west": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"up": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"down": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"}
+			}
+		},
+		{
+			"name": "nail",
+			"from": [12.75, 1.75, 14.25],
+			"to": [13.25, 2.25, 14.75],
+			"faces": {
+				"north": {"uv": [4, 2, 6, 4], "texture": "#cauldron_side"},
+				"east": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"west": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"up": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"},
+				"down": {"uv": [4, 4, 6, 6], "texture": "#cauldron_side"}
+			}
+		}
+	],
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		{
+			"name": "nails",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [7, 8, 9, 10, 11, 12, 13, 14]
+		}
+	]
+}

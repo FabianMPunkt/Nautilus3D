@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/rails/activator_rail/parents/parent_activator_rail_raised",
+  "textures": {
+    "#redstone": "minecraft:custom_textures/rails/redstone_bright",
+	"#activator": "minecraft:custom_textures/rails/activator_bright",
+	"particle": "block/activator_rail_on"
+  }
+}

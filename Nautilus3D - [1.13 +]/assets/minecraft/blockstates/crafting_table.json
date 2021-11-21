@@ -1,0 +1,43 @@
+{
+    "multipart": [
+			
+			{ "apply": [
+				{ "model": "block/crafting_table", "weight": 99 },
+				{ "model": "block/crafting_table", "weight": 98 , "y": 90 },
+				{ "model": "block/crafting_table", "weight": 99 , "y": 180 },
+				{ "model": "block/crafting_table", "weight": 95 , "y": 270 },
+				{ "model": "block/crafting_table", "weight": 96 },
+				{ "model": "block/crafting_table", "weight": 66 }
+				]
+			},
+
+			{ "apply": [
+				{ "model": "block/crafting_table/drawers", "weight": 99 , "y": 270 },
+				{ "model": "block/crafting_table/drawers", "weight": 98 , "y": 180 },
+				{ "model": "block/crafting_table/drawers", "weight": 99 , "y": 0 },
+				{ "model": "block/crafting_table/drawers", "weight": 95 , "y": 180 },
+				{ "model": "block/crafting_table/file", "weight": 96 , "y": 270 },
+				{ "model": "block/_placeholder", "weight":	66	}
+				]			
+			},
+			
+			{ "apply": [
+				{ "model": "block/crafting_table/file", "weight": 99 , "y": 180 },
+				{ "model": "block/crafting_table/file", "weight": 98 , "y": 0 },
+				{ "model": "block/crafting_table/file", "weight": 99 , "y": 270 },
+				{ "model": "block/crafting_table/file", "weight": 95 , "y": 0 },
+				{ "model": "block/crafting_table/drawers", "weight": 96 , "y": 180 },
+				{ "model": "block/_placeholder", "weight":	66	}
+				]			
+			},
+			
+			{ "apply": [
+				{ "model": "block/crafting_table/pencil", "weight": 25 },
+				{ "model": "block/crafting_table/pencil", "weight": 23 , "y": 90 },
+				{ "model": "block/crafting_table/pencil", "weight": 26 , "y": 180 },
+				{ "model": "block/crafting_table/pencil", "weight": 24 , "y": 270 },
+				{ "model": "block/_placeholder", "weight":	93	}
+				]			
+			}
+    ]
+}

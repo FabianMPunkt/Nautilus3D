@@ -1,0 +1,24 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"front": "block/bee_nest_front_honey"
+	},
+	"elements": [
+		{
+			"from": [11, 1, 0.5],
+			"to": [13, 2, 1],
+			"faces": {
+				"north": {"uv": [3, 14, 5, 15], "texture": "#front", "cullface": "north"},
+				"up": {"uv": [3, 14, 5, 14.5], "rotation": 180, "texture": "#front", "cullface": "north"}
+			}
+		},
+		{
+			"from": [2, 9, 0.25],
+			"to": [5, 10, 1],
+			"faces": {
+				"north": {"uv": [11, 6, 14, 6.5], "texture": "#front", "cullface": "north"},
+				"up": {"uv": [11, 6, 14, 6.5], "rotation": 180, "texture": "#front", "cullface": "north"}
+			}
+		}
+	]
+}

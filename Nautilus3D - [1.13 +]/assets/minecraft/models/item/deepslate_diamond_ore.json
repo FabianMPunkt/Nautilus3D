@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/ores/diamond_ore/diamond_ore_item",
+  "textures": {
+    "ore": "minecraft:block/deepslate_diamond_ore"
+  }
+}

@@ -1,0 +1,87 @@
+{
+   "multipart": [
+				{ "apply": [
+								{ "model": "block/cactus", "weight":	94	},
+								{ "model": "block/cactus/cactus_1", "weight":	92	}
+							]
+				},
+
+				{ "apply": [
+								{ "model": "block/cactus/flower/cactus_flower_1_1", "weight":	74	},
+								{ "model": "block/cactus/flower/cactus_flower_1_2", "weight":	72	},
+								{ "model": "block/cactus/flower/cactus_flower_2_1", "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_2_2", "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_3_1", "weight":	71	},
+								{ "model": "block/cactus/flower/cactus_flower_3_2", "weight":	74	},
+								{ "model": "block/cactus/flower/cactus_flower_4_1", "weight":	75	},
+								{ "model": "block/cactus/flower/cactus_flower_4_2", "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_5_1", "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_5_2", "weight":	71	},
+								{ "model": "block/cactus/flower/cactus_flower_6_1", "weight":	74	},
+								{ "model": "block/cactus/flower/cactus_flower_6_2", "weight":	75	},
+								{ "model": "block/cactus/flower/cactus_flower_7_1", "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_7_2", "weight":	73	},
+								{ "model": "block/_placeholder", "weight":	94	}
+							]			
+				},
+
+				{ "apply": [
+								{ "model": "block/cactus/flower/cactus_flower_1_1", "y": 90 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_1_2", "y": 90 , "weight":	75	},
+								{ "model": "block/cactus/flower/cactus_flower_2_1", "y": 90 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_2_2", "y": 90 , "weight":	72	},
+								{ "model": "block/cactus/flower/cactus_flower_3_1", "y": 90 , "weight":	71	},
+								{ "model": "block/cactus/flower/cactus_flower_3_2", "y": 90 , "weight":	76	},
+								{ "model": "block/cactus/flower/cactus_flower_4_1", "y": 90 , "weight":	79	},
+								{ "model": "block/cactus/flower/cactus_flower_4_2", "y": 90 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_5_1", "y": 90 , "weight":	74	},
+								{ "model": "block/cactus/flower/cactus_flower_5_2", "y": 90 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_6_1", "y": 90 , "weight":	74	},
+								{ "model": "block/cactus/flower/cactus_flower_6_2", "y": 90 , "weight":	71	},
+								{ "model": "block/cactus/flower/cactus_flower_7_1", "y": 90 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_7_2", "y": 90 , "weight":	77	},
+								{ "model": "block/_placeholder", "weight":	98	}
+							]
+				},
+
+				{ "apply": [
+								{ "model": "block/cactus/flower/cactus_flower_1_1", "y": 180 , "weight":	74	},
+								{ "model": "block/cactus/flower/cactus_flower_1_2", "y": 180 , "weight":	72	},
+								{ "model": "block/cactus/flower/cactus_flower_2_1", "y": 180 , "weight":	77	},
+								{ "model": "block/cactus/flower/cactus_flower_2_2", "y": 180 , "weight":	74	},
+								{ "model": "block/cactus/flower/cactus_flower_3_1", "y": 180 , "weight":	79	},
+								{ "model": "block/cactus/flower/cactus_flower_3_2", "y": 180 , "weight":	72	},
+								{ "model": "block/cactus/flower/cactus_flower_4_1", "y": 180 , "weight":	75	},
+								{ "model": "block/cactus/flower/cactus_flower_4_2", "y": 180 , "weight":	79	},
+								{ "model": "block/cactus/flower/cactus_flower_5_1", "y": 180 , "weight":	71	},
+								{ "model": "block/cactus/flower/cactus_flower_5_2", "y": 180 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_6_1", "y": 180 , "weight":	70	},
+								{ "model": "block/cactus/flower/cactus_flower_6_2", "y": 180 , "weight":	75	},
+								{ "model": "block/cactus/flower/cactus_flower_7_1", "y": 180 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_7_2", "y": 180 , "weight":	75	},
+								{ "model": "block/_placeholder", "weight":	95	}
+							]
+				},
+
+				{ "apply": [
+								{ "model": "block/cactus/flower/cactus_flower_1_1", "y": 270 , "weight":	78	},
+								{ "model": "block/cactus/flower/cactus_flower_1_2", "y": 270 , "weight":	72	},
+								{ "model": "block/cactus/flower/cactus_flower_2_1", "y": 270 , "weight":	75	},
+								{ "model": "block/cactus/flower/cactus_flower_2_2", "y": 270 , "weight":	71	},
+								{ "model": "block/cactus/flower/cactus_flower_3_1", "y": 270 , "weight":	71	},
+								{ "model": "block/cactus/flower/cactus_flower_3_2", "y": 270 , "weight":	74	},
+								{ "model": "block/cactus/flower/cactus_flower_4_1", "y": 270 , "weight":	77	},
+								{ "model": "block/cactus/flower/cactus_flower_4_2", "y": 270 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_5_1", "y": 270 , "weight":	75	},
+								{ "model": "block/cactus/flower/cactus_flower_5_2", "y": 270 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_6_1", "y": 270 , "weight":	78	},
+								{ "model": "block/cactus/flower/cactus_flower_6_2", "y": 270 , "weight":	74	},
+								{ "model": "block/cactus/flower/cactus_flower_7_1", "y": 270 , "weight":	73	},
+								{ "model": "block/cactus/flower/cactus_flower_7_2", "y": 270 , "weight":	74	},
+								{ "model": "block/_placeholder", "weight":	92	}
+							]
+				}
+
+
+		]
+}

@@ -1,0 +1,286 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"soul_lantern": "custom_textures/lantern_empty",
+		"particle": "#texture",
+		"lantern": "#texture"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [5, 0, 5],
+			"to": [11, 1, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 8, 6, 9], "texture": "#soul_lantern"},
+				"east": {"uv": [0, 8, 6, 9], "texture": "#soul_lantern"},
+				"south": {"uv": [0, 8, 6, 9], "texture": "#soul_lantern"},
+				"west": {"uv": [0, 8, 6, 9], "texture": "#soul_lantern"},
+				"up": {"uv": [0, 9, 6, 15], "texture": "#soul_lantern"},
+				"down": {"uv": [0, 9, 6, 15], "texture": "#soul_lantern", "cullface": "down"}
+			}
+		},
+		{
+			"name": "sides",
+			"from": [5, 1, 5],
+			"to": [6, 6, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"},
+				"east": {"uv": [5, 6, 6, 11], "texture": "#soul_lantern"},
+				"south": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"},
+				"west": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "sides",
+			"from": [5, 1, 10],
+			"to": [6, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"},
+				"east": {"uv": [5, 6, 6, 11], "texture": "#soul_lantern"},
+				"south": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"},
+				"west": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "sides",
+			"from": [10, 1, 10],
+			"to": [11, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"},
+				"east": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"},
+				"south": {"uv": [5, 3, 6, 8], "texture": "#soul_lantern"},
+				"west": {"uv": [5, 3, 6, 8], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "sides",
+			"from": [10, 1, 5],
+			"to": [11, 6, 6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"},
+				"east": {"uv": [5, 3, 6, 8], "texture": "#soul_lantern"},
+				"south": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"},
+				"west": {"uv": [0, 3, 1, 8], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [5, 6, 5],
+			"to": [11, 7, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 2, 6, 3], "texture": "#soul_lantern"},
+				"east": {"uv": [0, 2, 6, 3], "texture": "#soul_lantern"},
+				"south": {"uv": [0, 2, 6, 3], "texture": "#soul_lantern"},
+				"west": {"uv": [0, 2, 6, 3], "texture": "#soul_lantern"},
+				"up": {"uv": [0, 9, 6, 15], "texture": "#soul_lantern"},
+				"down": {"uv": [0, 9, 6, 15], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "toptop",
+			"from": [6, 8, 6],
+			"to": [10, 9, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [1, 0, 5, 1], "texture": "#soul_lantern"},
+				"east": {"uv": [1, 0, 5, 1], "texture": "#soul_lantern"},
+				"south": {"uv": [1, 0, 5, 1], "texture": "#soul_lantern"},
+				"west": {"uv": [1, 0, 5, 1], "texture": "#soul_lantern"},
+				"up": {"uv": [1, 10, 5, 14], "texture": "#soul_lantern"},
+				"down": {"uv": [1, 10, 5, 14], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "thing",
+			"from": [6, 7, 6],
+			"to": [7, 8, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [4, 1, 5, 2], "texture": "#soul_lantern"},
+				"east": {"uv": [4, 1, 5, 2], "texture": "#soul_lantern"},
+				"south": {"uv": [1, 1, 2, 2], "texture": "#soul_lantern"},
+				"west": {"uv": [5, 5, 6, 6], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "thing",
+			"from": [6, 7, 9],
+			"to": [7, 8, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [4, 1, 5, 2], "texture": "#soul_lantern"},
+				"east": {"uv": [1, 1, 2, 2], "texture": "#soul_lantern"},
+				"south": {"uv": [1, 1, 2, 2], "texture": "#soul_lantern"},
+				"west": {"uv": [5, 5, 6, 6], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "thing",
+			"from": [9, 7, 9],
+			"to": [10, 8, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [1, 1, 2, 2], "texture": "#soul_lantern"},
+				"east": {"uv": [1, 1, 2, 2], "texture": "#soul_lantern"},
+				"south": {"uv": [4, 1, 5, 2], "texture": "#soul_lantern"},
+				"west": {"uv": [5, 5, 6, 6], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "thing",
+			"from": [9, 7, 6],
+			"to": [10, 8, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [1, 1, 2, 2], "texture": "#soul_lantern"},
+				"east": {"uv": [4, 1, 5, 2], "texture": "#soul_lantern"},
+				"south": {"uv": [4, 1, 5, 2], "texture": "#soul_lantern"},
+				"west": {"uv": [5, 5, 6, 6], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "inside",
+			"from": [6, 1, 6],
+			"to": [10, 6, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 7, 9.25]},
+			"faces": {
+				"north": {"uv": [1, 3, 5, 8], "texture": "#lantern"},
+				"east": {"uv": [1, 3, 5, 8], "texture": "#lantern"},
+				"south": {"uv": [1, 3, 5, 8], "texture": "#lantern"},
+				"west": {"uv": [1, 3, 5, 8], "texture": "#lantern"}
+			}
+		},
+		{
+			"name": "inside",
+			"from": [6.75, 7, 6.75],
+			"to": [9.25, 8, 9.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [2, 1, 4, 2], "texture": "#lantern"},
+				"east": {"uv": [2, 1, 4, 2], "texture": "#lantern"},
+				"south": {"uv": [2, 1, 4, 2], "texture": "#lantern"},
+				"west": {"uv": [2, 1, 4, 2], "texture": "#lantern"}
+			}
+		},
+		{
+			"name": "hook",
+			"from": [7.5, 10.25, 7.75],
+			"to": [8.5, 11, 8.25],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 7.25, 8]},
+			"faces": {
+				"north": {"uv": [12, 1, 13, 1.5], "texture": "#soul_lantern"},
+				"south": {"uv": [12, 1, 13, 1.75], "texture": "#soul_lantern"},
+				"up": {"uv": [12, 1, 13, 1.5], "texture": "#soul_lantern"},
+				"down": {"uv": [12, 1, 13, 1.5], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "hook",
+			"from": [6.75, 9, 7.75],
+			"to": [7.5, 11, 8.25],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [11, 10, 11.75, 12], "texture": "#soul_lantern"},
+				"east": {"uv": [11, 10, 11.5, 12], "texture": "#soul_lantern"},
+				"south": {"uv": [11, 10, 11.75, 12], "texture": "#soul_lantern"},
+				"west": {"uv": [11, 10, 11.5, 12], "texture": "#soul_lantern"},
+				"up": {"uv": [11, 10, 11.5, 10.5], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "hook",
+			"from": [8.5, 9, 7.75],
+			"to": [9.25, 11, 8.25],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [13, 10, 13.75, 12], "texture": "#soul_lantern"},
+				"east": {"uv": [13, 10, 13.5, 12], "texture": "#soul_lantern"},
+				"south": {"uv": [13, 10, 13.75, 12], "texture": "#soul_lantern"},
+				"west": {"uv": [13, 10, 13.5, 12], "texture": "#soul_lantern"},
+				"up": {"uv": [13, 10, 13.5, 10.5], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "chainlink",
+			"from": [8, 9, 7],
+			"to": [9, 9.5, 7.75],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8.5, 9.25, 9]},
+			"faces": {
+				"north": {"uv": [12, 4, 13, 4.75], "rotation": 90, "texture": "#soul_lantern"},
+				"south": {"uv": [12, 4, 13, 4.75], "rotation": 90, "texture": "#soul_lantern"},
+				"up": {"uv": [12, 4, 13, 4.75], "rotation": 180, "texture": "#soul_lantern"},
+				"down": {"uv": [12, 4, 13, 4.75], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "chainlink",
+			"from": [9, 9, 7],
+			"to": [9.75, 9.5, 11],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8.5, 9.25, 9]},
+			"faces": {
+				"north": {"uv": [11, 4, 11.5, 4.5], "rotation": 90, "texture": "#soul_lantern"},
+				"east": {"uv": [11, 1, 11.5, 5], "rotation": 270, "texture": "#soul_lantern"},
+				"south": {"uv": [11, 1, 11.5, 1.5], "rotation": 90, "texture": "#soul_lantern"},
+				"west": {"uv": [11, 1, 11.5, 5], "rotation": 90, "texture": "#soul_lantern"},
+				"up": {"uv": [11, 1, 11.75, 5], "rotation": 180, "texture": "#soul_lantern"},
+				"down": {"uv": [11, 1, 11.75, 5], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "chainlink",
+			"from": [7.25, 9, 7],
+			"to": [8, 9.5, 11],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8.5, 9.25, 9]},
+			"faces": {
+				"north": {"uv": [13, 4, 13.5, 4.5], "rotation": 90, "texture": "#soul_lantern"},
+				"east": {"uv": [13, 1, 13.5, 5], "rotation": 270, "texture": "#soul_lantern"},
+				"south": {"uv": [11, 1, 11.5, 1.5], "rotation": 90, "texture": "#soul_lantern"},
+				"west": {"uv": [13, 1, 13.5, 5], "rotation": 90, "texture": "#soul_lantern"},
+				"up": {"uv": [13, 1, 13.75, 5], "rotation": 180, "texture": "#soul_lantern"},
+				"down": {"uv": [13, 1, 13.75, 5], "texture": "#soul_lantern"}
+			}
+		},
+		{
+			"name": "chainlink",
+			"from": [8, 9, 10.25],
+			"to": [9, 9.5, 11],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8.5, 9.25, 9]},
+			"faces": {
+				"north": {"uv": [11, 1, 12, 1.5], "rotation": 90, "texture": "#soul_lantern"},
+				"south": {"uv": [11, 1, 12, 1.5], "rotation": 90, "texture": "#soul_lantern"},
+				"up": {"uv": [11, 1, 12, 1.5], "rotation": 180, "texture": "#soul_lantern"},
+				"down": {"uv": [11, 1, 12, 1.5], "texture": "#soul_lantern"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Lantern",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,
+				{
+					"name": "Hook",
+					"origin": [8, 8, 8],
+					"children": [13, 14, 15]
+				}
+			]
+		},
+		{
+			"name": "Chain",
+			"origin": [8, 7.5, 8],
+			"children": [
+				{
+					"name": "Element",
+					"origin": [8, 9.25, 8],
+					"children": [16, 17, 18, 19]
+				}
+			]
+		}
+	]
+}

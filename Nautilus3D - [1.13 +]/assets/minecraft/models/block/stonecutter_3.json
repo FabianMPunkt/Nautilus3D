@@ -1,0 +1,79 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"cobblestone": "block/cobblestone"
+	},
+	"elements": [
+		{
+			"name": "Cube",
+			"from": [8, 8, 12],
+			"to": [10, 9, 13],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [5, 6, 7, 7], "texture": "#cobblestone"},
+				"east": {"uv": [5, 8, 6, 9], "texture": "#cobblestone"},
+				"south": {"uv": [5, 6, 7, 7], "texture": "#cobblestone"},
+				"west": {"uv": [8, 6, 9, 7], "texture": "#cobblestone"},
+				"up": {"uv": [2, 3, 4, 4], "texture": "#cobblestone"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [5, 8, 5],
+			"to": [7, 8.5, 6],
+			"faces": {
+				"north": {"uv": [4, 5, 6, 5.5], "texture": "#cobblestone"},
+				"east": {"uv": [6, 4, 7, 4.5], "texture": "#cobblestone"},
+				"south": {"uv": [5, 6, 7, 6.5], "texture": "#cobblestone"},
+				"west": {"uv": [4, 8, 5, 8.5], "texture": "#cobblestone"},
+				"up": {"uv": [6, 5, 8, 6], "texture": "#cobblestone"}
+			}
+		},
+		{
+			"name": "Cube",
+			"from": [11, 8, 5.5],
+			"to": [12.5, 8.5, 6.5],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [4, 5, 5.5, 5.5], "texture": "#cobblestone"},
+				"east": {"uv": [6, 4, 7, 4.5], "texture": "#cobblestone"},
+				"south": {"uv": [5, 6, 6.5, 6.5], "texture": "#cobblestone"},
+				"west": {"uv": [4, 8, 5, 8.5], "texture": "#cobblestone"},
+				"up": {"uv": [6, 5, 7.5, 6], "texture": "#cobblestone"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 315, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 315, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"rotation": [0, 180, 0]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "Bits",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2]
+		}
+	]
+}

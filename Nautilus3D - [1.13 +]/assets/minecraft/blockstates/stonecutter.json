@@ -1,0 +1,49 @@
+{
+    "multipart": [
+
+		{	"when":		{ "facing": "north" },
+			"apply":	{ "model": "block/stonecutter" }},
+
+		{	"when":		{ "facing": "east" },
+			"apply":	{ "model": "block/stonecutter", "y": 90 }},
+
+		{	"when":		{ "facing": "south" },
+			"apply":	{ "model": "block/stonecutter", "y": 180 }},
+
+		{	"when":		{ "facing": "west" },
+			"apply":	{ "model": "block/stonecutter", "y": 270 }},
+
+
+		{	"when":		{ "facing": "north" },
+			"apply":	[	{ "model": "block/stonecutter_1" },
+							{ "model": "block/stonecutter_2" },
+							{ "model": "block/stonecutter_3" },
+							{ "model": "block/_placeholder", "weight": 3 }
+			]
+		},
+
+		{	"when":		{ "facing": "east" },
+			"apply":	[	{ "model": "block/stonecutter_1", "y": 90 },
+							{ "model": "block/stonecutter_2", "y": 90 },
+							{ "model": "block/stonecutter_3", "y": 90 },
+							{ "model": "block/_placeholder", "weight": 3 }
+			]
+		},
+
+		{	"when":		{ "facing": "south" },
+			"apply":	[	{ "model": "block/stonecutter_1", "y": 180 },
+							{ "model": "block/stonecutter_2", "y": 180 },
+							{ "model": "block/stonecutter_3", "y": 180 },
+							{ "model": "block/_placeholder", "weight": 3 }
+			]
+		},
+
+		{	"when":		{ "facing": "west" },
+			"apply":	[	{ "model": "block/stonecutter_1", "y": 270 },
+							{ "model": "block/stonecutter_2", "y": 270 },
+							{ "model": "block/stonecutter_3", "y": 270 },
+							{ "model": "block/_placeholder", "weight": 3 }
+			]
+		}
+    ]
+}

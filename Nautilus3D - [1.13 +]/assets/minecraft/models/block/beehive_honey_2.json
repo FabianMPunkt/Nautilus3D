@@ -1,0 +1,64 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"1_front": "block/beehive_front_honey"
+	},
+	"elements": [
+		{
+			"name": "Honey",
+			"from": [6, 5, 1],
+			"to": [8, 6, 2],
+			"faces": {
+				"north": {"uv": [8, 10, 10, 11], "texture": "#1_front", "cullface": "north"},
+				"east": {"uv": [8, 10, 9, 11], "texture": "#1_front", "cullface": "north"}
+			}
+		},
+		{
+			"name": "Honey",
+			"from": [8, 5, 1.25],
+			"to": [10, 6, 2],
+			"faces": {
+				"north": {"uv": [6, 10, 8, 11], "texture": "#1_front", "cullface": "north"}
+			}
+		},
+		{
+			"name": "Honey",
+			"from": [13, 11, 0.6],
+			"to": [15, 12, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 8, 8]},
+			"faces": {
+				"north": {"uv": [1, 4, 3, 5], "texture": "#1_front", "cullface": "north"},
+				"west": {"uv": [2, 4, 3, 5], "texture": "#1_front", "cullface": "north"},
+				"down": {"uv": [3, 4, 1, 4.4], "texture": "#1_front", "cullface": "north"}
+			}
+		},
+		{
+			"name": "Honey",
+			"from": [1.00003, 11, 0.6],
+			"to": [4.00003, 12, 1],
+			"faces": {
+				"north": {"uv": [12, 4, 15, 5], "texture": "#1_front", "cullface": "north"},
+				"east": {"uv": [12, 4, 12.4, 5], "rotation": 180, "texture": "#1_front", "cullface": "north"},
+				"down": {"uv": [12, 4, 15, 4.4], "rotation": 180, "texture": "#1_front", "cullface": "north"}
+			}
+		},
+		{
+			"name": "Honey",
+			"from": [8.00001, 11, 0.85],
+			"to": [11.00001, 12, 1],
+			"faces": {
+				"north": {"uv": [5, 4, 8, 5], "texture": "#1_front", "cullface": "north"},
+				"east": {"uv": [5, 4, 5.15, 5], "texture": "#1_front", "cullface": "north"},
+				"west": {"uv": [7, 4, 7.15, 5], "texture": "#1_front", "cullface": "north"},
+				"down": {"uv": [8, 4, 5, 4.15], "texture": "#1_front", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Honey",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

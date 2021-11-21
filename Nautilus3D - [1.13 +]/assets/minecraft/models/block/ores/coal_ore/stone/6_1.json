@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/ores/coal_ore/_parent/6_1",
+	"textures": {
+				"ore": "minecraft:block/coal_ore"
+	}
+}

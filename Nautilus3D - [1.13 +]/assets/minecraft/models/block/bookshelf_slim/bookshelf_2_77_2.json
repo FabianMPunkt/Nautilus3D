@@ -1,0 +1,32 @@
+{
+	"credit": "Made by playtrix with Blockbench",
+	"textures": {
+		"0": "block/bookshelf",
+		"particle": "block/bookshelf"
+	},
+	"elements": [
+		{
+			"from": [8, 9, 0.5],
+			"to": [9, 14, 1],
+			"faces": {
+				"north": {"uv": [8, 10, 9, 15], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [8, 10, 8.5, 15], "texture": "#0", "cullface": "north"},
+				"west": {"uv": [8, 10, 8.5, 15], "texture": "#0", "cullface": "north"},
+				"up": {"uv": [8, 10, 9, 10.5], "texture": "#0", "cullface": "north"}
+			}
+		} 
+	],
+	"groups": [
+		{
+			"name": "bottom",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "88",
+					"origin": [8, 8, 8],
+					"children": [0, 1]
+				}
+			]
+		}
+	]
+}

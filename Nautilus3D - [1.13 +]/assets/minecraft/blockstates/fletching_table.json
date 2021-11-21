@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/fletching_table" },
+		{ "model": "block/fletching_table", "y": 90},
+		{ "model": "block/fletching_table", "y": 180},
+		{ "model": "block/fletching_table", "y": 270}
+	]
+    }
+}

@@ -1,0 +1,63 @@
+{
+	"multipart":[
+		{	"when": { "half": "lower"},	
+				 "apply": [
+							{ "model": "block/crops/grass/tall_grass/bottom/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/grass/tall_grass/bottom/3_3", "y": 0 , "weight":	93	 },
+							{ "model": "block/_placeholder", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "half": "lower"},		
+				 "apply": [
+							{ "model": "block/crops/grass/tall_grass/bottom/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/grass/tall_grass/bottom/4_3", "y": 0 , "weight":	99	 },
+							{ "model": "block/_placeholder", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "half": "lower"},		
+				 "apply": [
+							{ "model": "block/crops/grass/tall_grass/bottom/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/grass/tall_grass/bottom/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/grass/tall_grass/bottom/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "half": "lower"},		
+				 "apply": [
+							{ "model": "block/crops/grass/tall_grass/bottom/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/grass/tall_grass/bottom/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/grass/tall_grass/bottom/6_3", "y": 0 , "weight":	98	 }
+							]
+				},
+				
+				
+				
+		{	"when": { "half": "upper" },	
+				 "apply": [
+							{ "model": "block/crops/grass/tall_grass/top/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/grass/tall_grass/top/3_3", "y": 0 , "weight":	93	 },
+							{ "model": "block/_placeholder", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "half": "upper" },		
+				 "apply": [
+							{ "model": "block/crops/grass/tall_grass/top/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/grass/tall_grass/top/4_3", "y": 0 , "weight":	99	 },
+							{ "model": "block/_placeholder", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "half": "upper" },		
+				 "apply": [
+							{ "model": "block/crops/grass/tall_grass/top/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/grass/tall_grass/top/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/grass/tall_grass/top/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "half": "upper" },		
+				 "apply": [
+							{ "model": "block/crops/grass/tall_grass/top/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/grass/tall_grass/top/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/grass/tall_grass/top/6_3", "y": 0 , "weight":	98	 }
+							]
+				}
+	]
+}

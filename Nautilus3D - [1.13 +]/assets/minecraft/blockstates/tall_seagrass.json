@@ -1,0 +1,91 @@
+{
+	"multipart":[
+				{	"when": { "half": "lower"},
+			  "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "half": "lower"},
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "half": "lower"},	
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "half": "lower"},		
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "half": "lower"},		
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "half": "lower"},		
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/bottom/6_3", "y": 0 , "weight":	98	 }
+							]
+				},
+				
+				
+				
+		{	"when": { "half": "upper" },
+			  "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/top/1_1", "y": 0 , "weight":	99	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/1_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/1_3", "y": 0 , "weight":	97	 }
+							]
+				},
+		{	"when": { "half": "upper" },
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/top/2_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/2_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/2_3", "y": 0 , "weight":	98	 }
+							]
+				},	
+		{	"when": { "half": "upper" },	
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/top/3_1", "y": 0 , "weight":	97	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/3_3", "y": 0 , "weight":	93	 }
+							]
+				},
+		{	"when": { "half": "upper" },		
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/top/4_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/4_3", "y": 0 , "weight":	99	 }
+							]
+				},
+		{	"when": { "half": "upper" },		
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/top/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+		{	"when": { "half": "upper" },		
+				 "apply": [
+							{ "model": "block/crops/seagrass/tall_seagrass/top/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "block/crops/seagrass/tall_seagrass/top/6_3", "y": 0 , "weight":	98	 }
+							]
+				}
+	]
+}

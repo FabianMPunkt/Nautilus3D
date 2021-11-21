@@ -1,0 +1,83 @@
+{
+    "multipart": [
+
+		{	"when":		{ "facing": "north" },
+			"apply":	{ "model": "item/lectern" }
+		},
+
+
+		{	"when":		{ "facing": "east" },
+			"apply":	{ "model": "item/lectern", "y": 90 }
+		},
+
+
+		{	"when":		{ "facing": "south" },
+			"apply":	{ "model": "item/lectern", "y": 180 }
+		},
+
+
+		{	"when":		{ "facing": "west" },
+			"apply":	{ "model": "item/lectern", "y": 270 }
+		},
+		
+		
+
+		{	"when":		{ "facing": "north" },
+			"apply":	[	{ "model": "block/lectern/lectern_candle_0" },
+							{ "model": "block/lectern/lectern_candle_1" },
+							{ "model": "block/lectern/lectern_candle_2" }
+			]
+		},
+
+
+		{	"when":		{ "facing": "east" },
+			"apply":	[	{ "model": "block/lectern/lectern_candle_0", "y": 90 },
+							{ "model": "block/lectern/lectern_candle_1", "y": 90 },
+							{ "model": "block/lectern/lectern_candle_2", "y": 90 }
+			]
+		},
+
+
+		{	"when":		{ "facing": "south" },
+			"apply":	[	{ "model": "block/lectern/lectern_candle_0", "y": 180 },
+							{ "model": "block/lectern/lectern_candle_1", "y": 180 },
+							{ "model": "block/lectern/lectern_candle_2", "y": 180 }
+			]
+		},
+
+
+
+		{	"when":		{ "facing": "west" },
+			"apply":	[	{ "model": "block/lectern/lectern_candle_0", "y": 270 },
+							{ "model": "block/lectern/lectern_candle_1", "y": 270 },
+							{ "model": "block/lectern/lectern_candle_2", "y": 270 }
+			]
+		},
+		
+				{	"when":		{ "facing": "north" },
+			"apply":	[	{ "model": "block/lectern/lectern_key" }
+			]
+		},
+
+
+		{	"when":		{ "facing": "east" },
+			"apply":	[	{ "model": "block/lectern/lectern_key", "y": 90 , "weight":	3 },
+							{ "model": "block/_placeholder", "weight":	10 }
+			]
+		},
+
+
+		{	"when":		{ "facing": "south" },
+			"apply":	[	{ "model": "block/lectern/lectern_key", "y": 180 , "weight":	3 },
+							{ "model": "block/_placeholder", "weight":	10 }
+			]
+		},
+
+
+		{	"when":		{ "facing": "west" },
+			"apply":	[	{ "model": "block/lectern/lectern_key", "y": 270 , "weight":	3 },
+							{ "model": "block/_placeholder", "weight":	10 }
+			]
+		}
+	]
+}

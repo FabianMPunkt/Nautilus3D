@@ -1,0 +1,34 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"1": "entity/bell/bell_body",
+		"bar": "block/dark_oak_planks",
+		"particle": "entity/bell/bell_body"
+	},
+	"elements": [
+		{
+			"from": [3, 13, 7],
+			"to": [16, 15, 9],
+			"faces": {
+				"north": {"uv": [2, 2, 14, 4], "texture": "#bar"},
+				"east": {"uv": [5, 4, 7, 6], "texture": "#bar", "cullface": "east"},
+				"south": {"uv": [2, 3, 14, 5], "texture": "#bar"},
+				"west": {"uv": [5, 4, 7, 6], "texture": "#bar"},
+				"up": {"uv": [2, 3, 14, 5], "texture": "#bar"},
+				"down": {"uv": [2, 3, 14, 5], "texture": "#bar"}
+			}
+		},
+		{
+			"from": [7, 3.25, 7],
+			"to": [9, 5.25, 9],
+			"faces": {
+				"north": {"uv": [3, 6.5, 4, 7.5], "texture": "#1"},
+				"east": {"uv": [3, 6.5, 4, 7.5], "texture": "#1"},
+				"south": {"uv": [3, 6.5, 4, 7.5], "texture": "#1"},
+				"west": {"uv": [3, 6.5, 4, 7.5], "texture": "#1"},
+				"up": {"uv": [3, 6.5, 4, 7.5], "texture": "#1"},
+				"down": {"uv": [3, 6.5, 4, 7.5], "texture": "#1"}
+			}
+		}
+	]
+}

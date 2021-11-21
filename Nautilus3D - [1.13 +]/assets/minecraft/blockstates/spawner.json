@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/spawner" },
+		{ "model": "block/spawner", "y": 90},
+		{ "model": "block/spawner", "y": 180},
+		{ "model": "block/spawner", "y": 270}
+	]
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"parent": "block/block",
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 6, 9],
+			"faces": {
+				"north": {"uv": [0, 8, 2, 14], "texture": "#all"},
+				"east": {"uv": [0, 8, 2, 14], "texture": "#all"},
+				"south": {"uv": [0, 8, 2, 14], "texture": "#all"},
+				"west": {"uv": [0, 8, 2, 14], "texture": "#all"},
+				"up": {"uv": [0, 6, 2, 8], "texture": "#all"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#all", "cullface": "down"}
+			}
+		},
+		{
+			"from": [7.75, 6, 7.75],
+			"to": [8.25, 7, 8.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [0, 5, 1, 6], "texture": "#all"},
+				"east": {"uv": [0, 5, 1, 6], "texture": "#all"},
+				"south": {"uv": [0, 5, 1, 6], "texture": "#all"},
+				"west": {"uv": [0, 5, 1, 6], "texture": "#all"},
+				"up": {"uv": [0, 5, 1, 6], "rotation": 90, "texture": "#all"}
+			}
+		}
+	]
+}

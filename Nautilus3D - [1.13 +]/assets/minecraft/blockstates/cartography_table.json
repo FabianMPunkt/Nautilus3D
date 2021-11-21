@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+		{ "model": "block/cartography_table" },
+		{ "model": "block/cartography_table", "y": 90},
+		{ "model": "block/cartography_table", "y": 180},
+		{ "model": "block/cartography_table", "y": 270}
+	]
+    }
+}

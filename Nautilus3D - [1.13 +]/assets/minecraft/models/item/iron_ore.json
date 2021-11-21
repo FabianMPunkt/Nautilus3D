@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/ores/iron_ore/iron_ore_item",
+  "textures": {
+    "ore": "minecraft:block/iron_ore"
+  }
+}
