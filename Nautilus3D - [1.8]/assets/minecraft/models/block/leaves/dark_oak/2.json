@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaves/_base/leaves2",
+  "textures": {
+    "all": "minecraft:blocks/leaves_big_oak",
+	"bush": "minecraft:custom_textures/leaves/bushy_dark_oak_leaves"
+  }
+}
