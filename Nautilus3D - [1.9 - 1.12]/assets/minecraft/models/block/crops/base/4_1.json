@@ -1,0 +1,19 @@
+{
+	"credit": "Made by playtrix using Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"0": "#crop"
+	},
+	"elements": [
+		{
+			"name": "4_1",
+			"from": [0, -1, 12],
+			"to": [16, 15, 12],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}

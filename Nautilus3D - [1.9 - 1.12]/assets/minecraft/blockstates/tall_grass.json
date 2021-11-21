@@ -1,0 +1,28 @@
+{
+	"multipart":[
+				{ "apply": [
+							{ "model": "crops/grass/3_2", "y": 0 , "weight":	95	 },
+							{ "model": "crops/grass/3_3", "y": 0 , "weight":	93	 },
+							{ "model": "_placeholder", "y": 0 , "weight":	93	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "crops/grass/4_2", "y": 0 , "weight":	92	 },
+							{ "model": "crops/grass/4_3", "y": 0 , "weight":	99	 },
+							{ "model": "_placeholder", "y": 0 , "weight":	93	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "crops/grass/5_1", "y": 0 , "weight":	96	 },
+							{ "model": "crops/grass/5_2", "y": 0 , "weight":	91	 },
+							{ "model": "crops/grass/5_3", "y": 0 , "weight":	98	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "crops/grass/6_1", "y": 0 , "weight":	95	 },
+							{ "model": "crops/grass/6_2", "y": 0 , "weight":	91	 },
+							{ "model": "crops/grass/6_3", "y": 0 , "weight":	98	 }
+							]
+				}
+	]
+}

@@ -1,0 +1,338 @@
+{
+	"multipart":[
+				{ "apply": [
+							{ "model": "ores/coal_ore/1_1", "weight":	79	 },
+							{ "model": "ores/coal_ore/1_2", "weight":	75	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/2_1", "weight":	77	 },
+							{ "model": "ores/coal_ore/2_2", "weight":	72	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/3_1", "weight":	77	 },
+							{ "model": "ores/coal_ore/3_2", "weight":	75	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/4_1", "weight":	75	 },
+							{ "model": "ores/coal_ore/4_2", "weight":	72	 },
+							{ "model": "_placeholder", "weight":	71	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/5_1", "weight":	76	 },
+							{ "model": "ores/coal_ore/5_2", "weight":	71	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/6_1", "weight":	75	 },
+							{ "model": "ores/coal_ore/6_2", "weight":	71	 },
+							{ "model": "_placeholder", "weight":	39	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/7_1", "weight":	77	 },
+							{ "model": "ores/coal_ore/7_2", "weight":	73	 },
+							{ "model": "_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/8_1", "weight":	73	 },
+							{ "model": "ores/coal_ore/8_2", "weight":	78	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/9_1", "weight":	72	 },
+							{ "model": "ores/coal_ore/9_2", "weight":	74	 },
+							{ "model": "_placeholder", "weight":	38	 }
+							]
+				},
+
+
+
+
+				{ "apply": [
+							{ "model": "ores/coal_ore/1_1", "y": 90 , "weight":	75	 },
+							{ "model": "ores/coal_ore/1_2", "y": 90 , "weight":	73	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/2_1", "y": 90 , "weight":	77	 },
+							{ "model": "ores/coal_ore/2_2", "y": 90 , "weight":	74	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/3_1", "y": 90 , "weight":	77	 },
+							{ "model": "ores/coal_ore/3_2", "y": 90 , "weight":	76	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/4_1", "y": 90 , "weight":	78	 },
+							{ "model": "ores/coal_ore/4_2", "y": 90 , "weight":	73	 },
+							{ "model": "_placeholder", "weight":	70	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/5_1", "y": 90 , "weight":	75	 },
+							{ "model": "ores/coal_ore/5_2", "y": 90 , "weight":	78	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/6_1", "y": 90 , "weight":	79	 },
+							{ "model": "ores/coal_ore/6_2", "y": 90 , "weight":	74	 },
+							{ "model": "_placeholder", "weight":	39	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/7_1", "y": 90 , "weight":	77	 },
+							{ "model": "ores/coal_ore/7_2", "y": 90 , "weight":	77	 },
+							{ "model": "_placeholder", "weight":	72	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/8_1", "y": 90 , "weight":	78	 },
+							{ "model": "ores/coal_ore/8_2", "y": 90 , "weight":	73	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/9_1", "y": 90 , "weight":	74	 },
+							{ "model": "ores/coal_ore/9_2", "y": 90 , "weight":	77	 },
+							{ "model": "_placeholder", "weight":	35	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "ores/coal_ore/1_1", "y": 180 , "weight":	72	 },
+							{ "model": "ores/coal_ore/1_2", "y": 180 , "weight":	77	 },
+							{ "model": "_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/2_1", "y": 180 , "weight":	72	 },
+							{ "model": "ores/coal_ore/2_2", "y": 180 , "weight":	76	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/3_1", "y": 180 , "weight":	72	 },
+							{ "model": "ores/coal_ore/3_2", "y": 180 , "weight":	76	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/4_1", "y": 180 , "weight":	75	 },
+							{ "model": "ores/coal_ore/4_2", "y": 180 , "weight":	72	 },
+							{ "model": "_placeholder", "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/5_1", "y": 180 , "weight":	73	 },
+							{ "model": "ores/coal_ore/5_2", "y": 180 , "weight":	76	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/6_1", "y": 180 , "weight":	72	 },
+							{ "model": "ores/coal_ore/6_2", "y": 180 , "weight":	76	 },
+							{ "model": "_placeholder", "weight":	39	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/7_1", "y": 180 , "weight":	70	 },
+							{ "model": "ores/coal_ore/7_2", "y": 180 , "weight":	72	 },
+							{ "model": "_placeholder", "weight":	74	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/8_1", "y": 180 , "weight":	72	 },
+							{ "model": "ores/coal_ore/8_2", "y": 180 , "weight":	76	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/9_1", "y": 180 , "weight":	72	 },
+							{ "model": "ores/coal_ore/9_2", "y": 180 , "weight":	72	 },
+							{ "model": "_placeholder", "weight":	38	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "ores/coal_ore/1_1", "y": 270 , "weight":	72	 },
+							{ "model": "ores/coal_ore/1_2", "y": 270 , "weight":	75	 },
+							{ "model": "_placeholder", "weight":	72	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/2_1", "y": 270 , "weight":	72	 },
+							{ "model": "ores/coal_ore/2_2", "y": 270 , "weight":	75	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/3_1", "y": 270 , "weight":	73	 },
+							{ "model": "ores/coal_ore/3_2", "y": 270 , "weight":	76	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/4_1", "y": 270 , "weight":	72	 },
+							{ "model": "ores/coal_ore/4_2", "y": 270 , "weight":	76	 },
+							{ "model": "_placeholder", "weight":	78	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/5_1", "y": 270 , "weight":	72	 },
+							{ "model": "ores/coal_ore/5_2", "y": 270 , "weight":	76	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/6_1", "y": 270 , "weight":	79	 },
+							{ "model": "ores/coal_ore/6_2", "y": 270 , "weight":	75	 },
+							{ "model": "_placeholder", "weight":	39	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/7_1", "y": 270 , "weight":	72	 },
+							{ "model": "ores/coal_ore/7_2", "y": 270 , "weight":	75	 },
+							{ "model": "_placeholder", "weight":	73	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/8_1", "y": 270 , "weight":	73	 },
+							{ "model": "ores/coal_ore/8_2", "y": 270 , "weight":	73	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/9_1", "y": 270 , "weight":	73	 },
+							{ "model": "ores/coal_ore/9_2", "y": 270 , "weight":	76	 },
+							{ "model": "_placeholder", "weight":	32	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "ores/coal_ore/1_1", "x": 90 , "weight":	76	 },
+							{ "model": "ores/coal_ore/1_2", "x": 90 , "weight":	73	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/2_1", "x": 90 , "weight":	74	 },
+							{ "model": "ores/coal_ore/2_2", "x": 90 , "weight":	72	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/3_1", "x": 90 , "weight":	77	 },
+							{ "model": "ores/coal_ore/3_2", "x": 90 , "weight":	73	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/4_1", "x": 90 , "weight":	72	 },
+							{ "model": "ores/coal_ore/4_2", "x": 90 , "weight":	75	 },
+							{ "model": "_placeholder", "weight":	72	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/5_1", "x": 90 , "weight":	76	 },
+							{ "model": "ores/coal_ore/5_2", "x": 90 , "weight":	72	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/6_1", "x": 90 , "weight":	71	 },
+							{ "model": "ores/coal_ore/6_2", "x": 90 , "weight":	76	 },
+							{ "model": "_placeholder", "weight":	39	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/7_1", "x": 90 , "weight":	77	 },
+							{ "model": "ores/coal_ore/7_2", "x": 90 , "weight":	73	 },
+							{ "model": "_placeholder", "weight":	78	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/8_1", "x": 90 , "weight":	72	 },
+							{ "model": "ores/coal_ore/8_2", "x": 90 , "weight":	78	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/9_1", "x": 90 , "weight":	71	 },
+							{ "model": "ores/coal_ore/9_2", "x": 90 , "weight":	73	 },
+							{ "model": "_placeholder", "weight":	33	 }
+							]
+				},
+				
+				
+				
+				
+				{ "apply": [
+							{ "model": "ores/coal_ore/1_1", "x": 270 , "weight":	72	 },
+							{ "model": "ores/coal_ore/1_2", "x": 270 , "weight":	78	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/2_1", "x": 270 , "weight":	72	 },
+							{ "model": "ores/coal_ore/2_2", "x": 270 , "weight":	73	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/3_1", "x": 270 , "weight":	78	 },
+							{ "model": "ores/coal_ore/3_2", "x": 270 , "weight":	73	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/4_1", "x": 270 , "weight":	71	 },
+							{ "model": "ores/coal_ore/4_2", "x": 270 , "weight":	77	 },
+							{ "model": "_placeholder", "weight":	79	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/5_1", "x": 270 , "weight":	75	 },
+							{ "model": "ores/coal_ore/5_2", "x": 270 , "weight":	77	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/6_1", "x": 270 , "weight":	76	 },
+							{ "model": "ores/coal_ore/6_2", "x": 270 , "weight":	72	 },
+							{ "model": "_placeholder", "weight":	39	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/7_1", "x": 270 , "weight":	71	 },
+							{ "model": "ores/coal_ore/7_2", "x": 270 , "weight":	78	 },
+							{ "model": "_placeholder", "weight":	78	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/8_1", "x": 270 , "weight":	73	 },
+							{ "model": "ores/coal_ore/8_2", "x": 270 , "weight":	78	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "ores/coal_ore/9_1", "x": 270 , "weight":	71	 },
+							{ "model": "ores/coal_ore/9_2", "x": 270 , "weight":	71	 },
+							{ "model": "_placeholder", "weight":	36	 }
+							]
+				},
+				{ "apply": { "model": "ores/common_ore_blank"}}
+		
+	]
+}
