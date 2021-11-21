@@ -41,13 +41,13 @@ All these are in-game screenshots with some colour-correction done in photoshop.
 The Bokeh was achieved with a deph-map shader & photoshop
 
 ![Title Screen](https://user-images.githubusercontent.com/78741736/142738126-cf701b92-71d7-4eed-b71f-bfd9cd2e1c65.png)
-![Rails](https://user-images.githubusercontent.com/78741736/142738152-2d7ad0c3-1f0b-4e7e-94c6-45c25d2ecc6f.png)
-![End portal frame](https://user-images.githubusercontent.com/78741736/142738153-021a6613-fe25-43ac-b296-3acb53a78cdb.png)
-![Enchantment table](https://user-images.githubusercontent.com/78741736/142738155-2df2a632-aeb5-4326-92ba-86089bfb4b72.png)
-![Crops](https://user-images.githubusercontent.com/78741736/142738157-906eef53-2c44-41f6-9169-a69bd86793fa.png)
-![Ores](https://user-images.githubusercontent.com/78741736/142738159-68efa2be-55bc-4150-92ea-a364a2deeab1.png)
-![Lily pads](https://user-images.githubusercontent.com/78741736/142738163-4874d84d-7aeb-4859-bb94-8b8fe528f47f.png)
-
+![7](https://user-images.githubusercontent.com/78741736/142762275-14c0e7bb-0eb5-4654-947f-c8d28a25bb78.png)
+![4](https://user-images.githubusercontent.com/78741736/142762253-a50cda3e-3b89-4631-80a9-a6646032166a.png)
+![5](https://user-images.githubusercontent.com/78741736/142762256-462120e8-2dbd-4b60-a898-07e7f4577811.png)
+![6](https://user-images.githubusercontent.com/78741736/142762258-d2e8e90d-220d-43f5-be9d-ec338e9957f6.png)
+![10](https://user-images.githubusercontent.com/78741736/142762260-f23ff6a8-6e7b-4f63-ad67-11ca3868188f.png)
+![11](https://user-images.githubusercontent.com/78741736/142762261-bc316b61-31ec-4dd8-8e47-46d2cae86287.png)
+![12](https://user-images.githubusercontent.com/78741736/142762263-9241488f-0e4b-4adf-b53f-21ac0ef23299.png)
 
 
 ## Full feature-table
@@ -59,3 +59,4 @@ The Bokeh was achieved with a deph-map shader & photoshop
 [CureForge](https://www.curseforge.com/minecraft/texture-packs/nautilus3d)
 
 [Planet Minecraft](https://www.planetminecraft.com/texture-pack/nautilus-pack-3d/)
+
