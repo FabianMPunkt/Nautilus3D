@@ -22,7 +22,7 @@
 				"north": {"uv": [5, 3, 6, 4], "texture": "#ore", "cullface": "north"},
 				"east": {"uv": [5, 3, 5.5, 4], "texture": "#ore", "cullface": "north"},
 				"west": {"uv": [5, 3, 5.5, 4], "texture": "#ore", "cullface": "north"},
-				"up": {"uv": [5, 3, 6, 3.25], "texture": "#ore"}
+				"up": {"uv": [5, 3, 6, 3.25], "texture": "#ore", "cullface": "north"}
 			}
 		}
 	],
