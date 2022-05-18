@@ -2,17 +2,18 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/birch_trapdoor",
-		"texture": "block/birch_trapdoor"
+		"1": "custom_textures/trapdoors/birch/birch_trapdoor_side",
+		"particle": "custom_textures/trapdoors/birch/birch_trapdoor",
+		"texture": "custom_textures/trapdoors/birch/birch_trapdoor"
 	},
 	"elements": [
 		{
 			"from": [13, 13, 0],
 			"to": [16, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 3, 3], "texture": "#texture", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "east"},
-				"south": {"uv": [13, 0, 16, 3], "texture": "#texture", "cullface": "south"},
+				"north": {"uv": [0, 0, 3, 3], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [13, 0, 16, 3], "texture": "#1", "cullface": "south"},
 				"west": {"uv": [0, 2, 16, 3], "texture": "#texture"},
 				"up": {"uv": [16, 0, 13, 16], "rotation": 180, "texture": "#texture", "cullface": "up"},
 				"down": {"uv": [16, 0, 13, 16], "rotation": 180, "texture": "#texture"}
@@ -22,10 +23,10 @@
 			"from": [0.00004, 13, 0],
 			"to": [3.00004, 16, 16],
 			"faces": {
-				"north": {"uv": [13, 0, 16, 3], "texture": "#texture", "cullface": "north"},
+				"north": {"uv": [13, 0, 16, 3], "texture": "#1", "cullface": "north"},
 				"east": {"uv": [2, 0, 3, 16], "rotation": 90, "texture": "#texture"},
-				"south": {"uv": [0, 0, 3, 3], "texture": "#texture", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "west"},
+				"south": {"uv": [0, 0, 3, 3], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#1", "cullface": "west"},
 				"up": {"uv": [3, 0, 0, 16], "rotation": 180, "texture": "#texture", "cullface": "up"},
 				"down": {"uv": [3, 0, 0, 16], "rotation": 180, "texture": "#texture"}
 			}
@@ -34,7 +35,7 @@
 			"from": [3, 13, 0.00004],
 			"to": [13, 16, 3.00004],
 			"faces": {
-				"north": {"uv": [3, 0, 13, 3], "texture": "#texture", "cullface": "north"},
+				"north": {"uv": [3, 0, 13, 3], "texture": "#1", "cullface": "north"},
 				"south": {"uv": [3, 13, 13, 14], "texture": "#texture"},
 				"up": {"uv": [13, 13, 3, 16], "rotation": 180, "texture": "#texture", "cullface": "up"},
 				"down": {"uv": [13, 16, 3, 13], "rotation": 180, "texture": "#texture"}
@@ -45,7 +46,7 @@
 			"to": [13, 16, 16],
 			"faces": {
 				"north": {"uv": [4, 2, 12, 3], "texture": "#texture"},
-				"south": {"uv": [3, 0, 13, 3], "texture": "#texture", "cullface": "south"},
+				"south": {"uv": [3, 0, 13, 3], "texture": "#1", "cullface": "south"},
 				"up": {"uv": [3, 0, 13, 3], "rotation": 180, "texture": "#texture", "cullface": "up"},
 				"down": {"uv": [13, 0, 3, 3], "rotation": 180, "texture": "#texture"}
 			}

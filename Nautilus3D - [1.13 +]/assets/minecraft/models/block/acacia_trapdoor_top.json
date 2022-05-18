@@ -2,8 +2,9 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/acacia_trapdoor",
-		"texture": "block/acacia_trapdoor"
+		"1": "custom_textures/trapdoors/acacia/acacia_trapdoor_side",
+		"particle": "custom_textures/trapdoors/acacia/acacia_trapdoor",
+		"texture": "custom_textures/trapdoors/acacia/acacia_trapdoor"
 	},
 	"elements": [
 		{
@@ -11,10 +12,10 @@
 			"from": [0, 13, 0],
 			"to": [16, 16, 3],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "north"},
-				"east": {"uv": [13, 0, 16, 3], "texture": "#texture", "cullface": "east"},
+				"north": {"uv": [0, 0, 16, 3], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [13, 0, 16, 3], "texture": "#1", "cullface": "east"},
 				"south": {"uv": [0, 0, 16, 3], "texture": "#texture"},
-				"west": {"uv": [0, 0, 3, 3], "texture": "#texture", "cullface": "west"},
+				"west": {"uv": [0, 0, 3, 3], "texture": "#1", "cullface": "west"},
 				"up": {"uv": [0, 16, 16, 13], "texture": "#texture", "cullface": "up"},
 				"down": {"uv": [0, 13, 16, 16], "texture": "#texture"}
 			}
@@ -25,9 +26,9 @@
 			"to": [16, 16, 16],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 3], "texture": "#texture"},
-				"east": {"uv": [0, 0, 3, 3], "texture": "#texture", "cullface": "east"},
-				"south": {"uv": [0, 0, 16, 3], "texture": "#texture", "cullface": "south"},
-				"west": {"uv": [13, 0, 16, 3], "texture": "#texture", "cullface": "west"},
+				"east": {"uv": [0, 0, 3, 3], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [13, 0, 16, 3], "texture": "#1", "cullface": "west"},
 				"up": {"uv": [0, 3, 16, 0], "texture": "#texture", "cullface": "up"},
 				"down": {"uv": [0, 0, 16, 3], "texture": "#texture"}
 			}
@@ -38,7 +39,7 @@
 			"to": [2, 16, 13],
 			"faces": {
 				"east": {"uv": [3, 0, 13, 3], "texture": "#texture"},
-				"west": {"uv": [3, 0, 13, 3], "texture": "#texture", "cullface": "west"},
+				"west": {"uv": [3, 0, 13, 3], "texture": "#1", "cullface": "west"},
 				"up": {"uv": [0, 3, 2, 13], "texture": "#texture", "cullface": "up"},
 				"down": {"uv": [0, 3, 2, 13], "texture": "#texture"}
 			}
@@ -70,7 +71,7 @@
 			"from": [14, 13, 3],
 			"to": [16, 16, 13],
 			"faces": {
-				"east": {"uv": [3, 0, 13, 3], "texture": "#texture", "cullface": "east"},
+				"east": {"uv": [3, 0, 13, 3], "texture": "#1", "cullface": "east"},
 				"west": {"uv": [3, 0, 13, 3], "texture": "#texture"},
 				"up": {"uv": [14, 3, 16, 13], "texture": "#texture", "cullface": "up"},
 				"down": {"uv": [14, 3, 16, 13], "texture": "#texture"}

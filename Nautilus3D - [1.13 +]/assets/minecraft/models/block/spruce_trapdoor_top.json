@@ -2,8 +2,8 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/spruce_trapdoor",
-		"texture": "block/spruce_trapdoor"
+		"particle": "custom_textures/trapdoors/spruce/spruce_trapdoor",
+		"texture": "custom_textures/trapdoors/spruce/spruce_trapdoor"
 	},
 	"elements": [
 		{
