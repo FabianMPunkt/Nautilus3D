@@ -1,0 +1,6 @@
+{
+    "parent": "block/parents/parent_fence_post_ball",
+    "textures": {
+        "texture": "block/acacia_planks"
+    }
+}

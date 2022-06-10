@@ -1,0 +1,65 @@
+{
+    "multipart": [
+        {   "apply": { "model": "block/acacia_fence_post" }},
+		
+        {   "when": { "north": "true" },
+            "apply": { "model": "block/acacia_fence_side", "uvlock": true }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "block/acacia_fence_side", "y": 90, "uvlock": true }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "block/acacia_fence_side", "y": 180, "uvlock": true }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "block/acacia_fence_side", "y": 270, "uvlock": true }
+        },
+		
+		{   "when": { "north": false, "east": false, "south": false, "west": false },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		
+		{   "when": { "north": true, "east": true, "south": true, "west": true },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		
+		{   "when": { "north": true, "east": false, "south": false, "west": false },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		{   "when": { "north": false, "east": true, "south": false, "west": false },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		{   "when": { "north": false, "east": false, "south": true, "west": false },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		{   "when": { "north": false, "east": false, "south": false, "west": true },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		
+		{   "when": { "north": true, "east": true, "south": false, "west": false },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		{   "when": { "north": false, "east": true, "south": true, "west": false },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		{   "when": { "north": false, "east": false, "south": true, "west": true },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		{   "when": { "north": true, "east": false, "south": false, "west": true },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		
+		{   "when": { "north": true, "east": true, "south": true, "west": false },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		{   "when": { "north": false, "east": true, "south": true, "west": true },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		{   "when": { "north": true, "east": false, "south": true, "west": true },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        },
+		{   "when": { "north": true, "east": true, "south": false, "west": true },
+            "apply": { "model": "block/acacia_fence_post_ball"}
+        }
+    ]
+}
