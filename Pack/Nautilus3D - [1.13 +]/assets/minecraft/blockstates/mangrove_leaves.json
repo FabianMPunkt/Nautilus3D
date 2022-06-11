@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"": [
+		{	"model": "minecraft:block/leaves/mangrove/0", "weight": 99 },
+		                                             
+		{	"model": "minecraft:block/leaves/mangrove/1"	, "weight": 95 },
+		                                             
+		{	"model": "minecraft:block/leaves/mangrove/2"	, "weight": 92 },
+		                                             
+		{	"model": "minecraft:block/leaves/mangrove/3"	, "weight": 98 },
+		                                             
+		{	"model": "minecraft:block/leaves/mangrove/4"	, "weight": 96 }
+		]
+	}
+}
