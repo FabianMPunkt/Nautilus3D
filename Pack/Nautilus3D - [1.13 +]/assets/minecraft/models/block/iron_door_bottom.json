@@ -3,6 +3,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"1": "custom_textures/doors/iron/iron_door_top_clean",
+		"2": "custom_textures/doors/iron/iron_door_side_1",
+		"3": "custom_textures/doors/iron/iron_door_side_0",
 		"particle": "custom_textures/doors/iron/iron_door_top_clean",
 		"bottom": "custom_textures/doors/iron/iron_door_bottom"
 	},
@@ -11,11 +13,11 @@
 			"from": [0, 0, 0],
 			"to": [3, 16, 16],
 			"faces": {
-				"north": {"uv": [3, 0, 0, 16], "texture": "#bottom", "cullface": "north"},
+				"north": {"uv": [13, 0, 10, 16], "texture": "#2", "cullface": "north"},
 				"east": {"uv": [16, 0, 0, 16], "texture": "#bottom"},
-				"south": {"uv": [13, 0, 16, 16], "texture": "#bottom", "cullface": "south"},
+				"south": {"uv": [13, 0, 16, 16], "texture": "#2", "cullface": "south"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "west"},
-				"down": {"uv": [0, 13, 16, 16], "rotation": 90, "texture": "#bottom", "cullface": "down"}
+				"down": {"uv": [0, 3, 16, 6], "rotation": 270, "texture": "#3", "cullface": "down"}
 			}
 		},
 		{
