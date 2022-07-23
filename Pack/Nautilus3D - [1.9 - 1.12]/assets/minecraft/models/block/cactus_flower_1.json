@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/cactus/flower/parent/parent_cactus_flower_6",
+  "parent": "minecraft:block/cactus_flower_parent",
   "textures": {
     "flower": "minecraft:custom_textures/cactus/cactus_flower_1"
   }
