@@ -1,8 +1,12 @@
 {
-    "variants": {
-		"normal":[
-			{ "model": "cactus" },
-			{ "model": "cactus_1" }
+	"variants": {
+		"normal": [
+		{	"model": "cactus" },
+		                             
+		{	"model": "cactus_flower_0" },
+		
+		{	"model": "cactus_flower_1" }
+		
 		]
 	}
 }
