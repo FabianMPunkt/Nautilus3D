@@ -1,7 +1,9 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"ambientocclusion": false,
 	"textures": {
-		"1": "custom_textures/doors/oak/oak_door_side",
+		"1": "custom_textures/doors/oak/oak_door_side_0",
+		"2": "custom_textures/doors/oak/oak_door_side_1",
 		"particle": "custom_textures/doors/oak/oak_door_bottom_clean",
 		"bottom": "custom_textures/doors/oak/oak_door_bottom_clean"
 	},
@@ -10,11 +12,11 @@
 			"from": [0, 0, 0],
 			"to": [3, 16, 16],
 			"faces": {
-				"north": {"uv": [6, 0, 3, 16], "texture": "#1", "cullface": "north"},
+				"north": {"uv": [16, 0, 13, 16], "texture": "#2", "cullface": "north"},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#bottom"},
-				"south": {"uv": [0, 0, 3, 16], "texture": "#bottom", "cullface": "south"},
+				"south": {"uv": [10, 0, 13, 16], "texture": "#2", "cullface": "south"},
 				"west": {"uv": [16, 0, 0, 16], "texture": "#bottom", "cullface": "west"},
-				"down": {"uv": [16, 13, 0, 16], "rotation": 90, "texture": "#bottom", "cullface": "down"}
+				"down": {"uv": [16, 3, 0, 6], "rotation": 270, "texture": "#1", "cullface": "down"}
 			}
 		},
 		{
