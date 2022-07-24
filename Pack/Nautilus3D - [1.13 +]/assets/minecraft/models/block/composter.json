@@ -67,13 +67,13 @@
 		},
 		{
 			"name": "upper",
-			"from": [2, 13, 0],
-			"to": [14, 16, 2],
+			"from": [1, 13, 0],
+			"to": [15, 16, 2],
 			"faces": {
-				"north": {"uv": [2, 0, 14, 3], "texture": "#side", "cullface": "north"},
+				"north": {"uv": [1, 0, 15, 3], "texture": "#side", "cullface": "north"},
 				"south": {"uv": [2, 0, 14, 3], "texture": "#side", "cullface": "up"},
-				"up": {"uv": [2, 0, 14, 2], "texture": "#top", "cullface": "up"},
-				"down": {"uv": [2, 14, 14, 16], "texture": "#top", "cullface": "north"}
+				"up": {"uv": [1, 0, 15, 2], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [1, 14, 15, 16], "texture": "#top", "cullface": "north"}
 			}
 		},
 		{
@@ -91,13 +91,13 @@
 		},
 		{
 			"name": "upper",
-			"from": [2, 13, 14],
-			"to": [14, 16, 16],
+			"from": [1, 13, 14],
+			"to": [15, 16, 16],
 			"faces": {
 				"north": {"uv": [2, 0, 14, 3], "texture": "#side", "cullface": "up"},
-				"south": {"uv": [2, 0, 14, 3], "texture": "#side", "cullface": "south"},
-				"up": {"uv": [2, 14, 14, 16], "texture": "#top", "cullface": "up"},
-				"down": {"uv": [2, 0, 14, 2], "texture": "#top", "cullface": "south"}
+				"south": {"uv": [1, 0, 15, 3], "texture": "#side", "cullface": "south"},
+				"up": {"uv": [1, 14, 15, 16], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [1, 0, 15, 2], "texture": "#top", "cullface": "south"}
 			}
 		},
 		{
@@ -502,26 +502,33 @@
 		{
 			"name": "Corner",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3]
 		},
 		{
 			"name": "Ring1",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 		},
 		{
 			"name": "Ring2",
 			"origin": [8, 3, 8],
+			"color": 0,
 			"children": [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
 		},
 		{
 			"name": "Ring3",
 			"origin": [8, 3, 8],
+			"color": 0,
 			"children": [28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
 		},
 		{
 			"name": "Ring4",
 			"origin": [8, 3, 8],
+			"color": 0,
 			"children": [40, 41, 42, 43]
-		}, 44]
+		},
+		44
+	]
 }
