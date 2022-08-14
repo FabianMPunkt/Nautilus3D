@@ -1,21 +1,89 @@
----
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+description: "Use this template if you're running into bugs or other issues"
 
----
+body:
+  - type: markdown
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+  - type: input
+    id: version
+    attributes:
+      label: Version information
+      description: >-
+        Please provide the exact version of the mod you are using. Every part of
+        the version is important! If you do not know what version you are using,
+        look at the file name in your `mods` folder.
+      placeholder: 'Example: mc1.16.4-0.1.1+rev.4b3964a'
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: 'Example: The Piston should extend.'
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What did actually happen?
+      placeholder: 'Example: The Piston does not extend.'
+    validations:
+      required: true
+  - type: textarea
+    id: repro-steps
+    attributes:
+      label: Reproduction Steps
+      description: >-
+        Provide information on how to reproduce this bug. You can either
+        fill this section in like the example below or do something else just
+        make sure your instructions are minimal and clear, as other people will
+        need to be able to replicate your issue.
+      placeholder: |
+        Example:
+        1. Place a Redstone Lamp in front of a Redstone Repeater
+        2. Use a Lever to activate the Redstone Repeater
+        3. Nothing happens
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: >-
+        # System Information
 
 
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-
-
-**Additional context**
-Add any other context about the problem here.
+        You can obtain this information from the right-side of the in-game debug
+        screen (F3) or through using
+        [DxDiag](https://support.microsoft.com/en-us/help/4028644/windows-open-and-run-dxdiagexe)
+        on Windows. 
+  - type: input
+    id: java
+    attributes:
+      label: Java version
+      placeholder: 'Example: Java 16'
+    validations:
+      required: true
+  - type: input
+    id: cpu
+    attributes:
+      label: CPU
+      placeholder: 'Example: Intel Core i5-7200U'
+    validations:
+      required: true
+  - type: input
+    id: gpu
+    attributes:
+      label: GPU
+      placeholder: 'Example: Intel HD Graphics 620'
+    validations:
+      required: true
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional information
+      description: >-
+        Provide a list of any other mods you are using, along with their
+        respective versions. If you have any screenshots, videos, or other
+        information that you feel is necessary to explain the issue, feel free
+        to attach them here.
