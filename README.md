@@ -6,6 +6,7 @@ Nautilus3D is a Minecraft Resource-pack, mainly focused on 3D-Models with a vani
 
 Wie aim to provide a highly polished pack with a focus on decorative blocks.
 
+More information and a full feature-list can be found in the [GitHub-Wiki](https://github.com/FabianMPunkt/Nautilus3D/wiki)
 
 ## Noteworthy Features
 
@@ -36,10 +37,6 @@ The Bokeh was achieved with a deph-map shader & photoshop
 ![10](https://user-images.githubusercontent.com/78741736/142762260-f23ff6a8-6e7b-4f63-ad67-11ca3868188f.png)
 ![11](https://user-images.githubusercontent.com/78741736/142762261-bc316b61-31ec-4dd8-8e47-46d2cae86287.png)
 ![12](https://user-images.githubusercontent.com/78741736/142762263-9241488f-0e4b-4adf-b53f-21ac0ef23299.png)
-
-
-## Full feature-table
-![feature list](https://user-images.githubusercontent.com/78741736/142762368-5e2cbc6a-794b-47e4-aa60-085c1e7ba19f.png)
 
 
 ## Links
