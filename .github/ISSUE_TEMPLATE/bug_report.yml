@@ -9,8 +9,8 @@ body:
       value: >-
         ## Instructions
 
-        This is a little Template to ensure enough information is provided.
-        Please fill out all of the below for a nice and clean bug report!
+
+        Please fill out all of the below for a nice and clean bug report
 
   - type: input
     id: game
@@ -19,15 +19,6 @@ body:
       description: >-
         Please provide the exact game version thst is listed within the F3-Menu
       placeholder: 'fabric-loader-0.14.9-1.19.2, or Vanilla-1.19.2'
-    validations:
-      required: true
-   - type: input
-    id: pack
-    attributes:
-      label: Game Version
-      description: >-
-        Please provide the exact pack version you are using
-      placeholder: 'Nautilus3D_1.13+_V1.6'
     validations:
       required: true
   - type: textarea
