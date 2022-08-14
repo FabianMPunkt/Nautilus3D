@@ -67,20 +67,6 @@ body:
         screen (F3) or through using
         [DxDiag](https://support.microsoft.com/en-us/help/4028644/windows-open-and-run-dxdiagexe)
         on Windows. 
-  - type: input
-    id: java
-    attributes:
-      label: Java version
-      placeholder: 'Example: Java 16'
-    validations:
-      required: true
-  - type: input
-    id: cpu
-    attributes:
-      label: CPU
-      placeholder: 'Example: Intel Core i5-7200U'
-    validations:
-      required: true
   - type: textarea
     id: additional
     attributes:
