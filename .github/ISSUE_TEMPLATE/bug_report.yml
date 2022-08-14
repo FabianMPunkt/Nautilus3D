@@ -13,7 +13,7 @@ body:
         Please fill out all of the below for a nice and clean bug report
 
   - type: input
-    id: game
+    id: version
     attributes:
       label: Game Version
       description: >-
@@ -41,7 +41,7 @@ body:
             - Sodium-0.14.9
             - iris-0.21
     validations:
-      required: fasle
+      required: true
   - type: textarea
     id: packs
     attributes:
