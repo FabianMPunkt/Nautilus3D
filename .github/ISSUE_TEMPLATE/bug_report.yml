@@ -9,11 +9,11 @@ body:
       value: >-
         ## Instructions
 
-
-        Please fill out all of the below for a nice and clean bug report
+        This is a little Template to ensure enough information is provided.
+        Please fill out all of the below for a nice and clean bug report1
 
   - type: input
-    id: version
+    id: game
     attributes:
       label: Game Version
       description: >-
@@ -21,15 +21,7 @@ body:
       placeholder: 'fabric-loader-0.14.9-1.19.2, or Vanilla-1.19.2'
     validations:
       required: true
-  - type: textarea
-    id: issue
-    attributes:
-      label: Describe your issue
-      placeholder: |
-        Example: sugar canes show a missing texture.
-        please also provide some screenshots with the F3-Menu open
-    validations:
-      required: true
+      
   - type: textarea
     id: mods
     attributes:
@@ -40,6 +32,7 @@ body:
         Example:
             - Sodium-0.14.9
             - iris-0.21
+    
   - type: textarea
     id: packs
     attributes:
@@ -53,6 +46,27 @@ body:
             - Default
     validations:
       required: true
+      
+   - type: input
+    id: pack
+    attributes:
+      label: Game Version
+      description: >-
+        Please provide the exact pack version you are using
+      placeholder: 'Nautilus3D_1.13+_V1.6'
+    validations:
+      required: true
+      
+  - type: textarea
+    id: issue
+    attributes:
+      label: Describe your issue
+      placeholder: |
+        Example: sugar canes show a missing texture.
+        please also provide some screenshots with the F3-Menu open
+    validations:
+      required: true
+      
   - type: textarea
     id: additional
     attributes:
