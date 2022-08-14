@@ -23,21 +23,6 @@ Wie aim to provide a highly polished pack with a focus on decorative blocks.
 - Detailed brewing stand
 
 
-## Compatibility
-There's three existing versions:
-
-- Nautulus3D 1.8
-- Nautulus3D 1.9 - 1.12
-- Nautulus3D 1.13 +
-
-The main focus is of course always laid on the newest version of the game. Most of the testing is done on the latest stable OptiFine release.
-
-The Pack works with Forge, Fabric and Sodium. Although some features only work with OptiFine. (see list below)
-Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
-
-Versions below 1.12 include the new 1.14 textures.
-
-
 ## Screenshots
 All these are in-game screenshots with some colour-correction done in photoshop.
 
