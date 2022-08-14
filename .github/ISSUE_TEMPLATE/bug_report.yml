@@ -9,7 +9,7 @@ body:
       value: >-
         ## Instructions
 
-        This is a little template to ensure enough information is provided.
+
         Please fill out all of the below for a nice and clean bug report
 
   - type: input
@@ -21,7 +21,6 @@ body:
       placeholder: 'fabric-loader-0.14.9-1.19.2, or Vanilla-1.19.2'
     validations:
       required: true
-      
    - type: input
     id: pack
     attributes:
@@ -31,7 +30,6 @@ body:
       placeholder: 'Nautilus3D_1.13+_V1.6'
     validations:
       required: true
-      
   - type: textarea
     id: issue
     attributes:
@@ -41,7 +39,6 @@ body:
         please also provide some screenshots with the F3-Menu open
     validations:
       required: true
-      
   - type: textarea
     id: mods
     attributes:
@@ -54,7 +51,6 @@ body:
             - iris-0.21
     validations:
       required: fasle
-      
   - type: textarea
     id: packs
     attributes:
@@ -68,7 +64,6 @@ body:
             - Default
     validations:
       required: true
-      
   - type: textarea
     id: additional
     attributes:
