@@ -21,15 +21,6 @@ body:
       placeholder: 'fabric-loader-0.14.9-1.19.2, or Vanilla-1.19.2'
     validations:
       required: true
-   - type: input
-    id: pack
-    attributes:
-      label: Pack Version
-      description: >-
-        Please provide the version of the pack you are using
-      placeholder: 'Nautilus3D_1.13+_V1.6'
-    validations:
-      required: true
   - type: textarea
     id: issue
     attributes:
