@@ -21,6 +21,7 @@ body:
       placeholder: 'fabric-loader-0.14.9-1.19.2, or Vanilla-1.19.2'
     validations:
       required: true
+      
   - type: textarea
     id: issue
     attributes:
@@ -30,6 +31,7 @@ body:
         please also provide some screenshots with the F3-Menu open
     validations:
       required: true
+      
   - type: textarea
     id: mods
     attributes:
@@ -40,6 +42,7 @@ body:
         Example:
             - Sodium-0.14.9
             - iris-0.21
+            
   - type: textarea
     id: packs
     attributes:
@@ -53,6 +56,7 @@ body:
             - Default
     validations:
       required: true
+      
   - type: textarea
     id: additional
     attributes:
