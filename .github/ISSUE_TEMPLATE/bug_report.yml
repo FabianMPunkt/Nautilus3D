@@ -25,9 +25,9 @@ body:
   - type: textarea
     id: packs
     attributes:
-      label: List of other installed packs
+      label: List of all loaded packs
       description: >-
-        Provide a list of all your other installed resource packs
+        Provide a list of all your resource packs
       placeholder: |
         Example:
             - Faithfulx32-1.19.2
@@ -56,13 +56,3 @@ body:
         please also provide some screenshots with the F3-Menu open
     validations:
       required: true
-      
-  - type: textarea
-    id: additional
-    attributes:
-      label: Additional information
-      description: >-
-        Provide a list of any other mods you are using, along with their
-        respective versions. If you have any screenshots, videos, or other
-        information that you feel is necessary to explain the issue, feel free
-        to attach them here.
