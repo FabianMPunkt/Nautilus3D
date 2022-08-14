@@ -28,7 +28,7 @@ body:
       label: Pack Version
       description: >-
         Please provide the exact pack version you are using
-      placeholder: 'Nautilus3D_1.13+_V1.6'
+      placeholder: 'Nautilus3D'
     validations:
       required: true
       
