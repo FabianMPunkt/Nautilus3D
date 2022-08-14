@@ -1,9 +1,34 @@
 name: Bug report
 description: "Use this template if you're running into bugs or other issues"
-
+labels:
+  - T-bug
+  - S-needs-triage
 body:
   - type: markdown
+    attributes:
+      value: >-
+        ## Instructions
 
+
+        This is a template for the issue you are about to open! It will help you
+        provide the information necessary to complete your **bug report**.
+        Before you open an issue, ensure you've completed every step on the
+        checklist below.
+
+
+        - Have you used the [search
+        tool](https://github.com/CaffeineMC/sodium-fabric/issues) to find
+        similar issues? If you find one that looks like what you are getting,
+        consider contributing additional information to it instead. Make sure
+        you are not opening a duplicate.
+
+        - Are you using the latest version of the mod? If not, try updating to
+        see if it resolves your issue. You can find the latest versions of
+        CaffeineMC mods [here](https://caffeinemc.net).
+
+
+        All good? Then continue to fill the issue by providing the following
+        information about it:
   - type: input
     id: version
     attributes:
