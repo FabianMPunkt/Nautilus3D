@@ -25,7 +25,9 @@ body:
     id: issue
     attributes:
       label: Describe your issue
-      placeholder: 'Example: sugar canes show a missing texture.'
+      placeholder: |
+        Example: sugar canes show a missing texture.
+        please also provide some screenshots with the F3-Menu open
     validations:
       required: true
   - type: textarea
@@ -56,42 +58,3 @@ body:
     validations:
       required: true
   - type: markdown
-    attributes:
-      value: >-
-        # System Information
-
-
-        You can obtain this information from the right-side of the in-game debug
-        screen (F3) or through using
-        [DxDiag](https://support.microsoft.com/en-us/help/4028644/windows-open-and-run-dxdiagexe)
-        on Windows. 
-  - type: input
-    id: java
-    attributes:
-      label: Java version
-      placeholder: 'Example: Java 16'
-    validations:
-      required: true
-  - type: input
-    id: cpu
-    attributes:
-      label: CPU
-      placeholder: 'Example: Intel Core i5-7200U'
-    validations:
-      required: true
-  - type: input
-    id: gpu
-    attributes:
-      label: GPU
-      placeholder: 'Example: Intel HD Graphics 620'
-    validations:
-      required: true
-  - type: textarea
-    id: additional
-    attributes:
-      label: Additional information
-      description: >-
-        Provide a list of any other mods you are using, along with their
-        respective versions. If you have any screenshots, videos, or other
-        information that you feel is necessary to explain the issue, feel free
-        to attach them here.
