@@ -22,6 +22,16 @@ body:
     validations:
       required: true
       
+   - type: input
+    id: pack
+    attributes:
+      label: Pack Version
+      description: >-
+        Please provide the exact pack version you are using
+      placeholder: 'Nautilus3D_1.13+_V1.6'
+    validations:
+      required: true
+      
   - type: textarea
     id: issue
     attributes:
