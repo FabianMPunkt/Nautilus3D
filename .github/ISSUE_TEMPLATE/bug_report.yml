@@ -40,8 +40,6 @@ body:
         Example:
             - Sodium-0.14.9
             - iris-0.21
-    validations:
-      required: true
   - type: textarea
     id: packs
     attributes:
