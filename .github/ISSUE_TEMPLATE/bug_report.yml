@@ -17,7 +17,7 @@ body:
     attributes:
       label: Game Version
       description: >-
-        Please provide the exact game version you are using, including whatever modloader it is
+        Please provide the exact game version thst is listed within the F3-Menu
       placeholder: 'fabric-loader-0.14.9-1.19.2, or Vanilla-1.19.2'
     validations:
       required: true
@@ -79,13 +79,6 @@ body:
     attributes:
       label: CPU
       placeholder: 'Example: Intel Core i5-7200U'
-    validations:
-      required: true
-  - type: input
-    id: gpu
-    attributes:
-      label: GPU
-      placeholder: 'Example: Intel HD Graphics 620'
     validations:
       required: true
   - type: textarea
