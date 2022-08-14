@@ -21,6 +21,20 @@ body:
       placeholder: 'fabric-loader-0.14.9-1.19.2, or Vanilla-1.19.2'
     validations:
       required: true
+            
+  - type: textarea
+    id: packs
+    attributes:
+      label: List of other installed packs
+      description: >-
+        Provide a list of all your other installed resource packs
+      placeholder: |
+        Example:
+            - Faithfulx32-1.19.2
+            - Nautilus3D-V1.6
+            - Default
+    validations:
+      required: true
       
   - type: textarea
     id: issue
@@ -42,20 +56,6 @@ body:
         Example:
             - Sodium-0.14.9
             - iris-0.21
-            
-  - type: textarea
-    id: packs
-    attributes:
-      label: List of other installed packs
-      description: >-
-        Provide a list of all your other installed resource packs
-      placeholder: |
-        Example:
-            - Faithfulx32-1.19.2
-            - Nautilus3D-V1.6
-            - Default
-    validations:
-      required: true
       
   - type: textarea
     id: additional
