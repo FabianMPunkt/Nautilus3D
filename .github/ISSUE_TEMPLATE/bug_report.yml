@@ -33,6 +33,16 @@ body:
       required: true
       
   - type: textarea
+    id: issue
+    attributes:
+      label: Describe your issue
+      placeholder: |
+        Example: sugar canes show a missing texture.
+        please also provide some screenshots with the F3-Menu open
+    validations:
+      required: true
+      
+  - type: textarea
     id: mods
     attributes:
       label: List all your installed mods
@@ -56,16 +66,6 @@ body:
             - Faithfulx32-1.19.2
             - Nautilus3D-V1.6
             - Default
-    validations:
-      required: true
-        
-  - type: textarea
-    id: issue
-    attributes:
-      label: Describe your issue
-      placeholder: |
-        Example: sugar canes show a missing texture.
-        please also provide some screenshots with the F3-Menu open
     validations:
       required: true
       
