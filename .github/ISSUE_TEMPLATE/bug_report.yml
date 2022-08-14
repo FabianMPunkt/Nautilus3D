@@ -57,16 +57,6 @@ body:
             - Default
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: >-
-        # System Information
-
-
-        You can obtain this information from the right-side of the in-game debug
-        screen (F3) or through using
-        [DxDiag](https://support.microsoft.com/en-us/help/4028644/windows-open-and-run-dxdiagexe)
-        on Windows. 
   - type: textarea
     id: additional
     attributes:
