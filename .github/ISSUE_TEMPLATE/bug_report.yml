@@ -1,8 +1,7 @@
 name: Bug report
 description: "Use this template if you're running into bugs or other issues"
 labels:
-  - T-bug
-  - S-needs-triage
+  - bug
 body:
   - type: markdown
     attributes:
@@ -11,6 +10,19 @@ body:
 
         This is a little template to ensure enough information is provided.
         Please fill out all of the below for a nice and clean bug report!
+        
+        
+  - type: dropdown
+    id: edition
+    attributes:
+      label: Select what editon you are using:
+      options:
+        - 1.8
+        - 1.9 - 1.12
+        - 1.13+
+        
+    validations:
+      reqired: true
 
   - type: input
     id: game
@@ -18,7 +30,7 @@ body:
       label: Game Version
       description: >-
         Please provide the exact game version thst is listed within the F3-Menu
-      placeholder: 'fabric-loader-0.14.9-1.19.2, or Vanilla-1.19.2'
+      placeholder: Example: "fabric-loader-0.14.9-1.19.2", or "Vanilla-1.19.2"
     validations:
       required: true
             
