@@ -35,9 +35,9 @@ body:
   - type: textarea
     id: mods
     attributes:
-      label: List all your installed mods
+      label: List all installed mods
       description: >-
-        Provide a list of all your installed mods
+        Provide a list of all your installed mods. Leave empty if you are running vanilla.
       placeholder: |
         Example:
             - Sodium-0.14.9
