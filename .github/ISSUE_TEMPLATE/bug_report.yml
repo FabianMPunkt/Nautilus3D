@@ -15,7 +15,7 @@ body:
   - type: dropdown
     id: edition
     attributes:
-      label: Select what editon you are using:
+      label: Select what editon you are using
       options:
         - 1.8
         - 1.9 - 1.12
