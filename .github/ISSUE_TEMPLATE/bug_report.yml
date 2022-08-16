@@ -33,20 +33,6 @@ body:
       placeholder: "Example: 'fabric-loader-0.14.9-1.19.2', or 'Vanilla-1.19.2'"
     validations:
       required: true
-            
-  - type: textarea
-    id: packs
-    attributes:
-      label: List of all loaded packs
-      description: >-
-        Provide a list of all your resource packs
-      placeholder: |
-        Example:
-            - Faithfulx32-1.19.2
-            - Nautilus3D_1.13+_V1.6
-            - Default
-    validations:
-      required: true
       
   - type: textarea
     id: mods
@@ -58,6 +44,20 @@ body:
         Example:
             - Sodium-0.14.9
             - iris-0.21
+            
+  - type: textarea
+    id: packs
+    attributes:
+      label: List of all loaded packs
+      description: >-
+        Please provide a list of all your currently loaded resource packs
+      placeholder: |
+        Example:
+            - Faithful32-1.19.2
+            - Nautilus3D_1.13+_V1.6
+            - Default
+    validations:
+      required: true
       
   - type: textarea
     id: issue
