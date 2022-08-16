@@ -15,12 +15,12 @@ body:
   - type: dropdown
     id: edition
     attributes:
-      label: Select what editon you are using
+      label: Pack edition
+      description: Select wich edition is affected by your issue
       options:
         - 1.8
         - 1.9 - 1.12
         - 1.13+
-        
     validations:
       reqired: true
 
