@@ -6,8 +6,6 @@ body:
   - type: markdown
     attributes:
       value: >-
-        ## Instructions
-
         This is a little template to ensure enough information is provided.
         Please fill out all of the below for a nice and clean bug report!
         
