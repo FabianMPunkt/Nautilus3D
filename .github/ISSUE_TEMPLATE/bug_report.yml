@@ -27,7 +27,7 @@ body:
     attributes:
       label: Game Version
       description: >-
-        Please provide the exact game version thst is listed within the F3-Menu
+        Please provide the exact game version that is listed within the F3-Menu
       placeholder: "Example: 'fabric-loader-0.14.9-1.19.2', or 'Vanilla-1.19.2'"
     validations:
       required: true
