@@ -1,0 +1,35 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"parent": "minecraft:block/template_chiseled_bookshelf_slot_top_mid",
+	"textures": {
+		"texture": "block/chiseled_bookshelf_occupied"
+	},
+	"elements": [
+		{
+			"from": [11, 3, 0.25],
+			"to": [15, 4, 0.5],
+			"faces": {
+				"north": {"uv": [6, 4, 10, 5], "texture": "#texture", "cullface": "north"},
+				"west": {"uv": [9, 4, 10, 5], "texture": "#texture", "cullface": "north"},
+				"up": {"uv": [6, 4, 10, 5], "rotation": 180, "texture": "#texture", "cullface": "north"},
+				"down": {"uv": [6, 4, 10, 5], "rotation": 180, "texture": "#texture", "cullface": "north"}
+			}
+		},
+		{
+			"from": [11, 1, 0.5],
+			"to": [15, 7, 1],
+			"faces": {
+				"north": {"uv": [6, 1, 10, 7], "texture": "#texture", "cullface": "north"},
+				"west": {"uv": [9, 1, 10, 7], "texture": "#texture", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "book",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

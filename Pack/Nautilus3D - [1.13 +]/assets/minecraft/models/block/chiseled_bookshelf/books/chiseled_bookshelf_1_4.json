@@ -1,0 +1,38 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"parent": "minecraft:block/template_chiseled_bookshelf_slot_bottom_mid",
+	"textures": {
+		"texture": "block/chiseled_bookshelf_occupied"
+	},
+	"elements": [
+		{
+			"from": [6, 11, 0],
+			"to": [10, 12, 0.25],
+			"faces": {
+				"north": {"uv": [6, 12, 10, 13], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [6, 12, 7, 13], "texture": "#texture", "cullface": "north"},
+				"west": {"uv": [9, 12, 10, 13], "texture": "#texture", "cullface": "north"},
+				"up": {"uv": [6, 12, 10, 13], "rotation": 180, "texture": "#texture", "cullface": "north"},
+				"down": {"uv": [6, 12, 10, 13], "rotation": 180, "texture": "#texture", "cullface": "north"}
+			}
+		},
+		{
+			"from": [6, 9, 0.25],
+			"to": [10, 14, 1],
+			"faces": {
+				"north": {"uv": [6, 10, 10, 15], "texture": "#texture", "cullface": "north"},
+				"east": {"uv": [6, 10, 7, 15], "texture": "#texture", "cullface": "north"},
+				"west": {"uv": [9, 10, 10, 15], "texture": "#texture", "cullface": "north"},
+				"up": {"uv": [6, 10, 10, 10.75], "rotation": 180, "texture": "#texture", "cullface": "north"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "book",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
