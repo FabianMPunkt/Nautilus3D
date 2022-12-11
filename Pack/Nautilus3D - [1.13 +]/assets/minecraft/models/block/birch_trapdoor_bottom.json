@@ -2,9 +2,9 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "custom_textures/trapdoors/birch/birch_trapdoor_side",
-		"particle": "custom_textures/trapdoors/birch/birch_trapdoor",
-		"texture": "custom_textures/trapdoors/birch/birch_trapdoor"
+		"1": "custom_textures/doors/trapdoors/birch/birch_trapdoor_side",
+		"particle": "custom_textures/doors/trapdoors/birch/birch_trapdoor",
+		"texture": "custom_textures/doors/trapdoors/birch/birch_trapdoor"
 	},
 	"elements": [
 		{

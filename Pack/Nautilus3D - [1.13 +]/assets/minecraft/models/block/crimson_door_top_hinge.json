@@ -3,8 +3,8 @@
 	"parent": "minecraft:block/door_bottom",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "custom_textures/doors/crimson/crimson_door_top",
-		"bottom": "custom_textures/doors/crimson/crimson_door_top"
+		"particle": "custom_textures/doors/doors/crimson/crimson_door_top",
+		"bottom": "custom_textures/doors/doors/crimson/crimson_door_top"
 	},
 	"elements": [
 		{

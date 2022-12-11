@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"parent": "minecraft:block/door_bottom",
 	"textures": {
-		"1": "custom_textures/doors/warped/warped_door_top_clean",
-		"particle": "custom_textures/doors/warped/warped_door_top",
-		"bottom": "custom_textures/doors/warped/warped_door_top"
+		"1": "custom_textures/doors/doors/warped/warped_door_top_clean",
+		"particle": "custom_textures/doors/doors/warped/warped_door_top",
+		"bottom": "custom_textures/doors/doors/warped/warped_door_top"
 	},
 	"elements": [
 		{

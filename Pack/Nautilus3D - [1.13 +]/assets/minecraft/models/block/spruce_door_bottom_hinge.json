@@ -2,9 +2,9 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "custom_textures/doors/spruce/spruce_door_bottom",
-		"particle": "custom_textures/doors/spruce/spruce_door_bottom",
-		"bottom": "custom_textures/doors/spruce/spruce_door_bottom_clean"
+		"1": "custom_textures/doors/doors/spruce/spruce_door_bottom",
+		"particle": "custom_textures/doors/doors/spruce/spruce_door_bottom",
+		"bottom": "custom_textures/doors/doors/spruce/spruce_door_bottom_clean"
 	},
 	"elements": [
 		{
