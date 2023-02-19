@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/leaves/_base/leaves0",
+  "textures": {
+    "all": "minecraft:block/cherry_leaves",
+	"bush": "minecraft:custom_textures/leaves/bushy_cherry_leaves"
+  }
+}
