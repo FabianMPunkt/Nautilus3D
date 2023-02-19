@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/fences/template_fence_post_animated",
+  "textures": {
+    "top": "custom_textures/fences/warped/warped_fence_post",
+	"side": "minecraft:block/warped_stem"
+  }
+}
