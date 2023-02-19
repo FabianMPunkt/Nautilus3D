@@ -1,0 +1,32 @@
+{
+    "multipart": [
+        {   "apply": { "model": "minecraft:block/fences/nether_brick/nether_brick_fence_post" }},
+		
+        {   "when": { "north": "true" },
+            "apply": { "model": "minecraft:block/fences/nether_brick/nether_brick_fence_side" }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "minecraft:block/fences/nether_brick/nether_brick_fence_side", "y": 90 }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "minecraft:block/fences/nether_brick/nether_brick_fence_side", "y": 180 }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "minecraft:block/fences/nether_brick/nether_brick_fence_side", "y": 270 }
+        },
+		
+		{	"when": { "north": "false", "south": "true" },
+			"apply": { "model": "minecraft:block/fences/nether_brick/nether_brick_fence_cap" }
+		},
+		{	"when": { "east": "false", "west": "true" },
+			"apply": { "model": "minecraft:block/fences/nether_brick/nether_brick_fence_cap", "y": 90 }
+		},
+		{	"when": { "south": "false", "north": "true" },
+			"apply": { "model": "minecraft:block/fences/nether_brick/nether_brick_fence_cap", "y": 180 }
+		},
+		{	"when": { "west": "false", "east": "true" },
+			"apply": { "model": "minecraft:block/fences/nether_brick/nether_brick_fence_cap", "y": 270 }
+		}
+		
+    ]
+}
