@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/fences/template_fence_post",
+    "textures": {
+        "texture": "custom_textures/fences/jungle/jungle_fence_post"
+    }
+}
