@@ -4,9 +4,9 @@
 	"textures": {
 		"particle": "blocks/repeater",
 		"top": "blocks/repeater",
-		"lit": "blocks/redstone_torch_off",
 		"slab": "blocks/stone_slab_top",
-		"lock": "blocks/bedrock"
+		"lock": "blocks/bedrock",
+		"lit": "custom_textures/torches/torch_wood"
 	},
 	"elements": [
 		{
@@ -20,18 +20,6 @@
 				"west": {"uv": [0, 14, 6, 16], "texture": "#slab", "cullface": "west"},
 				"up": {"uv": [0, 0, 16, 6], "texture": "#top"},
 				"down": {"uv": [0, 10, 16, 16], "texture": "#slab", "cullface": "down"}
-			}
-		},
-		{
-			"name": "Element",
-			"from": [7, 2, 2],
-			"to": [9, 7, 4],
-			"faces": {
-				"north": {"uv": [7, 6, 9, 11], "texture": "#lit"},
-				"east": {"uv": [7, 6, 9, 11], "texture": "#lit"},
-				"south": {"uv": [7, 6, 9, 11], "texture": "#lit"},
-				"west": {"uv": [7, 6, 9, 11], "texture": "#lit"},
-				"up": {"uv": [7, 6, 9, 8], "texture": "#lit"}
 			}
 		},
 		{
@@ -88,6 +76,18 @@
 				"south": {"uv": [2, 7, 14, 9], "texture": "#lock"},
 				"west": {"uv": [6, 7, 8, 9], "texture": "#lock"},
 				"up": {"uv": [7, 2, 9, 14], "rotation": 90, "texture": "#lock"}
+			}
+		},
+		{
+			"name": "Element",
+			"from": [7, 2, 2],
+			"to": [9, 7, 4],
+			"faces": {
+				"north": {"uv": [0, 6, 2, 11], "texture": "#lit"},
+				"east": {"uv": [3, 6, 5, 11], "texture": "#lit"},
+				"south": {"uv": [2, 6, 4, 11], "texture": "#lit"},
+				"west": {"uv": [1, 6, 3, 11], "texture": "#lit"},
+				"up": {"uv": [5, 6, 7, 8], "texture": "#lit"}
 			}
 		}
 	],
