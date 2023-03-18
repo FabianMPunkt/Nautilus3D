@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=up":  { "model": "torches/redstone/redstone_torch_on" },
+        "facing=east":  { "model": "torches/redstone/redstone_torch_wall_on" },
+        "facing=south":  { "model": "torches/redstone/redstone_torch_wall_on", "y": 90 },
+        "facing=west":  { "model": "torches/redstone/redstone_torch_wall_on", "y": 180 },
+        "facing=north":  { "model": "torches/redstone/redstone_torch_wall_on", "y": 270 }
+    }
+}
