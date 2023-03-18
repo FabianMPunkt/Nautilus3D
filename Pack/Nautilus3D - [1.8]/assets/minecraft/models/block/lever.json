@@ -2,7 +2,7 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "blocks/redstone_torch_off",
+		"2": "custom_textures/torches/torch_wood",
 		"particle": "blocks/cobblestone",
 		"base": "blocks/cobblestone",
 		"lever": "blocks/lever"
@@ -25,10 +25,10 @@
 			"to": [8.75, 9, 8.75],
 			"rotation": {"angle": -45, "axis": "x", "origin": [8, 1, 8]},
 			"faces": {
-				"north": {"uv": [7.25, 8, 8.75, 16], "texture": "#2"},
-				"east": {"uv": [7.25, 8, 8.75, 16], "texture": "#2"},
-				"south": {"uv": [7.25, 8, 8.75, 16], "texture": "#2"},
-				"west": {"uv": [7.25, 8, 8.75, 16], "texture": "#2"}
+				"north": {"uv": [0.25, 8, 1.75, 16], "texture": "#2"},
+				"east": {"uv": [3.25, 8, 4.75, 16], "texture": "#2"},
+				"south": {"uv": [2.25, 8, 3.75, 16], "texture": "#2"},
+				"west": {"uv": [1.25, 8, 2.75, 16], "texture": "#2"}
 			}
 		},
 		{
