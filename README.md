@@ -47,7 +47,7 @@ All these are in-game screenshots with some colour-correction done in photoshop.
 The Bokeh was achieved with a deph-map shader & photoshop
 
 ![Title Screen](https://user-images.githubusercontent.com/78741736/142738126-cf701b92-71d7-4eed-b71f-bfd9cd2e1c65.png)
-![7](https://user-images.githubusercontent.com/78741736/142762275-14c0e7bb-0eb5-4654-947f-c8d28a25bb78.png)
+![3](https://user-images.githubusercontent.com/78741736/226165116-3cd3647c-916e-4ea8-91df-71b2cf7d9a3d.png)
 ![4](https://user-images.githubusercontent.com/78741736/142762253-a50cda3e-3b89-4631-80a9-a6646032166a.png)
 ![5](https://user-images.githubusercontent.com/78741736/142762256-462120e8-2dbd-4b60-a898-07e7f4577811.png)
 ![6](https://user-images.githubusercontent.com/78741736/142762258-d2e8e90d-220d-43f5-be9d-ec338e9957f6.png)
@@ -57,6 +57,7 @@ The Bokeh was achieved with a deph-map shader & photoshop
 
 
 ## Links
+
 
 [CurseForge](https://www.curseforge.com/minecraft/texture-packs/nautilus3d)
 
