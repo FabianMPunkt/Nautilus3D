@@ -1,17 +1,16 @@
 # Nautilus3D
 
-## GitHub page Work in progress!!
 
 Nautilus3D is a Minecraft Resource-pack, mainly focused on 3D-Models with a vanilla style.
 
 Wie aim to provide a highly polished pack with a focus on decorative blocks.
 
-More information and a full feature-list can be found in the [GitHub-Wiki](https://github.com/FabianMPunkt/Nautilus3D/wiki)
 
 ## Noteworthy Features
 
 - Randomness
   - Fully randomized bookshelves
+  - Fully randomized chiseled bookshelves
   - Fully randomized ores
   - Fully randomized crops
   - Semi random crafting table
@@ -19,10 +18,28 @@ More information and a full feature-list can be found in the [GitHub-Wiki](https
 - Animated 3D Stonecutter
 - Epic Trident handmodel (requires OptiFine)
 - Flawless bushy leaves
-- Flawless doors
+- Fully featured doors & trapdoors
 - Flawless rails
 - Detailed brewing stand
 
+
+## Compatibility
+There's three existing editions:
+
+- Nautulus3D 1.8
+- Nautulus3D 1.9 - 1.12
+- Nautulus3D 1.13 +
+
+The upcoming Nautilus3D V1.8 will be the last version available for 1.12 and older. Moving forward, we will ony support newer versions of the game. All old releases will still be in the [Release Arcive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
+
+The main focus is always laid on the newest version of the game, but the pack should work all the way back to 1.13, due to [the flattening update](https://minecraft.fandom.com/wiki/Java_Edition_1.13/Flattening).
+
+All testing is done using the latest stable OptiFine release, and the latest available Fabric & Sodium.
+
+Some features (like the Trident) will only work with OptiFine.
+There are also Fabric mods that can provide OptiFine-parity, like [CEM](https://modrinth.com/mod/cem), and [CIT-Resewn](https://modrinth.com/mod/cit-resewn), but i couldn't get them working on 1.19.4.
+
+Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
 
 ## Screenshots
 All these are in-game screenshots with some colour-correction done in photoshop.
