@@ -41,6 +41,18 @@ There are also Fabric mods that can provide OptiFine-parity, like [CEM](https://
 
 Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
 
+### Shaders
+I'ts been a high priority for us to make Nautilus3D play nice with most shaders that are out there. That's also why we didn't include any fany flower / vegetation models, because that would look horrible combined with wind effects. (Also, it's really hard to make lol)
+
+Additonally, due to Minecrafts dodgy ambient occlusion and complete lack of Anti-Aliasing, even basic shaders would make a great difference.
+This is especially visible on bushy leaves.
+
+Our top picks are:
+- [Sildurs Basic / Enhanced Default](https://sildurs-shaders.github.io/downloads/)
+- [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+- [SEUS Renewed](https://www.sonicether.com/seus/)
+- [Chocapic V8 / V9](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) (OptiFine only)
+
 ## Screenshots
 All these are in-game screenshots with some colour-correction done in photoshop.
 
