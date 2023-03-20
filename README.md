@@ -54,9 +54,7 @@ Our top picks are:
 - [Chocapic V8 / V9](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) (OptiFine only)
 
 ## Screenshots
-All these are in-game screenshots with some colour-correction done in photoshop.
-
-The Bokeh was achieved with a deph-map shader & photoshop
+All these are in-game screenshots with colour-grading and a lens blur done in Photoshop
 
 ![Title Screen](https://user-images.githubusercontent.com/78741736/142738126-cf701b92-71d7-4eed-b71f-bfd9cd2e1c65.png)
 ![3](https://user-images.githubusercontent.com/78741736/226165116-3cd3647c-916e-4ea8-91df-71b2cf7d9a3d.png)
