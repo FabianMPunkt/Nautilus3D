@@ -35,8 +35,8 @@
 		},
 		{
 			"name": "Element",
-			"from": [7, 1, 11],
-			"to": [9, 7, 13],
+			"from": [7, 1, 12],
+			"to": [9, 7, 14],
 			"faces": {
 				"north": {"uv": [0, 6, 2, 12], "texture": "#lit"},
 				"east": {"uv": [3, 6, 5, 12], "texture": "#lit"},
