@@ -56,14 +56,17 @@ Our top picks are:
 ## Screenshots
 All these are in-game screenshots with colour-grading and a lens blur done in Photoshop
 
-![Title Screen](https://user-images.githubusercontent.com/78741736/142738126-cf701b92-71d7-4eed-b71f-bfd9cd2e1c65.png)
-![3](https://user-images.githubusercontent.com/78741736/226165116-3cd3647c-916e-4ea8-91df-71b2cf7d9a3d.png)
-![4](https://user-images.githubusercontent.com/78741736/142762253-a50cda3e-3b89-4631-80a9-a6646032166a.png)
-![5](https://user-images.githubusercontent.com/78741736/142762256-462120e8-2dbd-4b60-a898-07e7f4577811.png)
-![6](https://user-images.githubusercontent.com/78741736/142762258-d2e8e90d-220d-43f5-be9d-ec338e9957f6.png)
-![10](https://user-images.githubusercontent.com/78741736/142762260-f23ff6a8-6e7b-4f63-ad67-11ca3868188f.png)
-![11](https://user-images.githubusercontent.com/78741736/142762261-bc316b61-31ec-4dd8-8e47-46d2cae86287.png)
-![12](https://user-images.githubusercontent.com/78741736/142762263-9241488f-0e4b-4adf-b53f-21ac0ef23299.png)
+More screenshots on our [CurseForge](https://www.curseforge.com/minecraft/texture-packs/nautilus3d/screenshots) page
+
+![1](https://user-images.githubusercontent.com/78741736/226301742-b4b470ae-50c5-470d-9fd7-210874d7e720.png)
+![2](https://user-images.githubusercontent.com/78741736/226301760-e273bf60-61ca-4295-ad07-b918cb6b9048.png)
+![3](https://user-images.githubusercontent.com/78741736/226301770-686ad1a2-59e6-4081-9cef-ecf3a7298d4b.png)
+![5](https://user-images.githubusercontent.com/78741736/226301776-ab36123d-82d4-4102-a7d3-e01ce1af5e13.png)
+![6](https://user-images.githubusercontent.com/78741736/226301795-61a968eb-0d5d-43ae-8863-8e589004ffb7.png)
+![8](https://user-images.githubusercontent.com/78741736/226301800-df6c6022-265c-43b7-bced-663a4b022e8b.png)
+![9](https://user-images.githubusercontent.com/78741736/226301812-7951ddf5-0be6-4249-b8ba-100bcd575810.png)
+![11](https://user-images.githubusercontent.com/78741736/226301821-3c886144-2a6d-41b9-8b0b-0075e9ca13c0.png)
+
 
 
 ## Links
