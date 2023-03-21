@@ -39,7 +39,7 @@ The main focus is always laid on the newest version of the game, but the pack sh
 All testing is done using the latest stable OptiFine release, and the latest available Fabric & Sodium.
 
 Some features (like the Trident) will only work with OptiFine.
-There are also Fabric mods that can provide OptiFine-parity, like [CEM](https://modrinth.com/mod/cem), and [CIT-Resewn](https://modrinth.com/mod/cit-resewn), but i couldn't get them working on 1.19.4.
+There are also Fabric mods that can provide OptiFine-parity, like [CEM](https://modrinth.com/mod/cem), [CIT-Resewn](https://modrinth.com/mod/cit-resewn), and [Continuity](https://modrinth.com/mod/continuity), but non of them work for 1.19.4 yet.
 
 Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
 
