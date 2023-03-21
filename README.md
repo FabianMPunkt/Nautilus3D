@@ -12,7 +12,7 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
 
 - Randomness
   - Fully randomized bookshelves
-  - Fully randomized chiseled bookshelves
+  - Fully randomized chiselled bookshelves
   - Fully randomized ores
   - Fully randomized crops
   - Semi random crafting table
