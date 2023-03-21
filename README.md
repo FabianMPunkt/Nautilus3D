@@ -3,7 +3,7 @@
 
 Nautilus3D is a Minecraft Resource-pack, mainly focused on 3D-Models with a vanilla style.
 
-We aim to provide a highly polished pack with a focus on decorative blocks.
+We aim to provide a highly polished pack with a focus on decorative blocks, and strong optimization.
 
 For bug-reports & feature-requests please open an issue on our [GitHub issue-page](https://github.com/FabianMPunkt/Nautilus3D/issues/new/choose "GitHub issue-page")!
 
