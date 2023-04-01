@@ -1,7 +1,0 @@
-{
-	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/cross",
-	"textures": {
-		"cross": "custom_textures/oxeye_daisy_small"
-	}
-}

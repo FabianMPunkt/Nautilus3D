@@ -1,8 +1,0 @@
-{
-	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/cross",
-	"textures": {
-		"particle": "custom_textures/allium_small",
-		"cross": "custom_textures/allium_small"
-	}
-}

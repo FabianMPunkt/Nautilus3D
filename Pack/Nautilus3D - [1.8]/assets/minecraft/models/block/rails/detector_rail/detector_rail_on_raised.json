@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/rails/detector_rail/parents/parent_detector_rail_raised",
-  "textures": {
-    "redstone": "minecraft:custom_textures/rails/redstone_bright",
-	"particle": "minecraft:blocks/rail_detector_powered"
-  }
-}

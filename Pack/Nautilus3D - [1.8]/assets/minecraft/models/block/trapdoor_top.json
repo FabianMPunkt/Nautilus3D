@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/parents/trapdoor/trapdoor_top",
-  "textures": {
-    "trapdoor": "minecraft:custom_textures/trapdoors/oak/oak_trapdoor",
-	"side": "minecraft:custom_textures/trapdoors/oak/oak_trapdoor_side"
-  }
-}
