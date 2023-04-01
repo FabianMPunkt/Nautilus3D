@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/parents/parent_redstone_lamp",
-  "textures": {
-    "lamp": "minecraft:blocks/redstone_lamp"
-  }
-}

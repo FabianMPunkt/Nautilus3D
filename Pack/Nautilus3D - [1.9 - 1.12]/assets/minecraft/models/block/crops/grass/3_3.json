@@ -1,9 +1,0 @@
-{
-	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "minecraft:block/crops/base/3_3",
-	"ambientocclusion": false,
-	"textures": {
-		"particle": "blocks/tallgrass",
-		"crop": "blocks/tallgrass"
-	}
-}

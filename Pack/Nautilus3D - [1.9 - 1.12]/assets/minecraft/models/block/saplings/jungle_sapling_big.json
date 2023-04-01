@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/saplings/parent/parent_sapling_big",
-  "textures": {
-    "sapling": "minecraft:custom_textures/saplings/jungle_sapling_big"
-  }
-}

@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/fences/template_fence_inventory",
-  "textures": {
-    "#post": "minecraft:custom_textures/fences/birch/birch_fence_post",
-	"#side": "minecraft:custom_textures/fences/birch/birch_fence_side"
-  }
-}
