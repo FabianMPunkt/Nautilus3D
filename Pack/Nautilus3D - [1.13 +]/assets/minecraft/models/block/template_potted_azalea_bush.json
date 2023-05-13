@@ -1,0 +1,67 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/flower_pot"
+	},
+	"elements": [
+		{
+			"from": [4, 15.9, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"up": {"uv": [4, 4, 12, 12], "texture": "#top", "cullface": "up"},
+				"down": {"uv": [4, 12, 12, 4], "texture": "#top"}
+			}
+		},
+		{
+			"from": [4, 8, 4],
+			"to": [12, 16, 4],
+			"faces": {
+				"north": {"uv": [4, 5, 12, 13], "texture": "#side"},
+				"south": {"uv": [12, 5, 4, 13], "texture": "#side"}
+			}
+		},
+		{
+			"from": [4, 8, 12],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [12, 5, 4, 13], "texture": "#side"},
+				"south": {"uv": [4, 5, 12, 13], "texture": "#side"}
+			}
+		},
+		{
+			"from": [4, 8, 4],
+			"to": [4, 16, 12],
+			"faces": {
+				"east": {"uv": [12, 5, 4, 13], "texture": "#side"},
+				"west": {"uv": [4, 5, 12, 13], "texture": "#side"}
+			}
+		},
+		{
+			"from": [12, 8, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"east": {"uv": [4, 5, 12, 13], "texture": "#side"},
+				"west": {"uv": [12, 5, 4, 13], "texture": "#side"}
+			}
+		},
+		{
+			"from": [2.6, 4, 8],
+			"to": [13.4, 16, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 4, 16, 16], "texture": "#plant"},
+				"south": {"uv": [0, 4, 16, 16], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [8, 4, 2.6],
+			"to": [8, 16, 13.4],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 4, 16, 16], "texture": "#plant"},
+				"west": {"uv": [0, 4, 16, 16], "texture": "#plant"}
+			}
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "multipart": [
+		{	"apply": { "model": "block/flower_pot"}},
+		
+		{	"apply": [
+		
+			{	"model": "block/potted_flowering_azalea_bush" },
+			{	"model": "block/potted_flowering_azalea_bush", "y": 90 },
+			{	"model": "block/potted_flowering_azalea_bush", "y": 180 },
+			{	"model": "block/potted_flowering_azalea_bush", "y": 270 }
+			]
+		}
+    ]
+}
