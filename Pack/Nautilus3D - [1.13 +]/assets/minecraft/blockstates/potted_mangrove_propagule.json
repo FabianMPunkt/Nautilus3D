@@ -1,0 +1,14 @@
+{
+    "multipart": [
+		{	"apply": { "model": "block/flower_pot"}},
+		
+		{	"apply": [
+		
+			{	"model": "block/mangrove_propagule" },
+			{	"model": "block/mangrove_propagule", "y": 90 },
+			{	"model": "block/mangrove_propagule", "y": 180 },
+			{	"model": "block/mangrove_propagule", "y": 270 }
+			]
+		}
+    ]
+}
