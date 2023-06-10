@@ -32,14 +32,14 @@ There's three existing editions:
 - Nautulus3D 1.9 - 1.12
 - Nautulus3D 1.13 +
 
-The upcoming Nautilus3D V1.8 will be the last version available for 1.12 and older. Moving forward, we will ony support newer versions of the game. All old releases will still be in the [Release Arcive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
+Nautilus3D V1.8 will be the last version available for 1.12 and older. Moving forward, we will ony support newer versions of the game. All old releases will still be in the [Release Arcive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
 
 The main focus is always laid on the newest version of the game, but the pack should work all the way back to 1.13, due to [the flattening update](https://minecraft.fandom.com/wiki/Java_Edition_1.13/Flattening).
 
 All testing is done using the latest stable OptiFine release, and the latest available Fabric & Sodium.
 
 Some features (like the Trident) will only work with OptiFine.
-There are also Fabric mods that can provide OptiFine-parity, like [CEM](https://modrinth.com/mod/cem), [CIT-Resewn](https://modrinth.com/mod/cit-resewn), and [Continuity](https://modrinth.com/mod/continuity), but non of them work for 1.19.4 yet.
+There are also Fabric mods that can provide OptiFine-parity, like [EMF](https://modrinth.com/mod/entity-model-features), [CIT-Resewn](https://modrinth.com/mod/cit-resewn), and [Continuity](https://modrinth.com/mod/continuity), but i couldn't get them working in 1.20 yet.
 
 Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
 
@@ -53,7 +53,7 @@ Our top picks are:
 - [Sildurs Basic / Enhanced Default](https://sildurs-shaders.github.io/downloads/)
 - [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 - [SEUS Renewed](https://www.sonicether.com/seus/)
-- [Chocapic V8 / V9](https://www.curseforge.com/minecraft/customization/chocapic13-shaders) (OptiFine only)
+- [Chocapic V8 / V9](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)
 
 ## Screenshots
 All these are in-game screenshots with colour-grading and a lens blur done in Photoshop
