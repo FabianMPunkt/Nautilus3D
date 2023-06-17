@@ -6,8 +6,8 @@
 	"elements": [
 		{
 			"name": "top bar",
-			"from": [7, 11, 5],
-			"to": [9, 14, 6],
+			"from": [7, 11, 5.05],
+			"to": [9, 13.99, 6],
 			"faces": {
 				"north": {"uv": [1, 2, 3, 5], "texture": "#texture", "cullface": "north"},
 				"east": {"uv": [3, 2, 4, 5], "texture": "#texture"},
@@ -18,7 +18,7 @@
 		},
 		{
 			"name": "lower bar",
-			"from": [7, 5, 5],
+			"from": [7, 5, 5.05],
 			"to": [9, 8, 6],
 			"faces": {
 				"north": {"uv": [1, 5, 3, 8], "texture": "#texture", "cullface": "north"},
