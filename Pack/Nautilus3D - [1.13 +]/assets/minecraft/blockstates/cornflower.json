@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-		{ "model": "block/cornflower_small" },
-		{ "model": "block/cornflower" }
-		]
-	}
-}
