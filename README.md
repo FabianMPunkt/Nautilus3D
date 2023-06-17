@@ -51,7 +51,8 @@ This is especially visible on bushy leaves.
 
 Our top picks are:
 - [Sildurs Basic / Enhanced Default](https://sildurs-shaders.github.io/downloads/)
-- [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
+- [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
+- [Make-Up - Ultrafast](https://modrinth.com/shader/makeup-ultra-fast-shaders)
 - [SEUS Renewed](https://www.sonicether.com/seus/)
 - [Chocapic V8 / V9](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)
 
