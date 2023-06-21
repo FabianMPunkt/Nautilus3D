@@ -71,6 +71,7 @@ More screenshots on our [CurseForge](https://www.curseforge.com/minecraft/textur
 
 ## Links
 
+[Modrinth](https://modrinth.com/resourcepack/nautilus3d)
 
 [CurseForge](https://www.curseforge.com/minecraft/texture-packs/nautilus3d)
 
