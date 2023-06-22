@@ -59,7 +59,7 @@ Our top picks are:
 ## Screenshots
 All these are in-game screenshots with colour-grading and a lens blur done in Photoshop
 
-More screenshots on our [CurseForge](https://www.curseforge.com/minecraft/texture-packs/nautilus3d/screenshots) page
+More screenshots on our [Modrinth](https://modrinth.com/resourcepack/nautilus3d/gallery)
 
 
 ![1](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/ba7a2bac-2549-4f5b-acb2-112adf866904)
