@@ -1,7 +1,6 @@
 # Nautilus3D
 
-![13_unused](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/b0009520-f62b-4caf-8148-903bff37ebce)
-
+![_Header](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/7238597a-9e82-41b8-8bff-b380079e60fb)
 
 Nautilus3D is a Minecraft Resource-pack, mainly focused on 3D-Models with a vanilla style.
 
