@@ -38,7 +38,7 @@ Old Editions for Minecraft 1.8, and 1.12 will not recieve updates anymore. You c
 All testing is done using the latest stable Vanilla release, and the latest available Fabric, Sodium & Iris. Optifine, and Forge should work just fine aswell.
 
 Some features (like the Trident) require OptiFine to work as intended.
-If you use Fabric & Sodium you can use [EMF](https://modrinth.com/mod/entity-model-features) and [ETF](https://modrinth.com/mod/entitytexturefeatures) for custom entity-models, [CIT-Resewn](https://modrinth.com/mod/cit-resewn) for custom item-textures, and [Continuity](https://modrinth.com/mod/continuity) for connected-textures-
+If you use Fabric & Sodium you can use [EMF](https://modrinth.com/mod/entity-model-features) and [ETF](https://modrinth.com/mod/entitytexturefeatures) for custom entity-models, [CIT-Resewn](https://modrinth.com/mod/cit-resewn) for custom item-textures, and [Continuity](https://modrinth.com/mod/continuity) for connected-textures.
 They are all backwards-compatible with OptiFine and work just fine in 1.20.2 using the latest Fabric + Sodium.
 
 Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
