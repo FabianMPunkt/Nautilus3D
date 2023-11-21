@@ -10,7 +10,7 @@ This project is Open-Source and all files are available on [GitHub](https://gith
 
 For bug-reports & feature-requests please open an issue on our [GitHub issue-page](https://github.com/FabianMPunkt/Nautilus3D/issues/new/choose "GitHub issue-page")!
 
-[![Download](https://raw.githubusercontent.com/Prospector/badges/master/modrinth-badge-72h-padded.png)](https://modrinth.com/resourcepack/nautilus3d/version/V1.9)
+[![Download](https://raw.githubusercontent.com/Prospector/badges/master/modrinth-badge-72h-padded.png)](https://modrinth.com/resourcepack/nautilus3d/versions)
 
 ## Noteworthy Features
 
