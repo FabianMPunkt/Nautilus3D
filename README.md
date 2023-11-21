@@ -31,15 +31,18 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
 
 
 ## Compatibility
-We will always lay our focus on the newest version of Minecraft, but the pack should more or less work all the way back to 1.13, due to [the flattening update](https://minecraft.fandom.com/wiki/Java_Edition_1.13/Flattening).
+We mainly lay our focus on the newest version of Minecraft, but the pack should more or less work all the way back to 1.13, due to [the flattening update](https://minecraft.fandom.com/wiki/Java_Edition_1.13/Flattening).
 
-Old Editions for Minecraft 1.8, and 1.12 will not recieve updates anymore. You can still find them in the [Release Arcive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
+In older versions of Nautilus3D we used to release editions for 1.8 - 1.12 but we decided to stop supporting these ancient versions, because it was just too much work creating the same texture pack 3 times for each format.
+You can still find these old versions in the [Release Arcive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
 
 All testing is done using the latest stable Vanilla release, and the latest available Fabric, Sodium & Iris. Optifine, and Forge should work just fine aswell.
 
-Some features (like the Trident) require OptiFine to work as intended.
-If you use Fabric & Sodium you can use [EMF](https://modrinth.com/mod/entity-model-features) and [ETF](https://modrinth.com/mod/entitytexturefeatures) for custom entity-models, [CIT-Resewn](https://modrinth.com/mod/cit-resewn) for custom item-textures, and [Continuity](https://modrinth.com/mod/continuity) for connected-textures.
-They are all backwards-compatible with OptiFine and work just fine in 1.20.2 using the latest Fabric + Sodium.
+Some special features (like the Trident) require OptiFine to work as intended.
+If you use Fabric & Sodium you can use these alternatives:
+ - [EMF](https://modrinth.com/mod/entity-model-features) and [ETF](https://modrinth.com/mod/entitytexturefeatures) for custom entity-models
+ - [CIT-Resewn](https://modrinth.com/mod/cit-resewn) for custom item-textures
+ - [Continuity](https://modrinth.com/mod/continuity) for connected-textures.
 
 Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
 
