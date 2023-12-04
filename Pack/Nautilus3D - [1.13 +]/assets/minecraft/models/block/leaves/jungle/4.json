@@ -1,6 +1,5 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"ambientocclusion": false,
 	"textures": {
 		"2": "custom_textures/leaves/bushy_jungle_leaves_02",
 		"particle": "block/jungle_leaves",
@@ -10,7 +9,6 @@
 		{
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
-			"shade": false,
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "north", "tintindex": 0},
 				"east": {"uv": [0, 0, 16, 16], "texture": "#all", "cullface": "east", "tintindex": 0},
