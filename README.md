@@ -46,7 +46,11 @@ If you use Fabric & Sodium you can use these alternatives:
 
 Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
 
-### Shaders
+## Performance
+The only thing really inpacting the in-game performance are our fancy leaves and their variations. We tried our best to make them as fast as possible, while not compromising on their variety.
+If you're on Fabric/Sodium, we recommend using the ["Cull Less Leaves"](https://modrinth.com/mod/cull-less-leaves) mod.
+
+## Shaders
 I'ts been a high priority for us to make Nautilus3D play nice with most shaders that are out there. That's also why we didn't include any fancy flower / vegetation models, because that would look horrible combined with wind effects. (Also, it's really hard to make lol)
 
 Additonally, due to Minecrafts dodgy ambient occlusion and complete lack of Anti-Aliasing, even basic shaders would make a great difference.
