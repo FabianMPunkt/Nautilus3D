@@ -6,67 +6,67 @@
 
 	{	"when": { "age": "5" },
 			  "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/1_1", "y": 0 , "weight":	99	 },
-							{ "model": "block/crops/carrots/var1/stage2/1_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage2/1_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage2/1_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage2/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage2/1_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage2/1_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage2/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage2/1_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage2/1_1", "weight":	99	 },
+							{ "model": "block/crops/carrots/var1/stage2/1_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage2/1_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage2/1_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage2/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage2/1_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage2/1_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage2/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage2/1_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "5" },
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/2_1", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage2/2_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage2/2_3", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage2/2_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage2/2_2", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var2/stage2/2_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage2/2_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var3/stage2/2_2", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage2/2_3", "y": 0 , "weight":	92	 }
+							{ "model": "block/crops/carrots/var1/stage2/2_1", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage2/2_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage2/2_3", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage2/2_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage2/2_2", "weight":	91	 },
+							{ "model": "block/crops/carrots/var2/stage2/2_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/2_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var3/stage2/2_2", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/2_3", "weight":	92	 }
 							]
 				},	
 		{	"when": { "age": "5" },	
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage2/3_2", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var1/stage2/3_3", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage2/3_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage2/3_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage2/3_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage2/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage2/3_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage2/3_3", "y": 0 , "weight":	98	 }
+							{ "model": "block/crops/carrots/var1/stage2/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage2/3_2", "weight":	93	 },
+							{ "model": "block/crops/carrots/var1/stage2/3_3", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage2/3_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage2/3_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage2/3_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage2/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage2/3_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage2/3_3", "weight":	98	 }
 							]
 				},
 		{	"when": { "age": "5" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/4_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage2/4_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var1/stage2/4_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage2/4_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage2/4_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage2/4_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage2/4_1", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage2/4_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage2/4_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage2/4_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage2/4_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var1/stage2/4_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage2/4_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage2/4_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage2/4_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage2/4_1", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/4_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage2/4_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "5" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/5_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var1/stage2/5_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var1/stage2/5_3", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage2/5_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage2/5_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage2/5_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage2/5_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage2/5_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage2/5_3", "y": 0 , "weight":	97	 }
+							{ "model": "block/crops/carrots/var1/stage2/5_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var1/stage2/5_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var1/stage2/5_3", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage2/5_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage2/5_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage2/5_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/5_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage2/5_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage2/5_3", "weight":	97	 }
 							]
 				},
 				
@@ -75,67 +75,67 @@
 				
 		{	"when": { "age": "0" },
 			  "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/1_1", "y": 0 , "weight":	99	 },
-							{ "model": "block/crops/carrots/var1/stage0/1_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage0/1_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage0/1_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage0/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage0/1_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage0/1_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage0/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage0/1_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage0/1_1", "weight":	99	 },
+							{ "model": "block/crops/carrots/var1/stage0/1_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage0/1_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage0/1_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage0/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage0/1_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage0/1_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage0/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage0/1_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "0" },
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/2_1", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage0/2_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage0/2_3", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage0/2_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage0/2_2", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var2/stage0/2_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage0/2_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var3/stage0/2_2", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage0/2_3", "y": 0 , "weight":	92	 }
+							{ "model": "block/crops/carrots/var1/stage0/2_1", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage0/2_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage0/2_3", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage0/2_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage0/2_2", "weight":	91	 },
+							{ "model": "block/crops/carrots/var2/stage0/2_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage0/2_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var3/stage0/2_2", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage0/2_3", "weight":	92	 }
 							]
 				},	
 		{	"when": { "age": "0" },	
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage0/3_2", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var1/stage0/3_3", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage0/3_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage0/3_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage0/3_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage0/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage0/3_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage0/3_3", "y": 0 , "weight":	98	 }
+							{ "model": "block/crops/carrots/var1/stage0/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage0/3_2", "weight":	93	 },
+							{ "model": "block/crops/carrots/var1/stage0/3_3", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage0/3_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage0/3_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage0/3_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage0/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage0/3_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage0/3_3", "weight":	98	 }
 							]
 				},
 		{	"when": { "age": "0" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/4_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage0/4_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var1/stage0/4_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage0/4_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage0/4_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage0/4_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage0/4_1", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage0/4_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage0/4_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage0/4_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage0/4_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var1/stage0/4_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage0/4_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage0/4_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage0/4_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage0/4_1", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage0/4_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage0/4_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "0" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/5_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var1/stage0/5_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var1/stage0/5_3", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage0/5_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage0/5_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage0/5_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage0/5_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage0/5_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage0/5_3", "y": 0 , "weight":	97	 }
+							{ "model": "block/crops/carrots/var1/stage0/5_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var1/stage0/5_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var1/stage0/5_3", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage0/5_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage0/5_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage0/5_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage0/5_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage0/5_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage0/5_3", "weight":	97	 }
 							]
 				},	
 
@@ -144,67 +144,67 @@
 
 {	"when": { "age": "1" },
 			  "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/1_1", "y": 0 , "weight":	99	 },
-							{ "model": "block/crops/carrots/var1/stage0/1_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage0/1_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage0/1_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage0/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage0/1_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage0/1_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage0/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage0/1_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage0/1_1", "weight":	99	 },
+							{ "model": "block/crops/carrots/var1/stage0/1_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage0/1_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage0/1_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage0/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage0/1_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage0/1_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage0/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage0/1_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "1" },
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/2_1", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage0/2_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage0/2_3", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage0/2_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage0/2_2", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var2/stage0/2_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage0/2_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var3/stage0/2_2", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage0/2_3", "y": 0 , "weight":	92	 }
+							{ "model": "block/crops/carrots/var1/stage0/2_1", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage0/2_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage0/2_3", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage0/2_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage0/2_2", "weight":	91	 },
+							{ "model": "block/crops/carrots/var2/stage0/2_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage0/2_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var3/stage0/2_2", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage0/2_3", "weight":	92	 }
 							]
 				},	
 		{	"when": { "age": "1" },	
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage0/3_2", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var1/stage0/3_3", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage0/3_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage0/3_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage0/3_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage0/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage0/3_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage0/3_3", "y": 0 , "weight":	98	 }
+							{ "model": "block/crops/carrots/var1/stage0/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage0/3_2", "weight":	93	 },
+							{ "model": "block/crops/carrots/var1/stage0/3_3", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage0/3_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage0/3_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage0/3_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage0/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage0/3_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage0/3_3", "weight":	98	 }
 							]
 				},
 		{	"when": { "age": "1" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/4_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage0/4_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var1/stage0/4_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage0/4_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage0/4_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage0/4_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage0/4_1", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage0/4_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage0/4_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage0/4_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage0/4_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var1/stage0/4_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage0/4_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage0/4_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage0/4_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage0/4_1", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage0/4_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage0/4_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "1" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage0/5_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var1/stage0/5_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var1/stage0/5_3", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage0/5_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage0/5_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage0/5_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage0/5_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage0/5_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage0/5_3", "y": 0 , "weight":	97	 }
+							{ "model": "block/crops/carrots/var1/stage0/5_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var1/stage0/5_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var1/stage0/5_3", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage0/5_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage0/5_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage0/5_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage0/5_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage0/5_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage0/5_3", "weight":	97	 }
 							]
 				},
 
@@ -213,67 +213,67 @@
 
 {	"when": { "age": "2" },
 			  "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/1_1", "y": 0 , "weight":	99	 },
-							{ "model": "block/crops/carrots/var1/stage1/1_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage1/1_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage1/1_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage1/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage1/1_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage1/1_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage1/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage1/1_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage1/1_1", "weight":	99	 },
+							{ "model": "block/crops/carrots/var1/stage1/1_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage1/1_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage1/1_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage1/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage1/1_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage1/1_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage1/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage1/1_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "2" },
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/2_1", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage1/2_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage1/2_3", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage1/2_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage1/2_2", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var2/stage1/2_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage1/2_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var3/stage1/2_2", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage1/2_3", "y": 0 , "weight":	92	 }
+							{ "model": "block/crops/carrots/var1/stage1/2_1", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage1/2_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage1/2_3", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage1/2_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage1/2_2", "weight":	91	 },
+							{ "model": "block/crops/carrots/var2/stage1/2_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage1/2_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var3/stage1/2_2", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage1/2_3", "weight":	92	 }
 							]
 				},	
 		{	"when": { "age": "2" },	
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage1/3_2", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var1/stage1/3_3", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage1/3_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage1/3_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage1/3_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage1/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage1/3_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage1/3_3", "y": 0 , "weight":	98	 }
+							{ "model": "block/crops/carrots/var1/stage1/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage1/3_2", "weight":	93	 },
+							{ "model": "block/crops/carrots/var1/stage1/3_3", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage1/3_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage1/3_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage1/3_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage1/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage1/3_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage1/3_3", "weight":	98	 }
 							]
 				},
 		{	"when": { "age": "2" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/4_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage1/4_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var1/stage1/4_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage1/4_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage1/4_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage1/4_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage1/4_1", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage1/4_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage1/4_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage1/4_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage1/4_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var1/stage1/4_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage1/4_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage1/4_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage1/4_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage1/4_1", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage1/4_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage1/4_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "2" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/5_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var1/stage1/5_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var1/stage1/5_3", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage1/5_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage1/5_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage1/5_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage1/5_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage1/5_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage1/5_3", "y": 0 , "weight":	97	 }
+							{ "model": "block/crops/carrots/var1/stage1/5_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var1/stage1/5_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var1/stage1/5_3", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage1/5_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage1/5_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage1/5_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage1/5_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage1/5_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage1/5_3", "weight":	97	 }
 							]
 				},	
 
@@ -282,67 +282,67 @@
 
 {	"when": { "age": "3" },
 			  "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/1_1", "y": 0 , "weight":	99	 },
-							{ "model": "block/crops/carrots/var1/stage1/1_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage1/1_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage1/1_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage1/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage1/1_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage1/1_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage1/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage1/1_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage1/1_1", "weight":	99	 },
+							{ "model": "block/crops/carrots/var1/stage1/1_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage1/1_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage1/1_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage1/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage1/1_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage1/1_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage1/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage1/1_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "3" },
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/2_1", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage1/2_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage1/2_3", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage1/2_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage1/2_2", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var2/stage1/2_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage1/2_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var3/stage1/2_2", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage1/2_3", "y": 0 , "weight":	92	 }
+							{ "model": "block/crops/carrots/var1/stage1/2_1", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage1/2_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage1/2_3", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage1/2_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage1/2_2", "weight":	91	 },
+							{ "model": "block/crops/carrots/var2/stage1/2_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage1/2_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var3/stage1/2_2", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage1/2_3", "weight":	92	 }
 							]
 				},	
 		{	"when": { "age": "3" },	
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage1/3_2", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var1/stage1/3_3", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage1/3_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage1/3_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage1/3_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage1/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage1/3_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage1/3_3", "y": 0 , "weight":	98	 }
+							{ "model": "block/crops/carrots/var1/stage1/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage1/3_2", "weight":	93	 },
+							{ "model": "block/crops/carrots/var1/stage1/3_3", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage1/3_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage1/3_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage1/3_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage1/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage1/3_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage1/3_3", "weight":	98	 }
 							]
 				},
 		{	"when": { "age": "3" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/4_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage1/4_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var1/stage1/4_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage1/4_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage1/4_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage1/4_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage1/4_1", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage1/4_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage1/4_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage1/4_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage1/4_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var1/stage1/4_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage1/4_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage1/4_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage1/4_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage1/4_1", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage1/4_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage1/4_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "3" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage1/5_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var1/stage1/5_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var1/stage1/5_3", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage1/5_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage1/5_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage1/5_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage1/5_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage1/5_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage1/5_3", "y": 0 , "weight":	97	 }
+							{ "model": "block/crops/carrots/var1/stage1/5_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var1/stage1/5_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var1/stage1/5_3", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage1/5_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage1/5_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage1/5_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage1/5_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage1/5_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage1/5_3", "weight":	97	 }
 							]
 				},
 
@@ -351,67 +351,67 @@
 
 {	"when": { "age": "4" },
 			  "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/1_1", "y": 0 , "weight":	99	 },
-							{ "model": "block/crops/carrots/var1/stage2/1_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage2/1_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage2/1_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage2/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage2/1_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage2/1_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage2/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage2/1_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage2/1_1", "weight":	99	 },
+							{ "model": "block/crops/carrots/var1/stage2/1_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage2/1_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage2/1_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage2/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage2/1_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage2/1_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage2/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage2/1_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "4" },
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/2_1", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage2/2_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage2/2_3", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage2/2_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage2/2_2", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var2/stage2/2_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage2/2_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var3/stage2/2_2", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage2/2_3", "y": 0 , "weight":	92	 }
+							{ "model": "block/crops/carrots/var1/stage2/2_1", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage2/2_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage2/2_3", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage2/2_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage2/2_2", "weight":	91	 },
+							{ "model": "block/crops/carrots/var2/stage2/2_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/2_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var3/stage2/2_2", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/2_3", "weight":	92	 }
 							]
 				},	
 		{	"when": { "age": "4" },	
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage2/3_2", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var1/stage2/3_3", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage2/3_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage2/3_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage2/3_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage2/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage2/3_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage2/3_3", "y": 0 , "weight":	98	 }
+							{ "model": "block/crops/carrots/var1/stage2/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage2/3_2", "weight":	93	 },
+							{ "model": "block/crops/carrots/var1/stage2/3_3", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage2/3_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage2/3_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage2/3_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage2/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage2/3_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage2/3_3", "weight":	98	 }
 							]
 				},
 		{	"when": { "age": "4" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/4_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage2/4_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var1/stage2/4_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage2/4_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage2/4_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage2/4_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage2/4_1", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage2/4_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage2/4_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage2/4_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage2/4_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var1/stage2/4_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage2/4_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage2/4_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage2/4_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage2/4_1", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/4_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage2/4_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "4" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage2/5_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var1/stage2/5_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var1/stage2/5_3", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage2/5_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage2/5_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage2/5_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage2/5_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage2/5_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage2/5_3", "y": 0 , "weight":	97	 }
+							{ "model": "block/crops/carrots/var1/stage2/5_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var1/stage2/5_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var1/stage2/5_3", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage2/5_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage2/5_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage2/5_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/5_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage2/5_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage2/5_3", "weight":	97	 }
 							]
 				},	
 
@@ -421,67 +421,67 @@
 
 {	"when": { "age": "6" },
 			  "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/1_1", "y": 0 , "weight":	99	 },
-							{ "model": "block/crops/carrots/var1/stage3/1_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage3/1_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage3/1_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage3/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage3/1_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage3/1_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage3/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage3/1_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage2/1_1", "weight":	99	 },
+							{ "model": "block/crops/carrots/var1/stage2/1_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage2/1_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage2/1_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage2/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage2/1_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage2/1_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage2/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage2/1_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "6" },
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/2_1", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage3/2_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage3/2_3", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage3/2_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage3/2_2", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var2/stage3/2_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage3/2_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var3/stage3/2_2", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage3/2_3", "y": 0 , "weight":	92	 }
+							{ "model": "block/crops/carrots/var1/stage2/2_1", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage2/2_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage2/2_3", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage2/2_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage2/2_2", "weight":	91	 },
+							{ "model": "block/crops/carrots/var2/stage2/2_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/2_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var3/stage2/2_2", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/2_3", "weight":	92	 }
 							]
 				},	
 		{	"when": { "age": "6" },	
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage3/3_2", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var1/stage3/3_3", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage3/3_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage3/3_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage3/3_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage3/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage3/3_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage3/3_3", "y": 0 , "weight":	98	 }
+							{ "model": "block/crops/carrots/var1/stage2/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage2/3_2", "weight":	93	 },
+							{ "model": "block/crops/carrots/var1/stage2/3_3", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage2/3_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage2/3_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage2/3_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage2/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage2/3_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage2/3_3", "weight":	98	 }
 							]
 				},
 		{	"when": { "age": "6" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/4_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage3/4_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var1/stage3/4_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage3/4_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage3/4_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage3/4_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage3/4_1", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage3/4_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage3/4_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage2/4_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage2/4_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var1/stage2/4_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage2/4_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage2/4_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage2/4_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage2/4_1", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/4_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage2/4_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "6" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/5_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var1/stage3/5_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var1/stage3/5_3", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage3/5_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage3/5_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage3/5_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage3/5_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage3/5_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage3/5_3", "y": 0 , "weight":	97	 }
+							{ "model": "block/crops/carrots/var1/stage2/5_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var1/stage2/5_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var1/stage2/5_3", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage2/5_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage2/5_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage2/5_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage2/5_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage2/5_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage2/5_3", "weight":	97	 }
 							]
 				},	
 
@@ -490,67 +490,67 @@
 
 {	"when": { "age": "7" },
 			  "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/1_1", "y": 0 , "weight":	99	 },
-							{ "model": "block/crops/carrots/var1/stage3/1_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage3/1_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage3/1_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage3/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage3/1_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage3/1_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage3/1_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage3/1_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage3/1_1", "weight":	99	 },
+							{ "model": "block/crops/carrots/var1/stage3/1_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage3/1_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage3/1_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage3/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage3/1_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage3/1_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage3/1_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage3/1_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "7" },
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/2_1", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage3/2_2", "y": 0 , "weight":	95	 },
-							{ "model": "block/crops/carrots/var1/stage3/2_3", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage3/2_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage3/2_2", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var2/stage3/2_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage3/2_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var3/stage3/2_2", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage3/2_3", "y": 0 , "weight":	92	 }
+							{ "model": "block/crops/carrots/var1/stage3/2_1", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage3/2_2", "weight":	95	 },
+							{ "model": "block/crops/carrots/var1/stage3/2_3", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage3/2_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage3/2_2", "weight":	91	 },
+							{ "model": "block/crops/carrots/var2/stage3/2_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage3/2_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var3/stage3/2_2", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage3/2_3", "weight":	92	 }
 							]
 				},	
 		{	"when": { "age": "7" },	
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage3/3_2", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var1/stage3/3_3", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage3/3_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage3/3_2", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var2/stage3/3_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage3/3_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var3/stage3/3_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage3/3_3", "y": 0 , "weight":	98	 }
+							{ "model": "block/crops/carrots/var1/stage3/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage3/3_2", "weight":	93	 },
+							{ "model": "block/crops/carrots/var1/stage3/3_3", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage3/3_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage3/3_2", "weight":	96	 },
+							{ "model": "block/crops/carrots/var2/stage3/3_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage3/3_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var3/stage3/3_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage3/3_3", "weight":	98	 }
 							]
 				},
 		{	"when": { "age": "7" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/4_1", "y": 0 , "weight":	96	 },
-							{ "model": "block/crops/carrots/var1/stage3/4_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var1/stage3/4_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var2/stage3/4_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var2/stage3/4_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage3/4_3", "y": 0 , "weight":	91	 },
-							{ "model": "block/crops/carrots/var3/stage3/4_1", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage3/4_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var3/stage3/4_3", "y": 0 , "weight":	93	 }
+							{ "model": "block/crops/carrots/var1/stage3/4_1", "weight":	96	 },
+							{ "model": "block/crops/carrots/var1/stage3/4_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var1/stage3/4_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var2/stage3/4_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var2/stage3/4_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage3/4_3", "weight":	91	 },
+							{ "model": "block/crops/carrots/var3/stage3/4_1", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage3/4_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var3/stage3/4_3", "weight":	93	 }
 							]
 				},
 		{	"when": { "age": "7" },		
 				 "apply": [
-							{ "model": "block/crops/carrots/var1/stage3/5_1", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var1/stage3/5_2", "y": 0 , "weight":	98	 },
-							{ "model": "block/crops/carrots/var1/stage3/5_3", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage3/5_1", "y": 0 , "weight":	93	 },
-							{ "model": "block/crops/carrots/var2/stage3/5_2", "y": 0 , "weight":	94	 },
-							{ "model": "block/crops/carrots/var2/stage3/5_3", "y": 0 , "weight":	97	 },
-							{ "model": "block/crops/carrots/var3/stage3/5_1", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage3/5_2", "y": 0 , "weight":	92	 },
-							{ "model": "block/crops/carrots/var3/stage3/5_3", "y": 0 , "weight":	97	 }
+							{ "model": "block/crops/carrots/var1/stage3/5_1", "weight":	94	 },
+							{ "model": "block/crops/carrots/var1/stage3/5_2", "weight":	98	 },
+							{ "model": "block/crops/carrots/var1/stage3/5_3", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage3/5_1", "weight":	93	 },
+							{ "model": "block/crops/carrots/var2/stage3/5_2", "weight":	94	 },
+							{ "model": "block/crops/carrots/var2/stage3/5_3", "weight":	97	 },
+							{ "model": "block/crops/carrots/var3/stage3/5_1", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage3/5_2", "weight":	92	 },
+							{ "model": "block/crops/carrots/var3/stage3/5_3", "weight":	97	 }
 							]
 				}				
 	]
