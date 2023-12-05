@@ -9,18 +9,6 @@ body:
         This is a little template to ensure enough information is provided.
         Please fill out all of the below for a nice and clean bug report!
         
-        
-  - type: dropdown
-    id: edition
-    attributes:
-      label: Pack edition
-      description: Select wich edition is affected by your issue
-      options:
-        - 1.8
-        - 1.9 - 1.12
-        - 1.13+
-    validations:
-      reqired: true
 
   - type: input
     id: game
