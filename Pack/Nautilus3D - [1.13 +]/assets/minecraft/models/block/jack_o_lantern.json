@@ -182,7 +182,7 @@
 			"from": [0, 0, 0],
 			"to": [16, 2, 2],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 2], "texture": "#carved_pumpkin", "cullface": "north"},
+				"north": {"uv": [0, 14, 16, 16], "texture": "#carved_pumpkin", "cullface": "north"},
 				"east": {"uv": [14, 14, 16, 16], "texture": "#pumpkin_side", "cullface": "east"},
 				"west": {"uv": [0, 14, 1, 16], "texture": "#carved_pumpkin", "cullface": "west"},
 				"up": {"uv": [0, 0, 16, 1], "rotation": 180, "texture": "#carved_pumpkin", "cullface": "north"},
@@ -621,11 +621,13 @@
 		{
 			"name": "Candle",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 		},
 		{
 			"name": "carved_pumpkin",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
 		}
 	]
