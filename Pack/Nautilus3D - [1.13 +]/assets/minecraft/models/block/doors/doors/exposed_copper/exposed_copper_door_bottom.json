@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/doors/doors/template_copper_door_bottom",
+  "textures": {
+    "door": "minecraft:custom_textures/doors/doors/exposed_copper/exposed_copper_door_bottom",
+	"side0": "minecraft:custom_textures/doors/doors/exposed_copper/exposed_copper_door_side_0",
+	"side1": "minecraft:custom_textures/doors/doors/exposed_copper/exposed_copper_door_side_1"
+  }
+}
