@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/note_blocks/template_note_block",
+  "textures": {
+	"note": "minecraft:custom_textures/note_blocks/21"
+  }
+}

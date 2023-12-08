@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "note=0"	:	{	"model":	"block/note_blocks/0"   },
+        "note=1"	:	{	"model":	"block/note_blocks/1"   },
+        "note=2"	:	{	"model":	"block/note_blocks/2"   },
+        "note=3"	:	{	"model":	"block/note_blocks/3"   },
+        "note=4"	:	{	"model":	"block/note_blocks/4"   },
+        "note=5"	:	{	"model":	"block/note_blocks/5"   },
+        "note=6"	:	{	"model":	"block/note_blocks/6"   },
+        "note=7"	:	{	"model":	"block/note_blocks/7"   },
+        "note=8"	:	{	"model":	"block/note_blocks/8"   },
+        "note=9"	:	{	"model":	"block/note_blocks/9"   },
+        "note=10"	:	{	"model":	"block/note_blocks/10"  },
+        "note=11"	:	{	"model":	"block/note_blocks/11"  },
+        "note=12"	:	{	"model":	"block/note_blocks/12"  },
+        "note=13"	:	{	"model":	"block/note_blocks/13"  },
+        "note=14"	:	{	"model":	"block/note_blocks/14"  },
+        "note=15"	:	{	"model":	"block/note_blocks/15"  },
+        "note=16"	:	{	"model":	"block/note_blocks/16"  },
+        "note=17"	:	{	"model":	"block/note_blocks/17"  },
+        "note=18"	:	{	"model":	"block/note_blocks/18"  },
+        "note=19"	:	{	"model":	"block/note_blocks/19"  },
+        "note=20"	:	{	"model":	"block/note_blocks/20"  },
+        "note=21"	:	{	"model":	"block/note_blocks/21"  },
+        "note=22"	:	{	"model":	"block/note_blocks/22"  },
+        "note=23"	:	{	"model":	"block/note_blocks/23"  },
+        "note=24"	:	{	"model":	"block/note_blocks/24"  }
+    }
+}
