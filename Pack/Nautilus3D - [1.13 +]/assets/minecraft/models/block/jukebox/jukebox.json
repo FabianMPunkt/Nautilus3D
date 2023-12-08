@@ -148,39 +148,25 @@
 		},
 		{
 			"name": "Box",
-			"from": [0.5, 1, 1],
-			"to": [1, 15, 15],
+			"from": [0.75, 1, 1],
+			"to": [15.25, 15, 15],
 			"faces": {
+				"east": {"uv": [1, 1, 15, 15], "texture": "#side", "cullface": "east"},
 				"west": {"uv": [1, 1, 15, 15], "texture": "#side", "cullface": "west"}
 			}
 		},
 		{
 			"name": "Box",
-			"from": [15, 1, 1],
-			"to": [15.5, 15, 15],
+			"from": [1, 1, 0.75],
+			"to": [15, 15, 15.25],
 			"faces": {
-				"east": {"uv": [1, 1, 15, 15], "texture": "#side", "cullface": "east"}
-			}
-		},
-		{
-			"name": "Box",
-			"from": [1, 1, 0.5],
-			"to": [15, 15, 1],
-			"faces": {
-				"north": {"uv": [1, 1, 15, 15], "texture": "#side", "cullface": "north"}
-			}
-		},
-		{
-			"name": "Box",
-			"from": [1, 1, 15],
-			"to": [15, 15, 15.5],
-			"faces": {
+				"north": {"uv": [1, 1, 15, 15], "texture": "#side", "cullface": "north"},
 				"south": {"uv": [1, 1, 15, 15], "texture": "#side", "cullface": "south"}
 			}
 		},
 		{
 			"name": "Box",
-			"from": [1, 0.5, 1],
+			"from": [1, 0.75, 1],
 			"to": [15, 13.5, 15],
 			"faces": {
 				"up": {"uv": [1, 1, 15, 15], "texture": "#top", "cullface": "up"},
@@ -189,8 +175,8 @@
 		},
 		{
 			"name": "Box",
-			"from": [1, 13.5, 1],
-			"to": [7, 15.5, 15],
+			"from": [1, 13.25, 1],
+			"to": [7, 15.25, 15],
 			"faces": {
 				"east": {"uv": [7, 5, 9, 11], "rotation": 90, "texture": "#top", "cullface": "up"},
 				"up": {"uv": [1, 1, 7, 15], "texture": "#top", "cullface": "up"}
@@ -198,8 +184,8 @@
 		},
 		{
 			"name": "Box",
-			"from": [9, 13.5, 1],
-			"to": [15, 15.5, 15],
+			"from": [9, 13.25, 1],
+			"to": [15, 15.25, 15],
 			"faces": {
 				"west": {"uv": [7, 5, 9, 11], "rotation": 90, "texture": "#top", "cullface": "up"},
 				"up": {"uv": [9, 1, 15, 15], "texture": "#top", "cullface": "up"}
@@ -207,8 +193,8 @@
 		},
 		{
 			"name": "Box",
-			"from": [7, 13.5, 1],
-			"to": [9, 15.5, 3],
+			"from": [7, 13.25, 1],
+			"to": [9, 15.25, 3],
 			"faces": {
 				"south": {"uv": [7, 9, 9, 11], "texture": "#top", "cullface": "up"},
 				"up": {"uv": [7, 1, 9, 3], "texture": "#top", "cullface": "up"}
@@ -216,8 +202,8 @@
 		},
 		{
 			"name": "Box",
-			"from": [7, 13.5, 13],
-			"to": [9, 15.5, 15],
+			"from": [7, 13.25, 13],
+			"to": [9, 15.25, 15],
 			"faces": {
 				"north": {"uv": [7, 9, 9, 11], "texture": "#top", "cullface": "up"},
 				"up": {"uv": [7, 13, 9, 15], "texture": "#top", "cullface": "up"}

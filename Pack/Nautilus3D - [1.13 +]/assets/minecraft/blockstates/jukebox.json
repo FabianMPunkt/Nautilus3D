@@ -1,11 +1,24 @@
 {
     "multipart": [
-		{	"apply":	{ "model": "block/jukebox" }},
+		{	"apply":	{ "model": "block/jukebox/jukebox" }},
 		
 		{	"when":		{ "has_record": "true" },		
 				"apply":[		
-					{ "model": "block/jukebox_vinyl", "weight": 249 },
-					{ "model": "block/jukebox_vinyl_alt", "weight": 1 }
+					{ "model": "block/jukebox/music_disc_5" },
+					{ "model": "block/jukebox/music_disc_13" },
+					{ "model": "block/jukebox/music_disc_blocks" },
+					{ "model": "block/jukebox/music_disc_cat" },
+					{ "model": "block/jukebox/music_disc_chirp" },
+					{ "model": "block/jukebox/music_disc_far" },
+					{ "model": "block/jukebox/music_disc_mall" },
+					{ "model": "block/jukebox/music_disc_mellohi" },
+					{ "model": "block/jukebox/music_disc_other_side" },
+					{ "model": "block/jukebox/music_disc_pigstep" },
+					{ "model": "block/jukebox/music_disc_relic" },
+					{ "model": "block/jukebox/music_disc_stal" },
+					{ "model": "block/jukebox/music_disc_strad" },
+					{ "model": "block/jukebox/music_disc_wait" },
+					{ "model": "block/jukebox/music_disc_ward" }
 				]
 		}
     ]

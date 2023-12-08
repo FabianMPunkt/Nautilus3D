@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/jukebox/template_disc",
+  "textures": {
+    "disc": "minecraft:custom_textures/jukebox/music_disc_strad"
+  }
+}
