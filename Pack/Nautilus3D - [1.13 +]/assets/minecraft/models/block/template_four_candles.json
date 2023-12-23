@@ -1,6 +1,5 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/block",
 	"elements": [
 		{
 			"from": [6, 0, 8],

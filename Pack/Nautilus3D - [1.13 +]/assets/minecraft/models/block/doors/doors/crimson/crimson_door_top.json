@@ -1,6 +1,6 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "minecraft:block/door_bottom",
+
 	"ambientocclusion": false,
 	"textures": {
 		"particle": "custom_textures/doors/doors/crimson/crimson_door_top",

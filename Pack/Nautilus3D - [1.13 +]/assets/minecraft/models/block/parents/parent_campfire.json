@@ -1,6 +1,5 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/block",
 	"textures": {
 		"particle": "block/campfire_log",
 		"log": "block/campfire_log"

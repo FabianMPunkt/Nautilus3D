@@ -1,6 +1,5 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/block",
 	"textures": {
 		"particle": "block/acacia_leaves",
 		"all": "block/acacia_leaves",
