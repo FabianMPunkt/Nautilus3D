@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/parents/parent_copper_bulb",
+  "parent": "minecraft:block/template_copper_bulb",
   "textures": {
     "all": "minecraft:block/weathered_copper_bulb_lit"
   }
