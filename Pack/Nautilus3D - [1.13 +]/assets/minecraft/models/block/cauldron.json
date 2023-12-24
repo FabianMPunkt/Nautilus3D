@@ -1,6 +1,5 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"ambientocclusion": false,
 	"textures": {
 		"top": "block/cauldron_top",
 		"bottom": "block/cauldron_bottom",
