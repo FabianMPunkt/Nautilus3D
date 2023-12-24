@@ -1,6 +1,6 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/block",
+	"parent": "block/orientable",
 	"textures": {
 		"stonecutter_bottom": "block/stonecutter_bottom",
 		"saw_template": "custom_textures/stonecutter_saw",
