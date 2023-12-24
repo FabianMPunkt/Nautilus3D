@@ -1,6 +1,6 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/block",
+	"parent": "block/orientable",
 	"textures": {
 		"pumpkin_top": "block/pumpkin_top",
 		"particle": "block/pumpkin_side",
@@ -8,6 +8,17 @@
 		"pumpkin_bottom": "custom_textures/pumpkins/pumpkin_bottom"
 	},
 	"elements": [
+		{
+			"name": "Cube",
+			"from": [9, 16, 7],
+			"to": [10, 16.5, 9],
+			"faces": {
+				"north": {"uv": [9, 7, 10, 8], "texture": "#pumpkin_top", "cullface": "up"},
+				"east": {"uv": [9, 7, 10, 9], "rotation": 90, "texture": "#pumpkin_top", "cullface": "up"},
+				"south": {"uv": [9, 8, 10, 9], "texture": "#pumpkin_top", "cullface": "up"},
+				"up": {"uv": [9, 7, 10, 9], "texture": "#pumpkin_top", "cullface": "up"}
+			}
+		},
 		{
 			"name": "Cube",
 			"from": [7, 16.5, 7],
@@ -96,17 +107,6 @@
 			}
 		},
 		{
-			"name": "Cube",
-			"from": [9, 16, 7],
-			"to": [10, 16.5, 9],
-			"faces": {
-				"north": {"uv": [9, 7, 10, 8], "texture": "#pumpkin_top", "cullface": "up"},
-				"east": {"uv": [9, 7, 10, 9], "rotation": 90, "texture": "#pumpkin_top", "cullface": "up"},
-				"south": {"uv": [9, 8, 10, 9], "texture": "#pumpkin_top", "cullface": "up"},
-				"up": {"uv": [9, 7, 10, 9], "texture": "#pumpkin_top", "cullface": "up"}
-			}
-		},
-		{
 			"from": [0, 0, 0],
 			"to": [16, 16, 16],
 			"faces": {
@@ -118,5 +118,14 @@
 				"down": {"uv": [0, 0, 16, 16], "texture": "#pumpkin_bottom", "cullface": "down"}
 			}
 		}
+	],
+	"groups": [
+		{
+			"name": "root",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+		},
+		9
 	]
 }
