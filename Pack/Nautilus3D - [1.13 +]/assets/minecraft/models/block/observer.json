@@ -1,6 +1,6 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/block",
+	"parent": "block/orientable",
 	"textures": {
 		"bottom": "block/observer_back",
 		"side": "block/observer_side",
@@ -389,30 +389,47 @@
 			}
 		}
 	],
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [0, -45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		}
+	},
 	"groups": [
 		{
 			"name": "frame",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
-		}, 12, 13,
+		},
+		12,
+		13,
 		{
 			"name": "West",
 			"origin": [8, 11, 9],
+			"color": 0,
 			"children": [14, 15]
 		},
 		{
 			"name": "East",
 			"origin": [8.5, 9, 7],
+			"color": 0,
 			"children": [16, 17]
 		},
 		{
 			"name": "South",
 			"origin": [15, 11, 23],
+			"color": 0,
 			"children": [18, 19, 20, 21, 22, 23]
 		},
 		{
 			"name": "North",
 			"origin": [5, 14, 8.5],
+			"color": 0,
 			"children": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
 		}
 	]
