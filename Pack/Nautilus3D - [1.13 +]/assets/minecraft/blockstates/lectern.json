@@ -2,22 +2,22 @@
     "multipart": [
 
 		{	"when":		{ "facing": "north" },
-			"apply":	{ "model": "item/lectern" }
+			"apply":	{ "model": "block/lectern/lectern" }
 		},
 
 
 		{	"when":		{ "facing": "east" },
-			"apply":	{ "model": "item/lectern", "y": 90 }
+			"apply":	{ "model": "block/lectern/lectern", "y": 90 }
 		},
 
 
 		{	"when":		{ "facing": "south" },
-			"apply":	{ "model": "item/lectern", "y": 180 }
+			"apply":	{ "model": "block/lectern/lectern", "y": 180 }
 		},
 
 
 		{	"when":		{ "facing": "west" },
-			"apply":	{ "model": "item/lectern", "y": 270 }
+			"apply":	{ "model": "block/lectern/lectern", "y": 270 }
 		},
 		
 		
