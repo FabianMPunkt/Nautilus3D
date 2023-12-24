@@ -1,6 +1,6 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/block",
+	"parent": "block/orientable",
 	"textures": {
 		"0": "block/loom_side",
 		"1": "block/loom_bottom",
