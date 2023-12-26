@@ -1,7 +1,6 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
-		"particle": "post",
 		"#post": "post",
 		"#side": "side"
 	},
