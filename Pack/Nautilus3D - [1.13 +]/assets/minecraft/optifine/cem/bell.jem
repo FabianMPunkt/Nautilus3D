@@ -1,6 +1,5 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"texture": "textures/entity/bell/bell_body.png",
 	"textureSize": [32, 32],
 	"models": [
 		{
