@@ -1,17 +1,10 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"ambientocclusion": false,
 	"textures": {
 		"particle": "#lily_pad"
 	},
 	"elements": [
-		{
-			"from": [0, 0.25, 0],
-			"to": [16, 0.25, 16],
-			"faces": {
-				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
-				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
-			}
-		},
 		{
 			"from": [2.25, 0.25, 5],
 			"to": [7.25, 0.25, 13],
@@ -58,13 +51,132 @@
 				"west": {"uv": [0, 0, 2.5, 0], "texture": "#missing"},
 				"up": {"uv": [0, 0, 3, 3], "texture": "#flower"}
 			}
+		},
+		{
+			"from": [0, 0.25, 0],
+			"to": [16, 0.25, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, 0.175, 0],
+			"to": [16, 0.175, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, 0.1, 0],
+			"to": [16, 0.1, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, 0.025, 0],
+			"to": [16, 0.025, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.05, 0],
+			"to": [16, -0.05, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.125, 0],
+			"to": [16, -0.125, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.2, 0],
+			"to": [16, -0.2, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.275, 0],
+			"to": [16, -0.275, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.35, 0],
+			"to": [16, -0.35, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.425, 0],
+			"to": [16, -0.425, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.5, 0],
+			"to": [16, -0.5, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.575, 0],
+			"to": [16, -0.575, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.65, 0],
+			"to": [16, -0.65, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0, -0.725, 0],
+			"to": [16, -0.725, 16],
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "texture": "#lily_pad", "tintindex": 0},
+				"down": {"uv": [16, 16, 0, 0], "texture": "#lily_pad", "tintindex": 0}
+			}
 		}
 	],
-	"groups": [0,
+	"groups": [
 		{
 			"name": "Flower",
 			"origin": [8, 8, 8],
-			"children": [1, 2, 3, 4, 5]
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		},
+		{
+			"name": "lily_pad",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 		}
 	]
 }
