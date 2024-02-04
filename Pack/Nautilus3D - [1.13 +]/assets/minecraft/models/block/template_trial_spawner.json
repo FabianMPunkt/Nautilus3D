@@ -1,6 +1,9 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"parent": "block/block",
+	"textures": {
+		"particle": "#side"
+	},
 	"elements": [
 		{
 			"from": [0, 14, 0],
