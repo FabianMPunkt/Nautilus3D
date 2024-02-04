@@ -1,6 +1,5 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"texture": "block/hanging_sign.png",
 	"textureSize": [64, 32],
 	"models": [
 		{
