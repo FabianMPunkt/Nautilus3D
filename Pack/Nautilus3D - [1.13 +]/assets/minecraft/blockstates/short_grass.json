@@ -1,0 +1,28 @@
+{
+	"multipart":[
+				{ "apply": [
+							{ "model": "block/crops/grass/short_grass/3_2", "weight":	95	 },
+							{ "model": "block/crops/grass/short_grass/3_3", "weight":	93	 },
+							{ "model": "block/_placeholder", "weight":	93	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/crops/grass/short_grass/4_2", "weight":	92	 },
+							{ "model": "block/crops/grass/short_grass/4_3", "weight":	99	 },
+							{ "model": "block/_placeholder", "weight":	93	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/crops/grass/short_grass/5_1", "weight":	96	 },
+							{ "model": "block/crops/grass/short_grass/5_2", "weight":	91	 },
+							{ "model": "block/crops/grass/short_grass/5_3", "weight":	98	 }
+							]
+				},
+				{ "apply": [
+							{ "model": "block/crops/grass/short_grass/6_1", "weight":	95	 },
+							{ "model": "block/crops/grass/short_grass/6_2", "weight":	91	 },
+							{ "model": "block/crops/grass/short_grass/6_3", "weight":	98	 }
+							]
+				}
+	]
+}
