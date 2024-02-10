@@ -1,7 +1,6 @@
 {
 	"credit": "Made by playtrix using Blockbench",
 	"textures": {
-		"0": "#crop",
 		"particle": "#crop"
 	},
 	"elements": [
@@ -11,8 +10,8 @@
 			"rotation": {"angle": 45, "axis": "y", "origin": [13, 8, 12]},
 			"shade": false,
 			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"west": {"uv": [16, 0, 0, 16], "texture": "#0"}
+				"east": {"uv": [0, 0, 16, 16], "texture": "#crop"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#crop"}
 			}
 		},
 		{
@@ -21,8 +20,8 @@
 			"rotation": {"angle": 45, "axis": "y", "origin": [13, 8, 12]},
 			"shade": false,
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#0"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#crop"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#crop"}
 			}	
 		}
 	]

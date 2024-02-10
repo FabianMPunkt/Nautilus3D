@@ -1,7 +1,6 @@
 {
 	"credit": "Made by playtrix using Blockbench",
 	"textures": {
-		"0": "#crop",
 		"particle": "#crop"
 	},
 	"elements": [
@@ -11,8 +10,8 @@
 			"to": [16, 15, 4],
 			"shade": false,
 			"faces": {
-				"north": {"uv": [16, 0, 0, 16], "texture": "#0", "tintindex": 0},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0}
+				"north": {"uv": [16, 0, 0, 16], "texture": "#crop", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#crop", "tintindex": 0}
 			}
 		}
 	]
