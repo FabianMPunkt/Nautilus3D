@@ -1,12 +1,10 @@
 # Nautilus3D
 
-![_Header](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/7238597a-9e82-41b8-8bff-b380079e60fb)
+![Header](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/fab6db0b-e81f-45dd-ab8a-86c0cbf473c9)
 
 Nautilus3D is a Minecraft Resource-pack, mainly focused on 3D-Models with a vanilla style.
 
 We aim to provide a highly polished pack with a focus on decorative blocks, strong optimization, and various little fixes.
-
-This project is Open-Source and all files are available on [GitHub](https://github.com/FabianMPunkt/Nautilus3D)
 
 For bug-reports & feature-requests please open an issue on our [GitHub issue-page](https://github.com/FabianMPunkt/Nautilus3D/issues/new/choose "GitHub issue-page")!
 
