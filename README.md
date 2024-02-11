@@ -45,7 +45,7 @@ If you use Fabric & Sodium you can use these alternatives:
 Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
 
 ## Performance
-The only thing really inpacting the in-game performance are our fancy leaves and their variations. We tried our best to make them as fast as possible, while not compromising on their variety.
+The only thing really impacting the in-game performance are our fancy leaves and their variations. We tried our best to make them as fast as possible, while not compromising on their variety.
 If you're on Fabric/Sodium, we recommend using the ["Cull Less Leaves"](https://modrinth.com/mod/cull-less-leaves) mod.
 
 ## Shaders
