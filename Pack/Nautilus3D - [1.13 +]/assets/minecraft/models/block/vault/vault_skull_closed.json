@@ -1,6 +1,5 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "block/block",
 	"textures": {
 		"front": "block/vault_front_off"
 	},
