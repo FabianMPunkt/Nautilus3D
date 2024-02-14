@@ -1,0 +1,42 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"particle": "block/pointed_dripstone_up_middle",
+		"cross": "block/pointed_dripstone_up_middle"
+	},
+	"elements": [
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#cross"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#cross"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#cross"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#cross"},
+				"up": {"uv": [2, 8, 10, 16], "texture": "#cross", "cullface": "up"},
+				"down": {"uv": [2, 8, 10, 16], "texture": "#cross", "cullface": "down"}
+			}
+		}
+	]
+}
