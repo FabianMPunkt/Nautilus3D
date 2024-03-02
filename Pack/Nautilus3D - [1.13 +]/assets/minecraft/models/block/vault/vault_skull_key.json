@@ -2,8 +2,8 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
 		"1": "item/trial_key",
-		"front": "block/vault_front_on",
-		"particle": "item/trial_key"
+		"particle": "item/trial_key",
+		"front": "block/vault_front_on"
 	},
 	"elements": [
 		{
@@ -34,9 +34,9 @@
 			"from": [7, 13, -0.5],
 			"to": [9, 14, 0.5],
 			"faces": {
-				"north": {"uv": [0, 0, 2, 1], "texture": "#front", "cullface": "north"},
-				"east": {"uv": [0, 0, 2, 2], "texture": "#front", "cullface": "north"},
-				"west": {"uv": [0, 0, 2, 2], "texture": "#front", "cullface": "north"}
+				"north": {"uv": [7, 2, 9, 3], "texture": "#front", "cullface": "north"},
+				"east": {"uv": [7, 2, 8, 3], "texture": "#front", "cullface": "north"},
+				"west": {"uv": [8, 2, 9, 3], "texture": "#front", "cullface": "north"}
 			}
 		},
 		{
