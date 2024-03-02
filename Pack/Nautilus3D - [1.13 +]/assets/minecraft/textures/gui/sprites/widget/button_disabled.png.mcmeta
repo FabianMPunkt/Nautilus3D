@@ -5,10 +5,10 @@
             "width": 200,
             "height": 20,
             "border": {
-                "left": 20,
-                "top": 4,
-                "right": 20,
-                "bottom": 4
+                "left": 2,
+                "top": 2,
+                "right": 2,
+                "bottom": 2
             }
         }
     }
