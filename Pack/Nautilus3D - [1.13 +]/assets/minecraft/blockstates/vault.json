@@ -1,205 +1,401 @@
 {
   "multipart": [
   
-			{ "when": { "facing": "north", "vault_state": "inactive" }, 
+			{ "when": { "facing": "north", "vault_state": "inactive", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_off", "y": 0 }
 			},
   
-			{ "when": { "facing": "north", "vault_state": "active" }, 
+			{ "when": { "facing": "north", "vault_state": "active", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 0 }
 			},
   
-			{ "when": { "facing": "north", "vault_state": "unlocking" }, 
+			{ "when": { "facing": "north", "vault_state": "unlocking", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 0 }
 			},
   
-			{ "when": { "facing": "north", "vault_state": "ejecting" }, 
+			{ "when": { "facing": "north", "vault_state": "ejecting", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 0 }
 			},
 			
-			{ "when": { "facing": "north", "vault_state": "inactive" },
+			{ "when": { "facing": "north", "vault_state": "inactive", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 0 }
 			},
 			
-			{ "when": { "facing": "north", "vault_state": "active" },
+			{ "when": { "facing": "north", "vault_state": "active", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 0 }
 			},
 			
-			{ "when": { "facing": "north", "vault_state": "unlocking" },
+			{ "when": { "facing": "north", "vault_state": "unlocking", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 0 }
 			},	
 			
-			{ "when": { "facing": "north", "vault_state": "ejecting" },
+			{ "when": { "facing": "north", "vault_state": "ejecting", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_ejecting", "y": 0 }
 			},
 			
-			{ "when": { "facing": "north", "vault_state": "inactive" },
+			{ "when": { "facing": "north", "vault_state": "inactive", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_closed", "y": 0 }
 			},
 			
-			{ "when": { "facing": "north", "vault_state": "active" },
+			{ "when": { "facing": "north", "vault_state": "active", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_open", "y": 0 }
 			},
 			
-			{ "when": { "facing": "north", "vault_state": "unlocking" },
+			{ "when": { "facing": "north", "vault_state": "unlocking", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_key", "y": 0 }
 			},
 			
-			{ "when": { "facing": "north", "vault_state": "ejecting" },
+			{ "when": { "facing": "north", "vault_state": "ejecting", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_key_ejecting", "y": 0 }
 			},
 	
 	
+			{ "when": { "facing": "north", "vault_state": "inactive", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_off_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "active", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "unlocking", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "ejecting", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "inactive", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "active", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "unlocking", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 0 }
+			},	
+			
+			{ "when": { "facing": "north", "vault_state": "ejecting", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_ejecting_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "inactive", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_closed_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "active", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_open_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "unlocking", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_key_ominous", "y": 0 }
+			},
+			
+			{ "when": { "facing": "north", "vault_state": "ejecting", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_key_ejecting_ominous", "y": 0 }
+			},
 	
 	
-			{ "when": { "facing": "east", "vault_state": "inactive" }, 
+	
+	
+			{ "when": { "facing": "east", "vault_state": "inactive", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_off", "y": 90 }
 			},
   
-			{ "when": { "facing": "east", "vault_state": "active" }, 
+			{ "when": { "facing": "east", "vault_state": "active", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 90 }
 			},
   
-			{ "when": { "facing": "east", "vault_state": "unlocking" }, 
+			{ "when": { "facing": "east", "vault_state": "unlocking", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 90 }
 			},
   
-			{ "when": { "facing": "east", "vault_state": "ejecting" }, 
+			{ "when": { "facing": "east", "vault_state": "ejecting", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 90 }
 			},
 			
-			{ "when": { "facing": "east", "vault_state": "inactive" },
+			{ "when": { "facing": "east", "vault_state": "inactive", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 90 }
 			},
 			
-			{ "when": { "facing": "east", "vault_state": "active" },
+			{ "when": { "facing": "east", "vault_state": "active", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 90 }
 			},
 			
-			{ "when": { "facing": "east", "vault_state": "unlocking" },
+			{ "when": { "facing": "east", "vault_state": "unlocking", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 90 }
 			},	
 			
-			{ "when": { "facing": "east", "vault_state": "ejecting" },
+			{ "when": { "facing": "east", "vault_state": "ejecting", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_ejecting", "y": 90 }
 			},
 			
-			{ "when": { "facing": "east", "vault_state": "inactive" },
+			{ "when": { "facing": "east", "vault_state": "inactive", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_closed", "y": 90 }
 			},
 			
-			{ "when": { "facing": "east", "vault_state": "active" },
+			{ "when": { "facing": "east", "vault_state": "active", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_open", "y": 90 }
 			},
 			
-			{ "when": { "facing": "east", "vault_state": "unlocking" },
+			{ "when": { "facing": "east", "vault_state": "unlocking", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_key", "y": 90 }
 			},
 			
-			{ "when": { "facing": "east", "vault_state": "ejecting" },
+			{ "when": { "facing": "east", "vault_state": "ejecting", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_key_ejecting", "y": 90 }
+			},
+		
+	
+			{ "when": { "facing": "east", "vault_state": "inactive", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_off_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "active", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "unlocking", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "ejecting", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "inactive", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "active", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "unlocking", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 90 }
+			},	
+			
+			{ "when": { "facing": "east", "vault_state": "ejecting", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_ejecting_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "inactive", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_closed_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "active", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_open_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "unlocking", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_key_ominous", "y": 90 }
+			},
+			
+			{ "when": { "facing": "east", "vault_state": "ejecting", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_key_ejecting_ominous", "y": 90 }
 			},
 	
 	
 	
 	
-			{ "when": { "facing": "south", "vault_state": "inactive" }, 
+			{ "when": { "facing": "south", "vault_state": "inactive", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_off", "y": 180 }
 			},
   
-			{ "when": { "facing": "south", "vault_state": "active" }, 
+			{ "when": { "facing": "south", "vault_state": "active", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 180 }
 			},
   
-			{ "when": { "facing": "south", "vault_state": "unlocking" }, 
+			{ "when": { "facing": "south", "vault_state": "unlocking", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 180 }
 			},
   
-			{ "when": { "facing": "south", "vault_state": "ejecting" }, 
+			{ "when": { "facing": "south", "vault_state": "ejecting", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 180 }
 			},
 			
-			{ "when": { "facing": "south", "vault_state": "inactive" },
+			{ "when": { "facing": "south", "vault_state": "inactive", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 180 }
 			},
 			
-			{ "when": { "facing": "south", "vault_state": "active" },
+			{ "when": { "facing": "south", "vault_state": "active", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 180 }
 			},
 			
-			{ "when": { "facing": "south", "vault_state": "unlocking" },
+			{ "when": { "facing": "south", "vault_state": "unlocking", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 180 }
 			},	
 			
-			{ "when": { "facing": "south", "vault_state": "ejecting" },
+			{ "when": { "facing": "south", "vault_state": "ejecting", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_ejecting", "y": 180 }
 			},
 			
-			{ "when": { "facing": "south", "vault_state": "inactive" },
+			{ "when": { "facing": "south", "vault_state": "inactive", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_closed", "y": 180 }
 			},
 			
-			{ "when": { "facing": "south", "vault_state": "active" },
+			{ "when": { "facing": "south", "vault_state": "active", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_open", "y": 180 }
 			},
 			
-			{ "when": { "facing": "south", "vault_state": "unlocking" },
+			{ "when": { "facing": "south", "vault_state": "unlocking", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_key", "y": 180 }
 			},
 			
-			{ "when": { "facing": "south", "vault_state": "ejecting" },
+			{ "when": { "facing": "south", "vault_state": "ejecting", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_key_ejecting", "y": 180 }
 			},
 	
 	
+			{ "when": { "facing": "south", "vault_state": "inactive", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_off_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "active", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "unlocking", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "ejecting", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "inactive", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "active", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "unlocking", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 180 }
+			},	
+			
+			{ "when": { "facing": "south", "vault_state": "ejecting", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_ejecting_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "inactive", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_closed_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "active", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_open_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "unlocking", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_key_ominous", "y": 180 }
+			},
+			
+			{ "when": { "facing": "south", "vault_state": "ejecting", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_key_ejecting_ominous", "y": 180 }
+			},
 	
 	
-			{ "when": { "facing": "west", "vault_state": "inactive" }, 
+	
+	
+			{ "when": { "facing": "west", "vault_state": "inactive", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_off", "y": 270 }
 			},
   
-			{ "when": { "facing": "west", "vault_state": "active" }, 
+			{ "when": { "facing": "west", "vault_state": "active", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 270 }
 			},
   
-			{ "when": { "facing": "west", "vault_state": "unlocking" }, 
+			{ "when": { "facing": "west", "vault_state": "unlocking", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 270 }
 			},
   
-			{ "when": { "facing": "west", "vault_state": "ejecting" }, 
+			{ "when": { "facing": "west", "vault_state": "ejecting", "ominous": "false" }, 
 			"apply": { "model": "minecraft:block/vault/vault_frame_on", "y": 270 }
 			},
 			
-			{ "when": { "facing": "west", "vault_state": "inactive" },
+			{ "when": { "facing": "west", "vault_state": "inactive", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 270 }
 			},
 			
-			{ "when": { "facing": "west", "vault_state": "active" },
+			{ "when": { "facing": "west", "vault_state": "active", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 270 }
 			},
 			
-			{ "when": { "facing": "west", "vault_state": "unlocking" },
+			{ "when": { "facing": "west", "vault_state": "unlocking", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_closed", "y": 270 }
 			},	
 			
-			{ "when": { "facing": "west", "vault_state": "ejecting" },
+			{ "when": { "facing": "west", "vault_state": "ejecting", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_lid_ejecting", "y": 270 }
 			},
 			
-			{ "when": { "facing": "west", "vault_state": "inactive" },
+			{ "when": { "facing": "west", "vault_state": "inactive", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_closed", "y": 270 }
 			},
 			
-			{ "when": { "facing": "west", "vault_state": "active" },
+			{ "when": { "facing": "west", "vault_state": "active", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_open", "y": 270 }
 			},
 			
-			{ "when": { "facing": "west", "vault_state": "unlocking" },
+			{ "when": { "facing": "west", "vault_state": "unlocking", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_key", "y": 270 }
 			},
 			
-			{ "when": { "facing": "west", "vault_state": "ejecting" },
+			{ "when": { "facing": "west", "vault_state": "ejecting", "ominous": "false" },
 			"apply": { "model": "minecraft:block/vault/vault_skull_key_ejecting", "y": 270 }
+			},
+	
+	
+			{ "when": { "facing": "west", "vault_state": "inactive", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_off_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "active", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "unlocking", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "ejecting", "ominous": "true" }, 
+			"apply": { "model": "minecraft:block/vault/vault_frame_on_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "inactive", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "active", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "unlocking", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_closed_ominous", "y": 270 }
+			},	
+			
+			{ "when": { "facing": "west", "vault_state": "ejecting", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_lid_ejecting_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "inactive", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_closed_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "active", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_open_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "unlocking", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_key_ominous", "y": 270 }
+			},
+			
+			{ "when": { "facing": "west", "vault_state": "ejecting", "ominous": "true" },
+			"apply": { "model": "minecraft:block/vault/vault_skull_key_ejecting_ominous", "y": 270 }
 			}
 	
   ]
