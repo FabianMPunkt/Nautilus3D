@@ -54,8 +54,9 @@
 			]
 		},
 		
-				{	"when":		{ "facing": "north" },
-			"apply":	[	{ "model": "block/lectern/lectern_key" }
+		{	"when":		{ "facing": "north" },
+			"apply":	[	{ "model": "block/lectern/lectern_key", "y": 0 , "weight":	3 },
+							{ "model": "block/_placeholder", "weight":	10 }
 			]
 		},
 
