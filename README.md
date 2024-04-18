@@ -4,7 +4,7 @@
 
 Nautilus3D is a Minecraft Resource-pack, mainly focused on 3D-Models with a vanilla style.
 
-We aim to provide a highly polished pack with a focus on decorative blocks, strong optimization, and various little fixes.
+We aim to provide a highly polished pack with an emphasis on decorative blocks, strong optimization, and various little fixes.
 
 For bug-reports & feature-requests please open an issue on our [GitHub issue-page](https://github.com/FabianMPunkt/Nautilus3D/issues/new/choose "GitHub issue-page")!
 
@@ -12,12 +12,12 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
 
 ## Noteworthy Features
 
-- Randomness
+- Randomized blocks
   - Fully randomized bookshelves
   - Fully randomized chiselled bookshelves
   - Fully randomized ores
   - Fully randomized crops
-  - Semi random crafting table
+  - Semi-random crafting table
 
 - Animated 3D Stonecutter
 - Epic Trident handmodel (requires OptiFine / EMF)
@@ -29,24 +29,24 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
 
 
 ## Compatibility
-We mainly lay our focus on the newest version of Minecraft, but the pack should more or less work all the way back to 1.13, due to [the flattening update](https://minecraft.fandom.com/wiki/Java_Edition_1.13/Flattening).
+We always focus on the newest Minecraft version, but the pack should more or less work all the way back to 1.13.
 
-In older versions of Nautilus3D we used to release editions for 1.8 - 1.12 but we decided to stop supporting these ancient versions, because it was just too much work creating the same texture pack 3 times for each format.
-You can still find these old versions in the [Release Arcive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
+We used to make seperate editions of the pack for Minecraft 1.8 and 1.12, but ultimately decided to stop supporting them some time ago.
+If you still play on Minecraft 1.8 or 1.12 you can find older Nautilus3D versions in the GitHub [Release Arcive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
 
-All testing is done using the latest stable Vanilla release, and the latest available Fabric, Sodium & Iris. Optifine, and Forge should work just fine aswell.
+All testing is done using the latest Vanilla snapshot, and the latest stable Fabric ( + Sodium & Iris). Optifine, and Forge should work just fine aswell.
 
 Some special features (like the Trident) require OptiFine to work as intended.
-If you use Fabric & Sodium you can use these alternatives:
+If you use Fabric + Sodium you can use these alternatives:
  - [EMF](https://modrinth.com/mod/entity-model-features) and [ETF](https://modrinth.com/mod/entitytexturefeatures) for custom entity-models
  - [CIT-Resewn](https://modrinth.com/mod/cit-resewn) for custom item-textures
  - [Continuity](https://modrinth.com/mod/continuity) for connected-textures.
 
-Important: Please always use the latest versions of Sodium / Forge / Fabric / OptiFine / etc.. or you might run into _very_ unexpected issues.
+Please always use the latest versions of Fabric / Sodium / Forge / OptiFine / etc.. or you might run into _very_ unexpected issues.
 
 ## Performance
 The only thing really impacting the in-game performance are our fancy leaves and their variations. We tried our best to make them as fast as possible, while not compromising on their variety.
-If you're on Fabric/Sodium, we recommend using the ["Cull Less Leaves"](https://modrinth.com/mod/cull-less-leaves) mod.
+If you're on Fabric/Sodium, we recommend using the ["Cull Less Leaves"](https://modrinth.com/mod/cull-less-leaves) mod to get back a bit of performance.
 
 ## Shaders
 I'ts been a high priority for us to make Nautilus3D play nice with most shaders that are out there. That's also why we didn't include any fancy flower / vegetation models, because that would look horrible combined with wind effects. (Also, it's really hard to make lol)
@@ -63,7 +63,7 @@ Our top picks are:
 - [Chocapic V8 / V9](https://www.curseforge.com/minecraft/customization/chocapic13-shaders)
 
 ## Screenshots
-All these are in-game screenshots with colour-grading and a lens blur done in Photoshop
+All these are in-game screenshots with colour-grading and a lens blur added in Photoshop
 
 More screenshots on our [Modrinth](https://modrinth.com/resourcepack/nautilus3d/gallery)
 
