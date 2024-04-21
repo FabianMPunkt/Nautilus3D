@@ -18,7 +18,6 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
   - Fully randomized ores
   - Fully randomized crops
   - Semi-random crafting table
-
 - Animated 3D Stonecutter
 - Epic Trident handmodel (requires OptiFine / EMF)
 - Flawless bushy leaves
