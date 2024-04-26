@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/lily_pads/template_lily_pad_N",
+  "parent": "minecraft:block/lily_pads/template_lily_pad_n",
   "textures": {
     "lily_pad": "minecraft:custom_textures/lily_pads/lily_pad_3"
   }

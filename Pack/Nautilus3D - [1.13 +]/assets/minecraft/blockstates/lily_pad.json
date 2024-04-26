@@ -1,44 +1,43 @@
 {
     "multipart": [
-			
 			{ "apply": [
-				{ "model": "block/lily_pads/lily_pad_0_N", "weight": 99 },
-				{ "model": "block/lily_pads/lily_pad_0_N", "weight": 98 , "y": 90 },
-				{ "model": "block/lily_pads/lily_pad_0_N", "weight": 99 , "y": 180 },
-				{ "model": "block/lily_pads/lily_pad_0_N", "weight": 95 , "y": 270 },
+				{ "model": "block/lily_pads/lily_pad_0_n", "weight": 99 },
+				{ "model": "block/lily_pads/lily_pad_0_n", "weight": 98 , "y": 90 },
+				{ "model": "block/lily_pads/lily_pad_0_n", "weight": 99 , "y": 180 },
+				{ "model": "block/lily_pads/lily_pad_0_n", "weight": 95 , "y": 270 },
 				
-				{ "model": "block/lily_pads/lily_pad_0_NE", "weight": 99 },
-				{ "model": "block/lily_pads/lily_pad_0_NE", "weight": 98 , "y": 90 },
-				{ "model": "block/lily_pads/lily_pad_0_NE", "weight": 99 , "y": 180 },
-				{ "model": "block/lily_pads/lily_pad_0_NE", "weight": 95 , "y": 270 },
+				{ "model": "block/lily_pads/lily_pad_0_ne", "weight": 99 },
+				{ "model": "block/lily_pads/lily_pad_0_ne", "weight": 98 , "y": 90 },
+				{ "model": "block/lily_pads/lily_pad_0_ne", "weight": 99 , "y": 180 },
+				{ "model": "block/lily_pads/lily_pad_0_ne", "weight": 95 , "y": 270 },
 				
-				{ "model": "block/lily_pads/lily_pad_1_N", "weight": 99 },
-				{ "model": "block/lily_pads/lily_pad_1_N", "weight": 98 , "y": 90 },
-				{ "model": "block/lily_pads/lily_pad_1_N", "weight": 99 , "y": 180 },
-				{ "model": "block/lily_pads/lily_pad_1_N", "weight": 95 , "y": 270 },
+				{ "model": "block/lily_pads/lily_pad_1_n", "weight": 99 },
+				{ "model": "block/lily_pads/lily_pad_1_n", "weight": 98 , "y": 90 },
+				{ "model": "block/lily_pads/lily_pad_1_n", "weight": 99 , "y": 180 },
+				{ "model": "block/lily_pads/lily_pad_1_n", "weight": 95 , "y": 270 },
 				
-				{ "model": "block/lily_pads/lily_pad_1_NE", "weight": 99 },
-				{ "model": "block/lily_pads/lily_pad_1_NE", "weight": 98 , "y": 90 },
-				{ "model": "block/lily_pads/lily_pad_1_NE", "weight": 99 , "y": 180 },
-				{ "model": "block/lily_pads/lily_pad_1_NE", "weight": 95 , "y": 270 },
+				{ "model": "block/lily_pads/lily_pad_1_ne", "weight": 99 },
+				{ "model": "block/lily_pads/lily_pad_1_ne", "weight": 98 , "y": 90 },
+				{ "model": "block/lily_pads/lily_pad_1_ne", "weight": 99 , "y": 180 },
+				{ "model": "block/lily_pads/lily_pad_1_ne", "weight": 95 , "y": 270 },
 				
-				{ "model": "block/lily_pads/lily_pad_2_N", "weight": 59 },
-				{ "model": "block/lily_pads/lily_pad_2_N", "weight": 58 , "y": 90 },
-				{ "model": "block/lily_pads/lily_pad_2_N", "weight": 59 , "y": 180 },
-				{ "model": "block/lily_pads/lily_pad_2_N", "weight": 55 , "y": 270 },
+				{ "model": "block/lily_pads/lily_pad_2_n", "weight": 59 },
+				{ "model": "block/lily_pads/lily_pad_2_n", "weight": 58 , "y": 90 },
+				{ "model": "block/lily_pads/lily_pad_2_n", "weight": 59 , "y": 180 },
+				{ "model": "block/lily_pads/lily_pad_2_n", "weight": 55 , "y": 270 },
 				
-				{ "model": "block/lily_pads/lily_pad_3_N", "weight": 99 },
-				{ "model": "block/lily_pads/lily_pad_3_N", "weight": 98 , "y": 90 },
-				{ "model": "block/lily_pads/lily_pad_3_N", "weight": 99 , "y": 180 },
-				{ "model": "block/lily_pads/lily_pad_3_N", "weight": 95 , "y": 270 },
+				{ "model": "block/lily_pads/lily_pad_3_n", "weight": 99 },
+				{ "model": "block/lily_pads/lily_pad_3_n", "weight": 98 , "y": 90 },
+				{ "model": "block/lily_pads/lily_pad_3_n", "weight": 99 , "y": 180 },
+				{ "model": "block/lily_pads/lily_pad_3_n", "weight": 95 , "y": 270 },
 				
-				{ "model": "block/lily_pads/lily_pad_3_NE", "weight": 99 },
-				{ "model": "block/lily_pads/lily_pad_3_NE", "weight": 98 , "y": 90 },
-				{ "model": "block/lily_pads/lily_pad_3_NE", "weight": 99 , "y": 180 },
-				{ "model": "block/lily_pads/lily_pad_3_NE", "weight": 95 , "y": 270 }
+				{ "model": "block/lily_pads/lily_pad_3_ne", "weight": 99 },
+				{ "model": "block/lily_pads/lily_pad_3_ne", "weight": 98 , "y": 90 },
+				{ "model": "block/lily_pads/lily_pad_3_ne", "weight": 99 , "y": 180 },
+				{ "model": "block/lily_pads/lily_pad_3_ne", "weight": 95 , "y": 270 }
 				]
 			},
-			
+
 			{ "apply": [
 				{ "model": "block/lily_pads/lily_pad_flower_0", "weight": 5 },
 				{ "model": "block/lily_pads/lily_pad_flower_0", "weight": 5 , "y": 90 },
@@ -49,7 +48,6 @@
 				{ "model": "block/lily_pads/lily_pad_flower_1", "weight": 3 , "y": 90 },
 				{ "model": "block/lily_pads/lily_pad_flower_1", "weight": 4 , "y": 180 },
 				{ "model": "block/lily_pads/lily_pad_flower_1", "weight": 5 , "y": 270 },
-				
 				{ "model": "block/_placeholder", "weight": 75 }
 				]
 			}
