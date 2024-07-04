@@ -30,25 +30,24 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
 ## Compatibility
 We always focus on the newest Minecraft version, but the pack should more or less work all the way back to 1.13.
 
-We used to make seperate editions of the pack for Minecraft 1.8 and 1.12, but ultimately decided to stop supporting them some time ago.
-If you still play on Minecraft 1.8 or 1.12 you can find older Nautilus3D versions in the GitHub [Release Arcive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
+We used to make separate editions of the pack for Minecraft 1.8 - 1.12, but ultimately decided to stop updating them some time ago.
+If you still play on Minecraft 1.8 - 1.12 you can find older Nautilus3D versions in the GitHub [Release Archive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
 
 All testing is done using the latest Vanilla snapshot, and the latest stable Fabric ( + Sodium & Iris). Optifine, and Forge should work just fine aswell.
 
 Some special features (like the Trident) require OptiFine to work as intended.
-If you use Fabric + Sodium you can use these alternatives:
+For Fabric you can use these alternatives:
  - [EMF](https://modrinth.com/mod/entity-model-features) and [ETF](https://modrinth.com/mod/entitytexturefeatures) for custom entity-models
  - [CIT-Resewn](https://modrinth.com/mod/cit-resewn) for custom item-textures
  - [Continuity](https://modrinth.com/mod/continuity) for connected-textures.
 
-Please always use the latest versions of Fabric / Sodium / Forge / OptiFine / etc.. or you might run into _very_ unexpected issues.
 
 ## Performance
 The only thing really impacting the in-game performance are our fancy leaves and their variations. We tried our best to make them as fast as possible, while not compromising on their variety.
 If you're on Fabric/Sodium, we recommend using the ["Cull Less Leaves"](https://modrinth.com/mod/cull-less-leaves) mod to get back a bit of performance.
 
 ## Shaders
-I'ts been a high priority for us to make Nautilus3D play nice with most shaders that are out there. That's also why we didn't include any fancy flower / vegetation models, because that would look horrible combined with wind effects. (Also, it's really hard to make lol)
+I'ts been a high priority for us to make Nautilus3D play nice with the vast majority of shaders out there. That's also why we don't include any fancy flower / vegetation models, because that would look horrible combined with wind effects. (Also, it's really hard to make lol)
 
 Additonally, due to Minecrafts dodgy ambient occlusion and complete lack of Anti-Aliasing, even basic shaders would make a great difference.
 This is especially visible on bushy leaves.
