@@ -31,7 +31,7 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
 We always focus on the newest Minecraft version, but the pack should more or less work all the way back to 1.13.
 
 We used to make separate editions of the pack for Minecraft 1.8 - 1.12, but ultimately decided to stop updating them some time ago.
-If you still play on Minecraft 1.8 - 1.12 you can find older Nautilus3D versions in the GitHub [Release Archive](https://github.com/FabianMPunkt/Nautilus3D/tree/main/Release%20Archive) folder.
+If you still play on Minecraft 1.8 - 1.12 you can find older Nautilus3D versions in the GitHub [Release Archive](https://github.com/FabianMPunkt/Nautilus3D-Files/tree/main/_ReleaseArchive) folder.
 
 All testing is done using the latest Vanilla snapshot, and the latest stable Fabric ( + Sodium & Iris). Optifine, and Forge should work just fine aswell.
 
