@@ -1,2 +1,0 @@
-Brightness: -40
-Color to Alpha: 90%

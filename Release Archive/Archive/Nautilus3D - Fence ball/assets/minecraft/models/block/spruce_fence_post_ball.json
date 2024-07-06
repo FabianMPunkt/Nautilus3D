@@ -1,7 +1,0 @@
-{
-    "parent": "block/parents/parent_fence_post_ball",
-	"ambientocclusion": false,
-    "textures": {
-        "texture": "block/spruce_planks"
-    }
-}
