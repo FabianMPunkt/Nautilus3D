@@ -6,8 +6,8 @@
 	},
 	"elements": [
 		{
-			"from": [8, 0, 0.8],
-			"to": [8, 16, 15.2],
+			"from": [8, 0, 1.8],
+			"to": [8, 16, 14.2],
 			"shade": false,
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
@@ -16,8 +16,8 @@
 			}
 		},
 		{
-			"from": [8, 0, -0.2],
-			"to": [8, 16, 16.2],
+			"from": [8, 0, 0.3],
+			"to": [8, 16, 15.7],
 			"shade": false,
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
@@ -26,8 +26,8 @@
 			}
 		},
 		{
-			"from": [-0.2, 0, 8],
-			"to": [16.2, 16, 8],
+			"from": [0.3, 0, 8],
+			"to": [15.7, 16, 8],
 			"shade": false,
 			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
