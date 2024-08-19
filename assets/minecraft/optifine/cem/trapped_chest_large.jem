@@ -1,0 +1,258 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textureSize": [64, 64],
+	"texture": "textures/entity/chest/trapped_left.png",
+	"models": [
+		{
+			"part": "base_right",
+			"id": "base_right",
+			"invertAxis": "xy",
+			"translate": [0, 0, -8],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-15, -10, 9, 2, 10, 14],
+					"uvNorth": [27, 33, 29, 43],
+					"uvEast": [1, 34, 15, 24],
+					"uvSouth": [43, 33, 45, 43],
+					"uvWest": [29, 33, 43, 43],
+					"uvUp": [29, 33, 27, 19],
+					"uvDown": [44, 19, 42, 33]
+				},
+				{
+					"coordinates": [-13, -10, 9, 13, 10, 2],
+					"uvNorth": [14, 33, 27, 43],
+					"uvSouth": [0, 34, 13, 24],
+					"uvUp": [27, 33, 14, 31],
+					"uvDown": [42, 31, 29, 33]
+				},
+				{
+					"coordinates": [-13, -10, 21, 13, 10, 2],
+					"uvNorth": [13, 34, 0, 24],
+					"uvSouth": [45, 33, 58, 43],
+					"uvUp": [27, 21, 14, 19],
+					"uvDown": [42, 19, 29, 21]
+				},
+				{
+					"coordinates": [-13, -2, 11, 13, 2, 10],
+					"uvUp": [27, 31, 14, 21],
+					"uvDown": [42, 21, 29, 31]
+				},
+				{
+					"coordinates": [-12, -9, 8.75, 2, 1, 0.25],
+					"uvNorth": [3, 3, 4, 4],
+					"uvEast": [3, 3, 4, 4],
+					"uvWest": [3, 3, 4, 4],
+					"uvUp": [3, 3, 4, 4]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "lid_right",
+			"id": "lid_right",
+			"invertAxis": "xy",
+			"translate": [0, -9, -7],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-15, 4, 7, 2, 5, 14],
+					"uvNorth": [27, 14, 29, 19],
+					"uvEast": [0, 25, 14, 30],
+					"uvSouth": [43, 14, 45, 19],
+					"uvWest": [29, 14, 43, 19],
+					"uvUp": [29, 14, 27, 0],
+					"uvDown": [44, 0, 42, 14]
+				},
+				{
+					"coordinates": [-13, 4, 7, 13, 5, 2],
+					"uvNorth": [14, 14, 27, 19],
+					"uvSouth": [0, 25, 13, 30],
+					"uvUp": [27, 14, 14, 12],
+					"uvDown": [42, 12, 29, 14]
+				},
+				{
+					"coordinates": [-13, 4, 19, 13, 5, 2],
+					"uvNorth": [13, 25, 0, 30],
+					"uvSouth": [45, 14, 58, 19],
+					"uvUp": [27, 2, 14, 0],
+					"uvDown": [42, 0, 29, 2]
+				},
+				{
+					"coordinates": [-13, 4, 9, 13, 3, 10],
+					"uvUp": [27, 12, 14, 2],
+					"uvDown": [42, 2, 29, 12]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"lid_right.rx": "lid_right.rx/1.75"
+				}
+			]
+		},
+		{
+			"part": "knob_right",
+			"id": "knob_right",
+			"invertAxis": "xy",
+			"translate": [0, -9, -7],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-1, 7, 21, 1, 4, 1],
+					"uvNorth": [3, 1, 4, 5],
+					"uvEast": [3, 1, 4, 5],
+					"uvSouth": [3, 1, 4, 5],
+					"uvWest": [3, 1, 4, 5],
+					"uvUp": [4, 2, 3, 1],
+					"uvDown": [4, 4, 3, 5]
+				},
+				{
+					"coordinates": [-12, 8, 6.75, 2, 1, 0.25],
+					"uvNorth": [3, 2, 4, 3],
+					"uvEast": [3, 2, 4, 3],
+					"uvWest": [3, 2, 4, 3],
+					"uvDown": [3, 2, 4, 3]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"knob_right.rx": "knob_right.rx/1.75"
+				}
+			]
+		},
+		{
+			"part": "base_left",
+			"id": "base_left",
+			"invertAxis": "xy",
+			"translate": [-16, 0, -8],
+			"rotate": [-180, 0, 0],
+			"texture": "textures/entity/chest/trapped_right.png",
+			"boxes": [
+				{
+					"coordinates": [0, -2, 11, 13, 2, 10],
+					"uvUp": [29, 31, 16, 21],
+					"uvDown": [44, 21, 31, 31]
+				},
+				{
+					"coordinates": [0, -10, 9, 13, 10, 2],
+					"uvNorth": [16, 33, 29, 43],
+					"uvSouth": [13, 34, 0, 24],
+					"uvWest": [29, 33, 43, 43],
+					"uvUp": [29, 33, 16, 31],
+					"uvDown": [44, 31, 31, 33]
+				},
+				{
+					"coordinates": [0, -10, 21, 13, 10, 2],
+					"uvNorth": [0, 34, 13, 24],
+					"uvSouth": [43, 33, 56, 43],
+					"uvWest": [29, 33, 43, 43],
+					"uvUp": [29, 21, 16, 19],
+					"uvDown": [44, 19, 31, 21]
+				},
+				{
+					"coordinates": [13, -10, 9, 2, 10, 14],
+					"uvNorth": [14, 33, 16, 43],
+					"uvEast": [0, 33, 14, 43],
+					"uvSouth": [56, 33, 58, 43],
+					"uvWest": [0, 34, 14, 24],
+					"uvUp": [16, 33, 14, 19],
+					"uvDown": [31, 19, 29, 33]
+				},
+				{
+					"coordinates": [10, -9, 8.75, 2, 1, 0.25],
+					"uvNorth": [3, 2, 4, 3],
+					"uvEast": [3, 2, 4, 3],
+					"uvWest": [3, 2, 4, 3],
+					"uvUp": [3, 2, 4, 3]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "lid_left",
+			"id": "lid_left",
+			"invertAxis": "xy",
+			"translate": [-16, -9, -7],
+			"rotate": [-180, 0, 0],
+			"texture": "textures/entity/chest/trapped_right.png",
+			"boxes": [
+				{
+					"coordinates": [0, 4, 9, 13, 3, 10],
+					"uvUp": [29, 12, 16, 2],
+					"uvDown": [44, 2, 31, 12]
+				},
+				{
+					"coordinates": [13, 4, 7, 2, 5, 14],
+					"uvNorth": [14, 14, 16, 19],
+					"uvEast": [0, 14, 14, 19],
+					"uvSouth": [56, 14, 58, 19],
+					"uvWest": [0, 25, 14, 30],
+					"uvUp": [16, 14, 14, 0],
+					"uvDown": [31, 0, 29, 14]
+				},
+				{
+					"coordinates": [0, 4, 7, 13, 5, 2],
+					"uvNorth": [16, 14, 29, 19],
+					"uvSouth": [13, 25, 0, 30],
+					"uvUp": [29, 14, 16, 12],
+					"uvDown": [44, 12, 31, 14]
+				},
+				{
+					"coordinates": [0, 4, 19, 13, 5, 2],
+					"uvNorth": [0, 25, 13, 30],
+					"uvSouth": [43, 14, 56, 19],
+					"uvUp": [29, 2, 16, 0],
+					"uvDown": [44, 0, 31, 2]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"lid_left.rx": "lid_left.rx/1.75"
+				}
+			]
+		},
+		{
+			"part": "knob_left",
+			"id": "knob_left",
+			"invertAxis": "xy",
+			"translate": [-16, -9, -7],
+			"rotate": [-180, 0, 0],
+			"texture": "textures/entity/chest/trapped_right.png",
+			"boxes": [
+				{
+					"coordinates": [0, 7, 21, 1, 4, 1],
+					"uvNorth": [3, 1, 4, 5],
+					"uvEast": [3, 1, 4, 5],
+					"uvSouth": [3, 1, 4, 5],
+					"uvWest": [3, 1, 4, 5],
+					"uvUp": [4, 2, 3, 1],
+					"uvDown": [4, 4, 3, 5]
+				},
+				{
+					"coordinates": [10, 8, 6.75, 2, 1, 0.25],
+					"uvNorth": [3, 1, 4, 2],
+					"uvEast": [3, 1, 4, 2],
+					"uvWest": [3, 1, 4, 2],
+					"uvDown": [3, 1, 4, 2]
+				}
+			],
+			"animations": [
+				{
+					"this.rx": 0,
+					"knob_left.rx": "knob_left.rx/1.75"
+				}
+			]
+		}
+	]
+}
