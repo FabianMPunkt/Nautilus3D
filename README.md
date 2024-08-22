@@ -28,7 +28,7 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
 
 
 ## Compatibility
-We always focus on the newest Minecraft version, but the pack should more or less work all the way back to 1.13.
+We always focus on the newest Minecraft version. The current version officially supports 1.20.2 and newer, but it should more or less work all the way back to 1.13.
 
 We used to make separate editions of the pack for Minecraft 1.8 - 1.12, but ultimately decided to stop updating them some time ago.
 If you still play on Minecraft 1.8 - 1.12 you can find older Nautilus3D versions in the GitHub [Release Archive](https://github.com/FabianMPunkt/Nautilus3D-Files/tree/main/_ReleaseArchive) folder.
