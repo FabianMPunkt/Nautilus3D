@@ -1,6 +1,6 @@
 # Nautilus3D
 
-![Header](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/fab6db0b-e81f-45dd-ab8a-86c0cbf473c9)
+![Header](https://github.com/FabianMPunkt/Nautilus3D-Files/blob/main/05_Snake_Oil/Finals/13_Header.jpg)
 
 Nautilus3D is a Minecraft Resource-pack, mainly focused on 3D-Models with a vanilla style.
 
@@ -66,12 +66,12 @@ All these are in-game screenshots with colour-grading and a lens blur added in P
 More screenshots on our [Modrinth](https://modrinth.com/resourcepack/nautilus3d/gallery)
 
 
-![1](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/ba7a2bac-2549-4f5b-acb2-112adf866904)
-![2](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/662395c3-8cdf-43a7-9183-9147a42421fe)
-![3](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/903c916a-2436-45fb-9cf2-57ad7617a5ba)
-![6](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/a4142740-16af-4c30-9056-272f9882688f)
-![7](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/a8a023fa-8c14-4d19-a26e-4deaafdb68c9)
-![11](https://github.com/FabianMPunkt/Nautilus3D/assets/78741736/77418bc7-e789-40ba-8669-66e94e595eda)
+![1](https://github.com/FabianMPunkt/Nautilus3D-Files/blob/main/05_Snake_Oil/Finals/1.jpg)
+![2](https://github.com/FabianMPunkt/Nautilus3D-Files/blob/main/05_Snake_Oil/Finals/2.jpg)
+![3](https://github.com/FabianMPunkt/Nautilus3D-Files/blob/main/05_Snake_Oil/Finals/3.jpg)
+![6](https://github.com/FabianMPunkt/Nautilus3D-Files/blob/main/05_Snake_Oil/Finals/6.jpg)
+![7](https://github.com/FabianMPunkt/Nautilus3D-Files/blob/main/05_Snake_Oil/Finals/7.jpg)
+![11](https://github.com/FabianMPunkt/Nautilus3D-Files/blob/main/05_Snake_Oil/Finals/11.jpg)
 
 
 
