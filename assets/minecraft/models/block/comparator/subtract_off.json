@@ -2,19 +2,20 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"comparator": "block/redstone_torch_off"
+		"comparator": "custom_textures/torches/redstone_torch"
 	},
 	"elements": [
 		{
 			"name": "Element",
 			"from": [7, 2, 2],
-			"to": [9, 4, 4],
+			"to": [9, 5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
 			"faces": {
-				"north": {"uv": [7, 6, 9, 8], "texture": "#comparator"},
-				"east": {"uv": [7, 6, 9, 8], "texture": "#comparator"},
-				"south": {"uv": [7, 6, 9, 8], "texture": "#comparator"},
-				"west": {"uv": [7, 6, 9, 8], "texture": "#comparator"},
-				"up": {"uv": [7, 6, 9, 8], "texture": "#comparator"}
+				"north": {"uv": [0, 6, 2, 9], "texture": "#comparator"},
+				"east": {"uv": [6, 6, 8, 9], "texture": "#comparator"},
+				"south": {"uv": [4, 6, 6, 9], "texture": "#comparator"},
+				"west": {"uv": [2, 6, 4, 9], "texture": "#comparator"},
+				"up": {"uv": [0, 6, 2, 8], "texture": "#comparator"}
 			}
 		}
 	],
