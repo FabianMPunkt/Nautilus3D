@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_triple_cross_offset",
+  "textures": {
+    "cross": "minecraft:block/dead_bush"
+  }
+}
