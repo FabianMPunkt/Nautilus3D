@@ -15,7 +15,7 @@ body:
     attributes:
       label: Game Version
       description: >-
-        Please provide the exact game version shown in the F3-Menu
+        Exact game version shown in the F3-Menu
       placeholder: "Example: 'fabric-loader-0.14.9-1.19.2', or 'Vanilla-1.19.2'"
     validations:
       required: true
@@ -25,7 +25,7 @@ body:
     attributes:
       label: List all installed mods
       description: >-
-        Provide a list of all your installed mods. Leave empty if you are running vanilla.
+       List all your installed mods. Leave empty if you are running vanilla.
       placeholder: |
         Example:
             - Sodium-0.14.9
