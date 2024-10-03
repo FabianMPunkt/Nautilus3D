@@ -1,6 +1,7 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textureSize": [64, 64],
+	"texture": "textures/entity/chest/ender.png",
 	"models": [
 		{
 			"part": "base",
@@ -50,6 +51,14 @@
 							"uvWest": [28, 33, 42, 47],
 							"uvUp": [28, 33, 14, 19],
 							"uvDown": [42, 0, 28, 14]
+						},
+						{
+							"coordinates": [-9, -11, 15, 2, 4, 1],
+							"uvEast": [0, 1, 1, 5],
+							"uvSouth": [4, 1, 6, 5],
+							"uvWest": [3, 1, 4, 5],
+							"uvUp": [3, 1, 1, 0],
+							"uvDown": [5, 0, 3, 1]
 						}
 					]
 				},
@@ -131,7 +140,8 @@
 				{
 					"coordinates": [-5, 7, 9, 10, 0, 10],
 					"uvUp": [26, 12, 16, 2]
-				}
+				},
+				{"coordinates": [-1, 7, 21, 2, 4, 1], "textureOffset": [0, 0]}
 			],
 			"animations": [
 				{
@@ -147,9 +157,6 @@
 			"invertAxis": "xy",
 			"translate": [-8, -9, -7],
 			"rotate": [-180, 0, 0],
-			"boxes": [
-				{"coordinates": [-1, 7, 21, 2, 4, 1], "textureOffset": [0, 0]}
-			],
 			"animations": [
 				{
 					"this.rx": 0,

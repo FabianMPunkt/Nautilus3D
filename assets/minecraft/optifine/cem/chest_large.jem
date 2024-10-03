@@ -43,7 +43,8 @@
 							"uvSouth": [43, 33, 58, 47],
 							"uvUp": [29, 33, 14, 19],
 							"uvDown": [44, 0, 29, 14]
-						}
+						},
+						{"coordinates": [-16, -11, 15, 1, 4, 1], "textureOffset": [0, 0]}
 					]
 				}
 			],
@@ -96,7 +97,8 @@
 							"uvWest": [29, 33, 43, 47],
 							"uvUp": [29, 33, 14, 19],
 							"uvDown": [44, 0, 29, 14]
-						}
+						},
+						{"coordinates": [-1, -11, 15, 1, 4, 1], "textureOffset": [0, 0]}
 					]
 				}
 			],
@@ -133,7 +135,8 @@
 				{
 					"coordinates": [0, 7, 9, 13, 0, 10],
 					"uvUp": [16, 2, 29, 12]
-				}
+				},
+				{"coordinates": [0, 7, 21, 1, 4, 1], "textureOffset": [0, 0]}
 			],
 			"animations": [
 				{
@@ -168,7 +171,8 @@
 				{
 					"coordinates": [-13, 7, 9, 13, 0, 10],
 					"uvUp": [14, 2, 27, 12]
-				}
+				},
+				{"coordinates": [-1, 7, 21, 1, 4, 1], "textureOffset": [0, 0]}
 			],
 			"animations": [
 				{
@@ -184,9 +188,6 @@
 			"invertAxis": "xy",
 			"translate": [-16, -9, -7],
 			"rotate": [-180, 0, 0],
-			"boxes": [
-				{"coordinates": [0, 7, 21, 1, 4, 1], "textureOffset": [0, 0]}
-			],
 			"animations": [
 				{
 					"this.rx": 0,
@@ -200,9 +201,6 @@
 			"invertAxis": "xy",
 			"translate": [0, -9, -7],
 			"rotate": [-180, 0, 0],
-			"boxes": [
-				{"coordinates": [-1, 7, 21, 1, 4, 1], "textureOffset": [0, 0]}
-			],
 			"animations": [
 				{
 					"this.rx": 0,
