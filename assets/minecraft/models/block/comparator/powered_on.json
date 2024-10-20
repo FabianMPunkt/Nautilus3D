@@ -5,7 +5,7 @@
 		"1": "block/comparator_on",
 		"2": "block/smooth_stone",
 		"particle": "block/comparator_on",
-		"lit": "custom_textures/torches/redstone_torch_on_repeater"
+		"lit": "custom_textures/torches/redstone_torch_on"
 	},
 	"elements": [
 		{
