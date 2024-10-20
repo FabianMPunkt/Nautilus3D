@@ -2,8 +2,8 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "custom_textures/torches/redstone_torch_fire",
-		"lit": "custom_textures/torches/redstone_torch_on"
+		"lit": "custom_textures/torches/redstone_torch_on_repeater",
+		"particle": "custom_textures/torches/redstone_torch_fire"
 	},
 	"elements": [
 		{
@@ -12,11 +12,11 @@
 			"to": [9, 5, 4],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, 1, 0]},
 			"faces": {
-				"north": {"uv": [0, 6, 2, 9], "texture": "#lit"},
-				"east": {"uv": [6, 6, 8, 9], "texture": "#lit"},
-				"south": {"uv": [4, 6, 6, 9], "texture": "#lit"},
-				"west": {"uv": [2, 6, 4, 9], "texture": "#lit"},
-				"up": {"uv": [0, 6, 2, 8], "texture": "#lit"}
+				"north": {"uv": [3, 6, 5, 9], "texture": "#lit"},
+				"east": {"uv": [9, 6, 11, 9], "texture": "#lit"},
+				"south": {"uv": [7, 6, 9, 9], "texture": "#lit"},
+				"west": {"uv": [5, 6, 7, 9], "texture": "#lit"},
+				"up": {"uv": [3, 6, 5, 8], "texture": "#lit"}
 			}
 		},
 		{
@@ -25,12 +25,12 @@
 			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -5, -5]},
 			"faces": {
-				"north": {"uv": [0, 8, 1, 9], "texture": "#lit"},
-				"east": {"uv": [0, 8, 1, 9], "texture": "#lit"},
-				"south": {"uv": [0, 8, 1, 9], "texture": "#lit"},
-				"west": {"uv": [0, 8, 1, 9], "texture": "#lit"},
-				"up": {"uv": [0, 8, 1, 9], "texture": "#lit"},
-				"down": {"uv": [0, 8, 1, 9], "texture": "#lit"}
+				"north": {"uv": [3, 8, 4, 9], "texture": "#lit"},
+				"east": {"uv": [3, 8, 4, 9], "texture": "#lit"},
+				"south": {"uv": [3, 8, 4, 9], "texture": "#lit"},
+				"west": {"uv": [3, 8, 4, 9], "texture": "#lit"},
+				"up": {"uv": [3, 8, 4, 9], "texture": "#lit"},
+				"down": {"uv": [3, 8, 4, 9], "texture": "#lit"}
 			}
 		}
 	]
