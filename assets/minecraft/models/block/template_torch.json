@@ -1,0 +1,75 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#torch"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 10, 9],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [3, 6, 5, 16], "texture": "#torch"},
+				"east": {"uv": [9, 6, 11, 16], "texture": "#torch"},
+				"south": {"uv": [7, 6, 9, 16], "texture": "#torch"},
+				"west": {"uv": [5, 6, 7, 16], "texture": "#torch"},
+				"up": {"uv": [3, 6, 5, 8], "texture": "#torch"},
+				"down": {"uv": [7, 13, 9, 15], "texture": "#torch", "cullface": "down"}
+			}
+		},
+		{
+			"from": [6.25, 7, 6.25],
+			"to": [9.75, 8, 9.75],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 6, 7]},
+			"faces": {
+				"north": {"uv": [12, 15, 16, 16], "texture": "#torch"},
+				"east": {"uv": [12, 15, 16, 16], "texture": "#torch"},
+				"south": {"uv": [12, 15, 16, 16], "texture": "#torch"},
+				"west": {"uv": [12, 15, 16, 16], "texture": "#torch"},
+				"up": {"uv": [12, 8, 16, 12], "texture": "#torch"},
+				"down": {"uv": [12, 12, 16, 16], "texture": "#torch"}
+			}
+		},
+		{
+			"from": [6.75, 6.25, 6.75],
+			"to": [9.25, 7, 9.25],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 7]},
+			"faces": {
+				"north": {"uv": [13, 7, 16, 8], "texture": "#torch"},
+				"east": {"uv": [13, 7, 16, 8], "texture": "#torch"},
+				"south": {"uv": [13, 7, 16, 8], "texture": "#torch"},
+				"west": {"uv": [13, 7, 16, 8], "texture": "#torch"},
+				"down": {"uv": [15, 7, 16, 8], "texture": "#torch"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.5, 1.5],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.5, 1.5],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-14, 0, 0],
+			"translation": [2, 2.5, -1],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-14, 0, 0],
+			"translation": [2, 2.5, -1],
+			"scale": [0.85, 0.85, 0.85]
+		},
+		"ground": {
+			"rotation": [22.5, 0, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.65, 0.65, 0.65]
+		}
+	}
+}
