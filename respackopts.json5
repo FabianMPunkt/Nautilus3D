@@ -1,0 +1,38 @@
+{
+    id: "Nautilus3D",
+    version: 9,
+    capabilities: ["FileFilter"],
+    conf: {
+		
+        Leaves: {
+			OakLeaves: true,
+			SpruceLeaves: true,
+			BirchLeaves: true,
+			JungleLeaves: true,
+			AcaciaLeaves: true,
+			DarkOakLeaves: true,
+			MangroveLeaves: true,
+			CherryLeaves: true,
+			AzaleaLeaves: true,
+			FloweringAcaciaLeaves: true
+		},
+		
+		Ores: {
+			CoalOre: true,
+			IronOre: true,
+			CopperOre: true,
+			GoldOre: true,
+			RedstoneOre: true,
+			EmeraldOre: true,
+			LapisOre: true,
+			DiamondOre: true,
+			NetherGoldOre: true,
+			NetherQuartzOre: true
+		},
+		
+		Misc: {
+			Mace: true,
+			Grass: true
+		}
+	}	
+}
