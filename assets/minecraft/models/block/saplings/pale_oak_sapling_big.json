@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/saplings/template_sapling_big",
+  "textures": {
+    "sapling": "minecraft:custom_textures/saplings/pale_oak_sapling_big"
+  }
+}
