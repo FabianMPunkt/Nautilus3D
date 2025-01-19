@@ -50,11 +50,10 @@
 		},
 		{
 			"name": "center",
-			"from": [6, 0, 6],
+			"from": [6, 4.5, 6],
 			"to": [10, 4.5, 10],
 			"faces": {
-				"up": {"uv": [6, 6, 10, 10], "texture": "#flowerpot"},
-				"down": {"uv": [0, 12, 4, 16], "texture": "#flowerpot", "cullface": "down"}
+				"up": {"uv": [0, 0, 4, 4], "texture": "#flowerpot"}
 			}
 		},
 		{
@@ -69,14 +68,16 @@
 		},
 		{
 			"name": "Cube",
-			"from": [6, 0, 10],
+			"from": [5, 0, 5],
 			"to": [11, 4, 11],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
 			"faces": {
-				"east": {"uv": [10, 12, 11, 16], "texture": "#flowerpot"},
-				"south": {"uv": [6, 12, 11, 16], "texture": "#flowerpot"},
-				"up": {"uv": [6, 12, 11, 13], "texture": "#flowerpot"},
-				"down": {"uv": [6, 15, 11, 16], "texture": "#flowerpot", "cullface": "down"}
+				"north": {"uv": [5, 12, 11, 16], "texture": "#flowerpot"},
+				"east": {"uv": [5, 12, 11, 16], "texture": "#flowerpot"},
+				"south": {"uv": [5, 12, 11, 16], "texture": "#flowerpot"},
+				"west": {"uv": [5, 12, 11, 16], "texture": "#flowerpot"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#flowerpot"},
+				"down": {"uv": [5, 5, 11, 11], "texture": "#flowerpot", "cullface": "down"}
 			}
 		},
 		{
@@ -104,18 +105,6 @@
 		},
 		{
 			"name": "Cube",
-			"from": [10, 0, 5],
-			"to": [11, 4, 10],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"north": {"uv": [10, 12, 11, 16], "texture": "#flowerpot"},
-				"east": {"uv": [6, 12, 11, 16], "texture": "#flowerpot"},
-				"up": {"uv": [6, 12, 11, 13], "rotation": 270, "texture": "#flowerpot"},
-				"down": {"uv": [6, 15, 11, 16], "rotation": 90, "texture": "#flowerpot", "cullface": "down"}
-			}
-		},
-		{
-			"name": "Cube",
 			"from": [10, 5, 5],
 			"to": [11, 6, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
@@ -139,18 +128,6 @@
 		},
 		{
 			"name": "Cube",
-			"from": [5, 0, 6],
-			"to": [6, 4, 11],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"south": {"uv": [10, 12, 11, 16], "texture": "#flowerpot"},
-				"west": {"uv": [6, 12, 11, 16], "texture": "#flowerpot"},
-				"up": {"uv": [6, 12, 11, 13], "rotation": 90, "texture": "#flowerpot"},
-				"down": {"uv": [6, 15, 11, 16], "rotation": 270, "texture": "#flowerpot", "cullface": "down"}
-			}
-		},
-		{
-			"name": "Cube",
 			"from": [5, 5, 6],
 			"to": [6, 6, 11],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
@@ -170,18 +147,6 @@
 				"north": {"uv": [6, 11, 10.75, 12], "texture": "#flowerpot"},
 				"south": {"uv": [5.5, 11, 10, 12], "texture": "#flowerpot"},
 				"west": {"uv": [10, 11, 10.75, 12], "texture": "#flowerpot"}
-			}
-		},
-		{
-			"name": "Cube",
-			"from": [5, 0, 5],
-			"to": [10, 4, 6],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 8]},
-			"faces": {
-				"north": {"uv": [6, 12, 11, 16], "texture": "#flowerpot"},
-				"west": {"uv": [10, 12, 11, 16], "texture": "#flowerpot"},
-				"up": {"uv": [6, 12, 11, 13], "rotation": 180, "texture": "#flowerpot"},
-				"down": {"uv": [6, 15, 11, 16], "rotation": 180, "texture": "#flowerpot", "cullface": "down"}
 			}
 		},
 		{
@@ -245,19 +210,19 @@
 					"name": "E",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [8, 9, 10]
+					"children": [8, 9]
 				},
 				{
 					"name": "W",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [11, 12, 13]
+					"children": [10, 11]
 				},
 				{
 					"name": "N",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [14, 15, 16]
+					"children": [12, 13]
 				}
 			]
 		}
