@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:block/doors/trapdoors/exposed_copper/exposed_copper_trapdoor_bottom"
+  }
+}

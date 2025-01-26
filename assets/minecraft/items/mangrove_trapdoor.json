@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:block/doors/trapdoors/mangrove/mangrove_trapdoor_bottom"
+  }
+}
