@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/ores/emerald_ore/emerald_ore_item",
+  "parent": "minecraft:item/template_emerald_ore",
   "textures": {
     "ore": "minecraft:block/deepslate_emerald_ore"
   }

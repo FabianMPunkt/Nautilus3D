@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/ores/copper_ore/copper_ore_item",
+  "parent": "minecraft:item/template_copper_ore",
   "textures": {
     "ore": "minecraft:block/copper_ore"
   }

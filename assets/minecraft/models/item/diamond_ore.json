@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/ores/diamond_ore/diamond_ore_item",
+  "parent": "minecraft:item/template_diamond_ore",
   "textures": {
     "ore": "minecraft:block/diamond_ore"
   }

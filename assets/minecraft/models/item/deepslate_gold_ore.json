@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/ores/gold_ore/gold_ore_item",
+  "parent": "minecraft:item/template_gold_ore",
   "textures": {
     "ore": "minecraft:block/deepslate_gold_ore"
   }

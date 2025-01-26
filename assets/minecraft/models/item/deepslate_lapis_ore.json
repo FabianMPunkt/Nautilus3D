@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/ores/lapis_ore/lapis_ore_item",
+  "parent": "minecraft:item/template_lapis_ore",
   "textures": {
     "ore": "minecraft:block/deepslate_lapis_ore"
   }

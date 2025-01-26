@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/ores/coal_ore/coal_ore_item",
+  "parent": "minecraft:item/template_coal_ore",
   "textures": {
     "ore": "minecraft:block/deepslate_coal_ore"
   }
