@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/soul_torch",
-  "textures": {
-    "#torch": "minecraft:custom_textures/torches/soul_torch"
-  }
-}
