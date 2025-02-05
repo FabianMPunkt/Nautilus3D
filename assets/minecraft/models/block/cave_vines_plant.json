@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/template_triple_cross",
+  "parent": "minecraft:block/cross_triple",
   "textures": {
     "cross": "minecraft:block/cave_vines_plant"
   }

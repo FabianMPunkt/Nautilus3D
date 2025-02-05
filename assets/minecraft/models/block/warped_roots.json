@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/template_triple_cross_offset",
+  "parent": "minecraft:block/cross_triple_offset",
   "textures": {
     "cross": "minecraft:block/warped_roots"
   }

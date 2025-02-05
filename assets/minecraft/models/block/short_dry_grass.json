@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cross_triple_offset",
   "textures": {
-    "cross": "minecraft:block/sweet_berry_bush_stage2"
+    "cross": "minecraft:block/short_dry_grass"
   }
 }

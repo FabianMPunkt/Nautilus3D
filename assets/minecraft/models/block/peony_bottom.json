@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cross_triple",
   "textures": {
-    "cross": "minecraft:block/cave_vines_plant_lit"
+    "cross": "minecraft:block/peony_bottom"
   }
 }
