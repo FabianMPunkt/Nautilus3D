@@ -9,6 +9,7 @@
 			"name": "Element",
 			"from": [2.6, 4.5, 8],
 			"to": [13.4, 16.5, 8],
+			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#plant"},
@@ -19,6 +20,7 @@
 			"name": "Element",
 			"from": [8, 4.5, 2.6],
 			"to": [8, 16.5, 13.4],
+			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#plant"},
