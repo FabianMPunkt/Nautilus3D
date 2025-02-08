@@ -2,7 +2,7 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"side": "custom_textures/cactus/cactus_side",
+		"side": "block/cactus_side",
 		"particle": "block/cactus_top",
 		"top": "block/cactus_top",
 		"bottom": "block/cactus_bottom"
@@ -72,7 +72,7 @@
 		{
 			"name": "Cube",
 			"from": [10, 16, 5],
-			"to": [11, 16.75, 6],
+			"to": [11, 16.5, 6],
 			"faces": {
 				"north": {"uv": [10, 5, 11, 5.75], "texture": "#top", "cullface": "up"},
 				"east": {"uv": [10, 5, 11, 5.75], "texture": "#top", "cullface": "up"},
@@ -96,7 +96,7 @@
 		{
 			"name": "Cube",
 			"from": [5, 16, 8],
-			"to": [6, 16.75, 9],
+			"to": [6, 16.25, 9],
 			"faces": {
 				"north": {"uv": [5, 8, 6, 8.75], "texture": "#top", "cullface": "up"},
 				"east": {"uv": [5, 8, 6, 8.75], "texture": "#top", "cullface": "up"},
@@ -108,7 +108,7 @@
 		{
 			"name": "Cube",
 			"from": [9, 16, 9],
-			"to": [10, 17, 10],
+			"to": [10, 16.5, 10],
 			"faces": {
 				"north": {"uv": [9, 9, 10, 10], "texture": "#top", "cullface": "up"},
 				"east": {"uv": [9, 9, 10, 10], "texture": "#top", "cullface": "up"},
