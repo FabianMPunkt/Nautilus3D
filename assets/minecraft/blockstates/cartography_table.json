@@ -1,10 +1,20 @@
 {
-    "variants": {
-        "": [
-		{ "model": "block/cartography_table" },
-		{ "model": "block/cartography_table", "y": 90},
-		{ "model": "block/cartography_table", "y": 180},
-		{ "model": "block/cartography_table", "y": 270}
+    "multipart": [
+	
+			{ "apply": [
+				{ "model": "block/cartography_table", "weight": 1 },
+				{ "model": "block/cartography_table", "weight": 1 , "y": 90},
+				{ "model": "block/cartography_table", "weight": 1 , "y": 180},
+				{ "model": "block/cartography_table", "weight": 1 , "y": 270}
+				]
+			},
+			
+			{ "apply": [
+				{ "model": "block/cartography_table_needle_0", "weight": 1 },
+				{ "model": "block/cartography_table_needle_90", "weight": 1 },
+				{ "model": "block/cartography_table_needle_180", "weight": 1 },
+				{ "model": "block/cartography_table_needle_270", "weight": 1 }
+				]
+			}
 	]
-    }
 }
