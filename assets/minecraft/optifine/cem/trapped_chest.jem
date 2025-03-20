@@ -45,7 +45,7 @@
 							"uvSouth": [42, 33, 56, 47],
 							"uvWest": [28, 33, 42, 47],
 							"uvUp": [28, 33, 14, 19],
-							"uvDown": [28, 19, 14, 33]
+							"uvDown": [42, 0, 28, 14]
 						},
 						{
 							"coordinates": [-9, -11, 15, 2, 4, 1],
@@ -62,7 +62,7 @@
 				{
 					"this.rx": 0,
 					"base_full.visible": "lid.rx != 0",
-					"chest_lod.visible": "if(lid.rx == 0, 1, 0) > 0"
+					"chest_lod.visible": "lid.rx == 0"
 				}
 			]
 		},
@@ -92,13 +92,12 @@
 				{
 					"coordinates": [-5, 7, 9, 10, 0, 10],
 					"uvUp": [26, 12, 16, 2]
-				},
-				{"coordinates": [-1, 7, 21, 2, 4, 1], "textureOffset": [0, 0]}
+				}
 			],
 			"animations": [
 				{
 					"this.rx": 0,
-					"lid.rx": "lid.rx/1.75",
+					"lid.rx": "lid.rx/1.25",
 					"this.visible": "lid.rx != 0"
 				}
 			]
@@ -109,10 +108,13 @@
 			"invertAxis": "xy",
 			"translate": [-8, -9, -7],
 			"rotate": [-180, 0, 0],
+			"boxes": [
+				{"coordinates": [-1, 7, 21, 2, 4, 1], "textureOffset": [0, 0]}
+			],
 			"animations": [
 				{
 					"this.rx": 0,
-					"knob.rx": "knob.rx/1.75"
+					"knob.rx": "knob.rx/1.25"
 				}
 			]
 		}

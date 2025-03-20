@@ -51,14 +51,6 @@
 							"uvWest": [28, 33, 42, 47],
 							"uvUp": [28, 33, 14, 19],
 							"uvDown": [42, 0, 28, 14]
-						},
-						{
-							"coordinates": [-9, -11, 15, 2, 4, 1],
-							"uvEast": [0, 1, 1, 5],
-							"uvSouth": [4, 1, 6, 5],
-							"uvWest": [3, 1, 4, 5],
-							"uvUp": [3, 1, 1, 0],
-							"uvDown": [5, 0, 3, 1]
 						}
 					]
 				},
@@ -69,7 +61,6 @@
 					"boxes": [
 						{
 							"coordinates": [-10, -8, 15, 4, 6, 0.5],
-							"uvNorth": [0, 0, 0, 0],
 							"uvEast": [50, 35, 51, 41],
 							"uvSouth": [47, 35, 51, 41],
 							"uvWest": [47, 35, 48, 41],
@@ -78,7 +69,6 @@
 						},
 						{
 							"coordinates": [-11, -7, 15, 6, 4, 0.5],
-							"uvNorth": [0, 0, 0, 0],
 							"uvEast": [51, 36, 52, 40],
 							"uvSouth": [46, 36, 52, 40],
 							"uvWest": [46, 36, 47, 40],
@@ -87,7 +77,6 @@
 						},
 						{
 							"coordinates": [-10, -6, 15.5, 4, 2, 0.25],
-							"uvNorth": [0, 0, 0, 0],
 							"uvEast": [50, 37, 51, 39],
 							"uvSouth": [47, 37, 51, 39],
 							"uvWest": [47, 37, 48, 39],
@@ -96,7 +85,6 @@
 						},
 						{
 							"coordinates": [-9, -7, 15.5, 2, 4, 0.25],
-							"uvNorth": [0, 0, 0, 0],
 							"uvEast": [49, 36, 50, 40],
 							"uvSouth": [48, 36, 50, 40],
 							"uvWest": [48, 36, 49, 40],
@@ -110,7 +98,7 @@
 				{
 					"this.rx": 0,
 					"base_full.visible": "lid.rx != 0",
-					"chest_lod.visible": "if(lid.rx == 0, 1, 0) > 0"
+					"chest_lod.visible": "lid.rx == 0"
 				}
 			]
 		},
@@ -140,13 +128,12 @@
 				{
 					"coordinates": [-5, 7, 9, 10, 0, 10],
 					"uvUp": [26, 12, 16, 2]
-				},
-				{"coordinates": [-1, 7, 21, 2, 4, 1], "textureOffset": [0, 0]}
+				}
 			],
 			"animations": [
 				{
 					"this.rx": 0,
-					"lid.rx": "lid.rx/1.75",
+					"lid.rx": "lid.rx/1.25",
 					"this.visible": "lid.rx != 0"
 				}
 			]
@@ -157,10 +144,13 @@
 			"invertAxis": "xy",
 			"translate": [-8, -9, -7],
 			"rotate": [-180, 0, 0],
+			"boxes": [
+				{"coordinates": [-1, 7, 21, 2, 4, 1], "textureOffset": [0, 0]}
+			],
 			"animations": [
 				{
 					"this.rx": 0,
-					"knob.rx": "knob.rx/1.75"
+					"knob.rx": "knob.rx/1.25"
 				}
 			]
 		}
