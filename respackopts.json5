@@ -32,7 +32,8 @@
 		
 		Misc: {
 			Mace: true,
-			Grass: true
+			Grass: true,
+			Chest: true
 		}
 	}	
 }
