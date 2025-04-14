@@ -1,8 +1,9 @@
 {
-  "parent": "minecraft:block/template_farmland",
+  "parent": "minecraft:block/dirt_path",
   "textures": {
-    "dirt": "minecraft:block/dirt",
+    "particle": "minecraft:block/dirt",
     "top": "minecraft:block/farmland",
-	"side": "minecraft:block/dirt"
+	"side": "minecraft:block/dirt",
+	"bottom": "minecraft:block/dirt"
   }
 }
