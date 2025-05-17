@@ -153,6 +153,7 @@
 		{
 			"from": [7.2, 2.5, 1.5],
 			"to": [10.2, 4, 4.5],
+			"light_emission": 5,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
 				"north": {"uv": [11, 0, 14, 1.5], "texture": "#0"},
