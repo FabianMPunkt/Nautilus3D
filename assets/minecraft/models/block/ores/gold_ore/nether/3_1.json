@@ -8,6 +8,7 @@
 		{
 			"from": [14, 4, -0.25],
 			"to": [15, 5, 0],
+			"light_emission": 3,
 			"rotation": {"angle": 0, "axis": "y", "origin": [10, 10, 8]},
 			"faces": {
 				"north": {"uv": [1, 11, 2, 12], "texture": "#0", "cullface": "north"},

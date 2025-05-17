@@ -7,6 +7,7 @@
 		{
 			"from": [1, 6, -0.4],
 			"to": [3, 8, 0.1],
+			"light_emission": 5,
 			"faces": {
 				"north": {"uv": [13, 7, 15, 9], "texture": "#ore", "cullface": "north"},
 				"east": {"uv": [4, 13, 4.5, 15], "texture": "#ore", "cullface": "north"},

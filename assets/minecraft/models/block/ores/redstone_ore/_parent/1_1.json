@@ -7,6 +7,7 @@
 		{
 			"from": [10, 2, -0.25],
 			"to": [12, 3, 0],
+			"light_emission": 7,
 			"faces": {
 				"north": {"uv": [4, 13, 6, 14], "texture": "#ore", "cullface": "north"},
 				"east": {"uv": [4, 13, 5, 14], "texture": "#ore", "cullface": "north"},
@@ -24,6 +25,7 @@
 		{
 			"from": [8, 3, -0.4],
 			"to": [13, 4, 0.1],
+			"light_emission": 7,
 			"faces": {
 				"north": {"uv": [3, 12, 8, 13], "texture": "#ore", "cullface": "north"},
 				"east": {"uv": [3, 12, 4, 13], "texture": "#ore", "cullface": "north"},

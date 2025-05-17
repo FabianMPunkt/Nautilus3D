@@ -7,6 +7,7 @@
 		{
 			"from": [9, 12, -0.4],
 			"to": [13, 13, 0.1],
+			"light_emission": 7,
 			"faces": {
 				"north": {"uv": [4, 5, 8, 6], "texture": "#ore", "cullface": "north"},
 				"east": {"uv": [4, 5, 5, 6], "texture": "#ore", "cullface": "north"},
@@ -17,6 +18,7 @@
 		{
 			"from": [9, 14, -0.25],
 			"to": [12, 15, 0],
+			"light_emission": 7,
 			"faces": {
 				"north": {"uv": [5, 3, 8, 4], "texture": "#ore", "cullface": "north"},
 				"east": {"uv": [5, 3, 5.25, 4], "texture": "#ore", "cullface": "north"},
@@ -27,6 +29,7 @@
 		{
 			"from": [7, 13, -0.4],
 			"to": [14, 14, 0.1],
+			"light_emission": 7,
 			"faces": {
 				"north": {"uv": [3, 4, 10, 5], "texture": "#ore", "cullface": "north"},
 				"east": {"uv": [3, 4, 4, 5], "texture": "#ore", "cullface": "north"},
