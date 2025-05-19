@@ -24,6 +24,7 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
 - Fully featured doors & trapdoors
 - Flawless rails
 - Sleek Hotbar & Icons
+- [Respackopts](https://modrinth.com/mod/respackopts) support
 - Themed GUI / Main-Menu
 
 
@@ -43,7 +44,7 @@ If you still play on Minecraft 1.8 - 1.12 you can find older Nautilus3D versions
 
 ## Performance
 The only thing really impacting the in-game performance are our fancy leaves and their variations. We tried our best to make them as fast as possible, while not compromising on their variety.
-If you're on Fabric/Sodium, we recommend using the ["Cull Less Leaves"](https://modrinth.com/mod/cull-less-leaves) mod to get back a bit of performance.
+If you're on Fabric/Sodium, we recommend using the ["Cull Less Leaves"](https://modrinth.com/mod/cull-less-leaves) mod to get back a bit of performance. If you wish to disable the leaves, you can do so using [Respackopts](https://modrinth.com/mod/respackopts)!
 
 ## Shaders
 I'ts been a high priority for us to make Nautilus3D play nice with the vast majority of shaders out there. That's also why we don't include any fancy flower / vegetation models, because that would look horrible combined with wind effects. (Also, it's really hard to make lol)
