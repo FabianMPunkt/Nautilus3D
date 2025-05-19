@@ -33,7 +33,8 @@
 		Misc: {
 			Mace: true,
 			Grass: true,
-			Chest: true
+			Chest: true,
+			RandomBookshelves: true
 		}
 	}	
 }
