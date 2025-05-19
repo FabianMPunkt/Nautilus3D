@@ -32,6 +32,7 @@
 		
 		Misc: {
 			Mace: true,
+			Trident: true,
 			Grass: true,
 			Chest: true,
 			RandomBookshelves: true
