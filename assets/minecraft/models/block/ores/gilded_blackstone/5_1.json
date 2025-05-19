@@ -8,6 +8,7 @@
 		{
 			"from": [9, 8, -0.25],
 			"to": [11, 9, 0],
+			"light_emission": 5,
 			"faces": {
 				"north": {"uv": [5, 7, 7, 8], "texture": "#0", "cullface": "north"},
 				"east": {"uv": [5, 7, 5.5, 8], "texture": "#0", "cullface": "north"},
@@ -19,6 +20,7 @@
 		{
 			"from": [8, 9, -0.25],
 			"to": [9, 10, 0],
+			"light_emission": 5,
 			"faces": {
 				"north": {"uv": [7, 6, 8, 7], "texture": "#0", "cullface": "north"},
 				"east": {"uv": [7, 6, 8, 7], "texture": "#0", "cullface": "north"},
