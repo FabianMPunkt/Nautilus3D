@@ -29,7 +29,7 @@ For bug-reports & feature-requests please open an issue on our [GitHub issue-pag
 
 
 ## Compatibility
-The current version officially supports 1.20.2 and newer, but it should more or less work all the way back to 1.13.
+The current version officially supports 1.21.4, but it should more or less work all the way back to 1.13.
 
 We highly recommend using Fabric (+ Sodium & Iris) since it is the defacto standard nowadays. OptiFine & Forge should work aswell, but you might run into issues with OptiFine since it has become somewhat outdated in recent years.
 
