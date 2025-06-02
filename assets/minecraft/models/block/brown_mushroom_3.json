@@ -1,0 +1,46 @@
+{
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"0": "custom_textures/brown_mushroom",
+		"particle": "block/brown_mushroom"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 3],
+			"to": [5, 2, 4],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [4.5, 2.1875, 3.5]},
+			"faces": {
+				"north": {"uv": [8, 13, 9, 15], "texture": "#0"},
+				"east": {"uv": [9, 13, 8, 15], "texture": "#0"},
+				"south": {"uv": [8, 13, 9, 15], "texture": "#0"},
+				"west": {"uv": [9, 13, 8, 15], "texture": "#0"},
+				"down": {"uv": [8, 14, 9, 15], "texture": "#0", "cullface": "down"}
+			}
+		},
+		{
+			"from": [2, 2, 1],
+			"to": [7, 3, 6],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [4.5, 2.1875, 3.5]},
+			"faces": {
+				"north": {"uv": [13, 0, 8, 1], "texture": "#0"},
+				"east": {"uv": [13, 0, 12, 5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 5, 13, 4], "texture": "#0"},
+				"west": {"uv": [9, 0, 8, 5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [8, 0, 13, 5], "texture": "#0"},
+				"down": {"uv": [8, 0, 13, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 3, 2],
+			"to": [6, 3.75, 5],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [4.5, 2.1875, 3.5]},
+			"faces": {
+				"north": {"uv": [12, 1, 9, 1.75], "texture": "#0"},
+				"east": {"uv": [12, 1, 11.25, 4], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [9, 4, 12, 3.25], "texture": "#0"},
+				"west": {"uv": [9.75, 1, 9, 4], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [9, 1, 12, 4], "texture": "#0"}
+			}
+		}
+	]
+}
