@@ -1,25 +1,28 @@
 {
 	"multipart":[
 				{ "apply": [
-							{ "model": "block/mushrooms/warped/0_0", "y": 0,	"weight":	91	 },
-							{ "model": "block/mushrooms/warped/0_1", "y": 0,	"weight":	94	 },
-							{ "model": "block/mushrooms/warped/1_0", "y": 0,	"weight":	95	 },
-							{ "model": "block/mushrooms/warped/1_0", "y": 90,	"weight":	96	 },
-							{ "model": "block/mushrooms/warped/1_0", "y": 180,	"weight":	95	 },
-							{ "model": "block/mushrooms/warped/1_0", "y": 270,	"weight":	96	 },
-							{ "model": "block/mushrooms/warped/1_1", "y": 0,	"weight":	93	 },
-							{ "model": "block/mushrooms/warped/1_1", "y": 90,	"weight":	94	 },
-							{ "model": "block/mushrooms/warped/1_1", "y": 180,	"weight":	93	 },
-							{ "model": "block/mushrooms/warped/1_1", "y": 270,	"weight":	92	 }
-							]
-				},
+							{ "model": "block/warped_fungus", "y": 0,		"weight":	91	 },
+							{ "model": "block/warped_fungus", "y": 90,		"weight":	88	 },
+							{ "model": "block/warped_fungus", "y": 270,		"weight":	88	 },
+							{ "model": "block/warped_fungus", "y": 180,		"weight":	88	 },
+							{ "model": "block/warped_fungus_1", "y": 0,		"weight":	93	 },
+							{ "model": "block/warped_fungus_1", "y": 90,	"weight":	93	 },
+							{ "model": "block/warped_fungus_1", "y": 180,	"weight":	93	 },
+							{ "model": "block/warped_fungus_1", "y": 270,	"weight":	92	 }
+							]                 
+				},                            
+											  
+				{ "apply": [                  
+							{ "model": "block/warped_fungus_2", "y": 0,		"weight":	26	 },
+							{ "model": "block/warped_fungus_2", "y": 90,	"weight":	25	 },
+							{ "model": "block/warped_fungus_2", "y": 180,	"weight":	23	 },
+							{ "model": "block/warped_fungus_2", "y": 270,	"weight":	28	 },
 
-				{ "apply": [
-							{ "model": "block/mushrooms/warped/2_0", "y": 0,	"weight":	66	 },
-							{ "model": "block/mushrooms/warped/2_0", "y": 90,	"weight":	65	 },
-							{ "model": "block/mushrooms/warped/2_0", "y": 180,	"weight":	63	 },
-							{ "model": "block/mushrooms/warped/2_0", "y": 270,	"weight":	68	 },
-							{ "model": "block/_placeholder", "y": 0 , "weight":	93	 }
+							{ "model": "block/warped_fungus_3", "y": 0,		"weight":	26	 },
+							{ "model": "block/warped_fungus_3", "y": 90,	"weight":	25	 },
+							{ "model": "block/warped_fungus_3", "y": 180,	"weight":	23	 },
+							{ "model": "block/warped_fungus_3", "y": 270,	"weight":	28	 },
+							{ "model": "block/_placeholder", "weight": 93}
 							]
 				}
 	]
