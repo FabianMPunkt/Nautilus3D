@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:block/mushrooms/base/0_0",
-	"textures": {
-				"0": "minecraft:custom_textures/mushrooms/warped/warped_fungus_1"
-	}
-}
