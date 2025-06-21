@@ -1,8 +1,8 @@
 {
   "pack": {
-	"description": "§e[1.21.5]   §aV2.3.1!               §7by Waschtl & playtrix",
+	"description": "§e[1.21.6]   §aV2.3.2!                 §7by Waschtl & playtrix",
 	"pack_format": 46,
-	"supported_formats": {"min_inclusive": 44, "max_inclusive": 62}
+	"supported_formats": {"min_inclusive": 44, "max_inclusive": 63}
     
   }
 }
