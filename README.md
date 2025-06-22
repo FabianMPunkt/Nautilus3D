@@ -1,6 +1,6 @@
 # Nautilus3D
 
-![Header](https://raw.githubusercontent.com/FabianMPunkt/Nautilus3D-Files/main/05_Snake_Oil/Finals/13_Header.jpg)
+![Header](https://raw.githubusercontent.com/FabianMPunkt/Nautilus3D-Files/main/05_Snake_Oil/Finals/_Header.jpg)
 
 Nautilus3D is a Minecraft Resource-pack, mainly focused on 3D-Models with a vanilla style.
 
