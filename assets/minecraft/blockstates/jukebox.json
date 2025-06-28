@@ -20,6 +20,7 @@
 					{ "model": "block/jukebox/music_disc_relic" },
 					{ "model": "block/jukebox/music_disc_stal" },
 					{ "model": "block/jukebox/music_disc_strad" },
+					{ "model": "block/jukebox/music_disc_tears" },
 					{ "model": "block/jukebox/music_disc_wait" },
 					{ "model": "block/jukebox/music_disc_ward" }
 				]
