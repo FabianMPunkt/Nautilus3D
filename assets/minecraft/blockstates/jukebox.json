@@ -12,6 +12,7 @@
 					{ "model": "block/jukebox/music_disc_creator" },
 					{ "model": "block/jukebox/music_disc_creator_music_box" },
 					{ "model": "block/jukebox/music_disc_far" },
+					{ "model": "block/jukebox/music_disc_lava_chicken" },
 					{ "model": "block/jukebox/music_disc_mall" },
 					{ "model": "block/jukebox/music_disc_mellohi" },
 					{ "model": "block/jukebox/music_disc_other_side" },
