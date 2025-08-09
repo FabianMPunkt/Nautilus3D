@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_chain_alt",
+  "textures": {
+    "texture": "minecraft:block/weathered_copper_chain"
+  }
+}
