@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "hanging=true":	[
+				{ "model": "block/exposed_copper_lantern_hanging", "weight": 4},
+				{ "model": "block/exposed_copper_lantern_hanging_alt", "weight": 1}
+	],
+        "hanging=false": [ 	
+				{ "model": "block/exposed_copper_lantern"},
+				{ "model": "block/exposed_copper_lantern", "y": 90},
+				{ "model": "block/exposed_copper_lantern", "y": 180},
+				{ "model": "block/exposed_copper_lantern", "y": 270}
+	]
+  }
+}
