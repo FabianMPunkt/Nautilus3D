@@ -3,16 +3,16 @@
         {   "apply": { "model": "block/iron_bars_post" }},
 
         {   "when": { "north": true },
-            "apply": { "model": "block/iron_bars_side_0" }
+            "apply": { "model": "block/iron_bars_side" }
         },
         {   "when": { "east": true },
-            "apply": { "model": "block/iron_bars_side_0", "y": 90 }
+            "apply": { "model": "block/iron_bars_side", "y": 90 }
         },
         {   "when": { "south": true },
-            "apply": { "model": "block/iron_bars_side_1"}
+            "apply": { "model": "block/iron_bars_side_alt"}
         },
         {   "when": { "west": true },
-            "apply": { "model": "block/iron_bars_side_1", "y": 90 }
+            "apply": { "model": "block/iron_bars_side_alt", "y": 90 }
         }
     ]
 }
