@@ -1,8 +1,0 @@
-{
-	"credit": "Made by TheWaschtlPlays using Blockbench",
-	"parent": "minecraft:block/template_lantern_hanging_1",
-	"textures": {
-		"particle": "block/lantern",
-		"#lantern": "block/lantern"
-	}
-}

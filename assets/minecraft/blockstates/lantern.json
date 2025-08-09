@@ -2,7 +2,7 @@
     "variants": {
         "hanging=true":	[
 				{ "model": "block/lantern_hanging", "weight": 4},
-				{ "model": "block/lantern_hanging_1", "weight": 1}
+				{ "model": "block/lantern_hanging_alt", "weight": 1}
 	],
         "hanging=false": [ 	
 				{ "model": "block/lantern"},
