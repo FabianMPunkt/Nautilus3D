@@ -2,7 +2,7 @@
 
 ![Header](https://raw.githubusercontent.com/FabianMPunkt/Nautilus3D-Files/main/05_Snake_Oil/Finals/_Header.jpg)
 
-Nautilus3D is a Minecraft Resource-pack, mainly focused on 3D-Models with a vanilla style.
+Nautilus3D is a Default 3D Resource-pack, mainly focused on 3D-Models with a vanilla style.
 
 We aim to provide a highly polished pack with an emphasis on decorative blocks, strong optimization, and various little fixes.
 
