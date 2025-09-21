@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/template_chain_alt",
   "textures": {
-    "texture": "minecraft:block/chain"
+    "texture": "minecraft:block/iron_chain"
   }
 }
