@@ -1,8 +1,25 @@
 {
     id: "Nautilus3D",
     version: 9,
-    capabilities: ["FileFilter"],
+    capabilities: ["FileFilter", "DirFilter"],
     conf: {
+		
+		GUI: {
+			MainMenu: true,
+			Buttons: true,
+			Hotbar: true
+		},
+		
+		Redstone: {
+			RedstoneLamp: true,
+			Repeater: true,
+			Comparator: true,
+			Dispenser: true,
+			Dropper: true,
+			Observer: true,
+			Crafter: true,
+			CopperBulb: true
+		},
 		
         Leaves: {
 			OakLeaves: true,
@@ -35,7 +52,14 @@
 			Trident: true,
 			Grass: true,
 			Chest: true,
-			RandomBookshelves: true
+			RandomBookshelves: true,
+			Rails: true,
+			Noteblock: true,
+			Jukebox: true,
+			Ladder: true,
+			Torch: true,
+			Lantern: true,
+			Chain: true
 		}
 	}	
 }
