@@ -1,0 +1,4 @@
+{
+	"condition": "Misc.RailCorner.curved",
+	"fallback": "assets/minecraft/models/block/rails/rail/rail_corner_diagonal.json"
+}

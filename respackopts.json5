@@ -54,6 +54,7 @@
 			Chest: true,
 			RandomBookshelves: true,
 			Rails: true,
+			RailCorner: ["curved", "diagonal"],
 			Noteblock: true,
 			Jukebox: true,
 			Ladder: true,
