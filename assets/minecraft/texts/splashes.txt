@@ -53,7 +53,6 @@ Fat free!
 Absolutely no memes!
 Free dental!
 Ask your doctor!
-Minors welcome!
 Cloud computing!
 Legal in Finland!
 Hard to label!
@@ -69,7 +68,7 @@ Herregud!
 Complex cellular automata!
 Yes, sir!
 Played by cowboys!
-Now on OpenGL 3.2 core profile!
+Now on OpenGL 3.3 core profile!
 Thousands of colors!
 Try it!
 Age of Wonders is better!
@@ -123,7 +122,7 @@ Seecret Friday update!
 Reference implementation!
 Kiss the sky!
 20 GOTO 10!
-Verlet intregration!
+Verlet integration!
 Peter Griffin!
 Do not distribute!
 Cogito ergo sum!
@@ -273,7 +272,7 @@ From the streets of Södermalm!
 150 bpm for 400000 minutes!
 Technologic!
 Funk soul brother!
-Pumpa kungen!
+Pumpakungen!
 日本ハロー！
 한국 안녕하세요!
 Helo Cymru!
@@ -300,7 +299,7 @@ Put that cookie down!
 Pretty scary!
 I have a suggestion.
 Now with extra hugs!
-Java 16 + 1 = 17!
+Java 16 + 1 + 4 = 21!
 Woah.
 HURNERJSGER?
 What's up, Doc?
@@ -369,7 +368,7 @@ Look mum, I'm in a splash!
 It came from space.
 Awesome game design right there!
 Ph1lza had a good run!
-10 years of Mining and Crafting!
+15 years of Mining and Crafting!
 Ping the human!
 In case it isn't obvious, foxes aren't players.
 Buzzy Bees!
@@ -444,7 +443,11 @@ Has working bookshelves!
 Sniff sniff...
 Place hanging sign here
 Joule is neat too!
-Minecraft Java Edition presents: 3 fps!
+Music by Aaron Cherof!
+Music by Kumi Tanioka!
+Music by Amos Roddy!
+Flint and Steel!
+Chicken Jockey!
 Ahh, That's hot
 Jaaahh, it's rewind time
 That's a lotta damage!
