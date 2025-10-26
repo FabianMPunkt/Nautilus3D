@@ -1,6 +1,6 @@
 {
-    id: "Nautilus3D",
-    version: 9,
+    id: "Nautilus",
+    version: 13,
     capabilities: ["FileFilter", "DirFilter"],
     conf: {
 		
@@ -31,7 +31,7 @@
 			MangroveLeaves: true,
 			CherryLeaves: true,
 			AzaleaLeaves: true,
-			FloweringAcaciaLeaves: true
+			FloweringAzaleaLeaves: true
 		},
 		
 		Ores: {
