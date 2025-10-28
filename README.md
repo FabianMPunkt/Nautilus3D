@@ -29,8 +29,6 @@ Feel free to leave bug-reports & feature suggestions our [GitHub issue-page](htt
 
 
 ## Compatibility
-The current version officially supports 1.21.6, but it should more or less work all the way back to 1.13.
-
 We highly recommend using Fabric (+ Sodium & Iris) since it is the defacto standard nowadays. OptiFine & Forge should work aswell, but you might run into issues with OptiFine since it has become somewhat outdated in recent years.
 
 Some features (like the Trident) require OptiFine to work as intended.
@@ -38,6 +36,8 @@ For Fabric you can use these alternatives:
  - [EMF](https://modrinth.com/mod/entity-model-features) and [ETF](https://modrinth.com/mod/entitytexturefeatures) for custom entity-models
  - [CIT-Resewn](https://modrinth.com/mod/cit-resewn) for custom item-textures
  - [Continuity](https://modrinth.com/mod/continuity) for connected-textures.
+
+Nautilus3D is taking extensive use of [Respackopts](https://modrinth.com/mod/respackopts), a mod that allows for custom Resoucrepack options and configs.
 
 We used to make separate editions of the pack for Minecraft 1.8 - 1.12 up until Nautilus3D V1.8
 If you still play on Minecraft 1.8 - 1.12 you can find older Nautilus3D versions in the GitHub [Release Archive](https://github.com/FabianMPunkt/Nautilus3D-Files/tree/main/_ReleaseArchive) folder.
@@ -76,9 +76,4 @@ More screenshots on our [Modrinth](https://modrinth.com/resourcepack/nautilus3d/
 ## Links
 
 [Modrinth](https://modrinth.com/resourcepack/nautilus3d)
-
-[CurseForge](https://www.curseforge.com/minecraft/texture-packs/nautilus3d)
-
-[Planet Minecraft](https://www.planetminecraft.com/texture-pack/nautilus-pack-3d/)
-
 
