@@ -47,6 +47,22 @@
 			NetherQuartzOre: true
 		},
 		
+		Fences: {
+			OakFence: true,
+			SpruceFence: true,
+			BirchFence: true,
+			JungleFence: true,
+			AcaciaFence: true,
+			DarkOakFence: true,
+			MangroveFence: true,
+			CherryFence: true,
+			PaleOakFence: true,
+			BambooFence: true,
+			CrimsonFence: true,
+			WarpedFence: true,
+			NetherBrickFence: true
+		},
+		
 		Misc: {
 			Mace: true,
 			Trident: true,
