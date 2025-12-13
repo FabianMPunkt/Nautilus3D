@@ -1,8 +1,8 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
-		"1": "item/ominous_trial_key",
-		"particle": "item/ominous_trial_key",
+		"1": "custom_textures/ominous_trial_key",
+		"particle": "custom_textures/ominous_trial_key",
 		"front": "block/vault_front_on_ominous"
 	},
 	"elements": [
