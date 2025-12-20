@@ -63,10 +63,18 @@
 			NetherBrickFence: true
 		},
 		
+		Vegetation: {
+			Grass: true,
+			Seagrass: true,
+			Wheat: true,
+			Potatoes: true,
+			Carrots: true,
+			Beetroots: true
+		},
+		
 		Misc: {
 			Mace: true,
 			Trident: true,
-			Grass: true,
 			Chest: true,
 			RandomBookshelves: true,
 			Rails: true,
