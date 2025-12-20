@@ -1,5 +1,6 @@
 {
 	"credit": "Made by playtrix using Blockbench",
+	"ambientocclusion": false,
 	"textures": {
 		"particle": "#crop"
 	},
