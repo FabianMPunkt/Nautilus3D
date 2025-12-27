@@ -1,7 +1,7 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textureSize": [32, 32],
-	"texture": "textures/custom_textures/trident.png",
+	"texture": "textures/entity/trident_cem.png",
 	"models": [
 		{
 			"part": "body",
@@ -9,41 +9,7 @@
 			"invertAxis": "xy",
 			"translate": [0, -27, 0],
 			"boxes": [
-				{
-					"coordinates": [-1.5, 24, -0.5, 3, 3, 1],
-					"uvNorth": [1, 4, 4, 7],
-					"uvEast": [3, 4, 4, 7],
-					"uvSouth": [1, 4, 4, 7],
-					"uvWest": [1, 4, 2, 7],
-					"uvUp": [4, 5, 1, 4],
-					"uvDown": [4, 6, 1, 7]
-				},
-				{
-					"coordinates": [-0.5, 0, -0.5, 1, 31, 1],
-					"uvNorth": [2, 0, 3, 31],
-					"uvEast": [2, 0, 3, 31],
-					"uvSouth": [2, 0, 3, 31],
-					"uvWest": [2, 0, 3, 31],
-					"uvUp": [2, 0, 3, 1]
-				},
-				{
-					"coordinates": [1.5, 25, -0.25, 1, 4, 0.5],
-					"uvNorth": [0, 2, 1, 6],
-					"uvEast": [0, 2, 1, 6],
-					"uvSouth": [0, 2, 1, 6],
-					"uvWest": [0, 2, 1, 6],
-					"uvUp": [0, 2, 1, 3],
-					"uvDown": [0, 5, 1, 6]
-				},
-				{
-					"coordinates": [-2.5, 25, -0.25, 1, 4, 0.5],
-					"uvNorth": [4, 2, 5, 6],
-					"uvEast": [4, 2, 5, 6],
-					"uvSouth": [4, 2, 5, 6],
-					"uvWest": [4, 2, 5, 6],
-					"uvUp": [4, 2, 5, 3],
-					"uvDown": [4, 5, 5, 6]
-				},
+				{"coordinates": [-0.5, 0, -0.5, 1, 24, 1], "textureOffset": [0, 6]},
 				{
 					"coordinates": [-0.75, 12.5, -0.75, 1.5, 7, 1.5],
 					"uvNorth": [10, 11, 8, 19],
@@ -61,7 +27,16 @@
 					"uvWest": [16, 21, 14, 22],
 					"uvUp": [14, 23, 16, 21],
 					"uvDown": [14, 21, 16, 23]
-				},
+				}
+			]
+		},
+		{
+			"part": "base",
+			"id": "base",
+			"invertAxis": "xy",
+			"translate": [0, -27, 0],
+			"boxes": [
+				{"coordinates": [-1.5, 24, -0.5, 3, 3, 1], "textureOffset": [4, 0]},
 				{
 					"coordinates": [-1, 24.5, -0.625, 2, 2, 1.25],
 					"uvNorth": [14, 21, 16, 23],
@@ -79,6 +54,49 @@
 					"uvWest": [9, 9, 10, 11],
 					"uvUp": [10, 9, 8, 10],
 					"uvDown": [10, 10, 8, 11]
+				}
+			]
+		},
+		{
+			"part": "left_spike",
+			"id": "left_spike",
+			"invertAxis": "xy",
+			"translate": [0, -27, 0],
+			"boxes": [
+				{
+					"coordinates": [1.5, 25, -0.25, 1, 4, 0.5],
+					"uvNorth": [4, 4, 5, 8],
+					"uvEast": [4, 4, 5, 8],
+					"uvSouth": [4, 4, 5, 8],
+					"uvWest": [4, 4, 5, 8],
+					"uvUp": [5, 4, 4, 5],
+					"uvDown": [5, 7, 4, 8]
+				}
+			]
+		},
+		{
+			"part": "middle_spike",
+			"id": "middle_spike",
+			"invertAxis": "xy",
+			"translate": [0, -27, 0],
+			"boxes": [
+				{"coordinates": [-0.5, 27, -0.5, 1, 4, 1], "textureOffset": [0, 0]}
+			]
+		},
+		{
+			"part": "right_spike",
+			"id": "right_spike",
+			"invertAxis": "xy",
+			"translate": [0, -27, 0],
+			"boxes": [
+				{
+					"coordinates": [-2.5, 25, -0.25, 1, 4, 0.5],
+					"uvNorth": [6, 4, 7, 8],
+					"uvEast": [6, 4, 7, 8],
+					"uvSouth": [6, 4, 7, 8],
+					"uvWest": [6, 4, 7, 8],
+					"uvUp": [7, 4, 6, 5],
+					"uvDown": [7, 7, 6, 8]
 				}
 			]
 		}
