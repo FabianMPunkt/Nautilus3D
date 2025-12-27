@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
-		"lead_knot": "block/lead_knot"
+		"lead_knot": "item/lantern_handle"
 	},
 	"elements": [
 		{
