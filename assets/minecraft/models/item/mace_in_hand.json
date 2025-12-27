@@ -1,8 +1,7 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
-		"1": "custom_textures/mace",
-		"particle": "block/heavy_core",
+		"1": "item/mace_model",
 		"all": "block/heavy_core"
 	},
 	"elements": [
