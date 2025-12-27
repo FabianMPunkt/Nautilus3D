@@ -1,9 +1,8 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
-		"1": "custom_textures/spyglass/brass",
-		"particle": "custom_textures/spyglass/brass",
-		"spyglass": "custom_textures/spyglass/spyglass"
+		"1": "block/brass",
+		"spyglass": "item/spyglass_model"
 	},
 	"elements": [
 		{
