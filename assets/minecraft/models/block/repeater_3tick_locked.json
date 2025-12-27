@@ -4,7 +4,7 @@
 	"textures": {
 		"particle": "block/repeater",
 		"top": "block/repeater",
-		"lit": "custom_textures/torches/redstone_torch_off",
+		"lit": "block/torches/redstone_torch_off",
 		"slab": "block/smooth_stone",
 		"lock": "block/bedrock"
 	},

@@ -3,8 +3,8 @@
 
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "custom_textures/doors/doors/crimson/crimson_door_bottom",
-		"bottom": "custom_textures/doors/doors/crimson/crimson_door_bottom"
+		"particle": "block/doors/doors/crimson/crimson_door_bottom",
+		"bottom": "block/doors/doors/crimson/crimson_door_bottom"
 	},
 	"elements": [
 		{

@@ -2,7 +2,7 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "custom_textures/torches/torch_wall_holder",
+		"1": "block/torches/torch_wall_holder",
 		"particle": "#torch"
 	},
 	"elements": [

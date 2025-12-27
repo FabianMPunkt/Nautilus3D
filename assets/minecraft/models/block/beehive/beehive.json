@@ -4,7 +4,7 @@
 	"textures": {
 		"1": "block/beehive_side",
 		"2": "block/beehive_end",
-		"3": "custom_textures/beehive_frame",
+		"3": "block/beehive_frame",
 		"particle": "block/beehive_front",
 		"front": "block/beehive_front"
 	},

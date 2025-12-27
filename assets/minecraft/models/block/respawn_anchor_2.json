@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/respawn_anchor_side4",
 		"side": "block/respawn_anchor_side4",
-		"top": "custom_textures/respawn_anchor_portal"
+		"top": "block/respawn_anchor_portal"
 	},
 	"elements": [
 		{

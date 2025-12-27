@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/template_chest_item",
   "textures": {
-    "#chest": "minecraft:custom_textures/chest/copper_weathered"
+    "#chest": "minecraft:block/chest/copper_weathered"
   }
 }

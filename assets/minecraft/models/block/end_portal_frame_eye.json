@@ -1,7 +1,7 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
-		"end_portal_frame_eye": "custom_textures/end_portal_frame/end_portal_frame_eye"
+		"end_portal_frame_eye": "block/end_portal_frame/end_portal_frame_eye"
 	},
 	"elements": [
 		{

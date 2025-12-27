@@ -1,7 +1,7 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
-		"5": "custom_textures/blast_furnace_fire"
+		"5": "block/blast_furnace_fire"
 	},
 	"elements": [
 		{

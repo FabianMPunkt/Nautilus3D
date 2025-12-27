@@ -4,7 +4,7 @@
 	"textures": {
 		"1": "block/comparator",
 		"2": "block/smooth_stone",
-		"3": "custom_textures/torches/redstone_torch_off",
+		"3": "block/torches/redstone_torch_off",
 		"particle": "block/smooth_stone"
 	},
 	"elements": [

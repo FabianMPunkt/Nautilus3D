@@ -3,7 +3,7 @@
 	"parent": "block/orientable",
 	"textures": {
 		"4": "block/furnace_side",
-		"5": "custom_textures/furnace1",
+		"5": "block/furnace1",
 		"bottom": "block/smoker_bottom",
 		"top": "block/smoker_top",
 		"particle": "block/smoker_front",

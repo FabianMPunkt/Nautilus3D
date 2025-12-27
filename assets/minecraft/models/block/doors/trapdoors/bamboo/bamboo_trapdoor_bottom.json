@@ -2,9 +2,9 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "custom_textures/doors/trapdoors/bamboo/bamboo_trapdoor_side",
-		"particle": "custom_textures/doors/trapdoors/bamboo/bamboo_trapdoor",
-		"texture": "custom_textures/doors/trapdoors/bamboo/bamboo_trapdoor"
+		"1": "block/doors/trapdoors/bamboo/bamboo_trapdoor_side",
+		"particle": "block/doors/trapdoors/bamboo/bamboo_trapdoor",
+		"texture": "block/doors/trapdoors/bamboo/bamboo_trapdoor"
 	},
 	"elements": [
 		{

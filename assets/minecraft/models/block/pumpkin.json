@@ -5,7 +5,7 @@
 		"pumpkin_top": "block/pumpkin_top",
 		"particle": "block/pumpkin_side",
 		"pumpkin_side": "block/pumpkin_side",
-		"pumpkin_bottom": "custom_textures/pumpkins/pumpkin_bottom"
+		"pumpkin_bottom": "block/pumpkins/pumpkin_bottom"
 	},
 	"elements": [
 		{

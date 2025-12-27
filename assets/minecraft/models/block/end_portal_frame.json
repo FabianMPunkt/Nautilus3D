@@ -2,10 +2,10 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"end_portal_frame_bottom": "custom_textures/end_portal_frame/end_portal_frame_bottom",
-		"side": "custom_textures/end_portal_frame/end_portal_frame_side",
-		"particle": "custom_textures/end_portal_frame/end_portal_frame_top",
-		"top": "custom_textures/end_portal_frame/end_portal_frame_top"
+		"end_portal_frame_bottom": "block/end_portal_frame/end_portal_frame_bottom",
+		"side": "block/end_portal_frame/end_portal_frame_side",
+		"particle": "block/end_portal_frame/end_portal_frame_top",
+		"top": "block/end_portal_frame/end_portal_frame_top"
 	},
 	"elements": [
 		{

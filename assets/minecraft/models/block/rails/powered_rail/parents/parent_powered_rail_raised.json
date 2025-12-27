@@ -4,10 +4,10 @@
 	"textures": {
 		"1": "block/cauldron_side",
 		"2": "block/oak_planks",
-		"gold_block": "custom_textures/rails/gold",
+		"gold_block": "block/rails/gold",
 		"#redstone": "#redstone",
-		"particle": "custom_textures/rails/rail",
-		"1_iron_block": "custom_textures/rails/rail"
+		"particle": "block/rails/rail",
+		"1_iron_block": "block/rails/rail"
 	},
 	"elements": [
 		{

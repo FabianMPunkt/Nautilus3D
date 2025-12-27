@@ -2,6 +2,6 @@
   "parent": "minecraft:block/leaves/_base/leaves0",
   "textures": {
     "all": "minecraft:block/mangrove_leaves",
-	"bush": "minecraft:custom_textures/leaves/bushy_mangrove_leaves"
+	"bush": "minecraft:block/leaves/bushy_mangrove_leaves"
   }
 }

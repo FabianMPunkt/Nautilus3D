@@ -2,8 +2,8 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"parent": "block/orientable",
 	"textures": {
-		"4": "custom_textures/furnace1",
-		"5": "custom_textures/furnace2",
+		"4": "block/furnace1",
+		"5": "block/furnace2",
 		"top": "block/furnace_top",
 		"particle": "block/furnace_front",
 		"front": "block/furnace_front",

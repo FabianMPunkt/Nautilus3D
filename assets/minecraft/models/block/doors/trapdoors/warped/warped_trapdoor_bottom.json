@@ -2,9 +2,9 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "custom_textures/doors/trapdoors/warped/warped_trapdoor_side",
-		"particle": "custom_textures/doors/trapdoors/warped/warped_trapdoor",
-		"texture": "custom_textures/doors/trapdoors/warped/warped_trapdoor"
+		"1": "block/doors/trapdoors/warped/warped_trapdoor_side",
+		"particle": "block/doors/trapdoors/warped/warped_trapdoor",
+		"texture": "block/doors/trapdoors/warped/warped_trapdoor"
 	},
 	"elements": [
 		{

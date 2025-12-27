@@ -1,7 +1,7 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
-		"2": "custom_textures/leaves/bushy_jungle_leaves_01",
+		"2": "block/leaves/bushy_jungle_leaves_01",
 		"particle": "block/jungle_leaves",
 		"all": "block/jungle_leaves"
 	},

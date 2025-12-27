@@ -3,7 +3,7 @@
 	"parent": "block/orientable",
 	"textures": {
 		"stonecutter_bottom": "block/stonecutter_bottom",
-		"saw_template": "custom_textures/stonecutter_saw",
+		"saw_template": "block/stonecutter_saw",
 		"particle": "block/stonecutter_side",
 		"stonecutter_side": "block/stonecutter_side"
 	},

@@ -2,6 +2,6 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"parent": "minecraft:block/template_torch_wall",
 	"textures": {
-		"torch": "custom_textures/torches/redstone_torch_off"
+		"torch": "block/torches/redstone_torch_off"
 	}
 }

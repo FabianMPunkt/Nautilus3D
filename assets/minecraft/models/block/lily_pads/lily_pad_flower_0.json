@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/lily_pads/template_lily_pad_flower",
   "textures": {
-    "flower": "minecraft:custom_textures/lily_pads/lily_pad_flower_0"
+    "flower": "minecraft:block/lily_pads/lily_pad_flower_0"
   }
 }

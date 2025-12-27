@@ -3,12 +3,12 @@
 	"parent": "block/block",
 	"textures": {
 		"smithing_table_front": "block/smithing_table_front",
-		"smithing_table_inside": "custom_textures/smithing_table_inside",
+		"smithing_table_inside": "block/smithing_table_inside",
 		"smithing_table_side": "block/smithing_table_side",
 		"smithing_table_bottom": "block/smithing_table_bottom",
 		"smithing_table_top": "block/smithing_table_top",
-		"particle": "custom_textures/smithing_table_side_empty",
-		"smithing_table_side_empty": "custom_textures/smithing_table_side_empty"
+		"particle": "block/smithing_table_side_empty",
+		"smithing_table_side_empty": "block/smithing_table_side_empty"
 	},
 	"elements": [
 		{

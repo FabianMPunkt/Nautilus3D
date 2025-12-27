@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 
 	"textures": {
-		"1": "custom_textures/doors/doors/warped/warped_door_bottom",
-		"particle": "custom_textures/doors/doors/warped/warped_door_bottom_clean",
-		"bottom": "custom_textures/doors/doors/warped/warped_door_bottom_clean"
+		"1": "block/doors/doors/warped/warped_door_bottom",
+		"particle": "block/doors/doors/warped/warped_door_bottom_clean",
+		"bottom": "block/doors/doors/warped/warped_door_bottom_clean"
 	},
 	"elements": [
 		{

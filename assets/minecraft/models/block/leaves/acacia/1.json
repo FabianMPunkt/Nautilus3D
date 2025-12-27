@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "block/acacia_leaves",
 		"all": "block/acacia_leaves",
-		"bush": "custom_textures/leaves/bushy_acacia_leaves"
+		"bush": "block/leaves/bushy_acacia_leaves"
 	},
 	"elements": [
 		{

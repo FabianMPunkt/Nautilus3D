@@ -2,9 +2,9 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"1": "custom_textures/spawner_lock",
+		"1": "block/spawner_lock",
 		"2": "block/iron_block",
-		"3": "custom_textures/skull_eyes",
+		"3": "block/skull_eyes",
 		"particle": "block/spawner",
 		"all": "block/spawner"
 	},

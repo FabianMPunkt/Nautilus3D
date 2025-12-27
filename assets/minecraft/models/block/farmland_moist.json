@@ -3,7 +3,7 @@
   "textures": {
 	"particle": "minecraft:block/farmland_moist",
     "top": "minecraft:block/farmland_moist",
-	"side": "minecraft:custom_textures/farmland_side_moist",
+	"side": "minecraft:block/farmland_side_moist",
 	"bottom": "minecraft:block/dirt"
   }
 }

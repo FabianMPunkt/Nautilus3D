@@ -2,6 +2,6 @@
   "parent": "minecraft:block/leaves/_base/leaves3",
   "textures": {
     "all": "minecraft:block/oak_leaves",
-	"bush": "minecraft:custom_textures/leaves/bushy_oak_leaves"
+	"bush": "minecraft:block/leaves/bushy_oak_leaves"
   }
 }

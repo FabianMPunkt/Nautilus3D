@@ -2,10 +2,10 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "custom_textures/doors/doors/birch/birch_door_side_0",
-		"2": "custom_textures/doors/doors/birch/birch_door_bottom",
-		"3": "custom_textures/doors/doors/birch/birch_door_side_1",
-		"particle": "custom_textures/doors/doors/birch/birch_door_bottom"
+		"1": "block/doors/doors/birch/birch_door_side_0",
+		"2": "block/doors/doors/birch/birch_door_bottom",
+		"3": "block/doors/doors/birch/birch_door_side_1",
+		"particle": "block/doors/doors/birch/birch_door_bottom"
 	},
 	"elements": [
 		{

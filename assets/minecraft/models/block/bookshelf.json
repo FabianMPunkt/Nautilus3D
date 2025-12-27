@@ -4,8 +4,8 @@
 	"textures": {
 		"0": "block/bookshelf",
 		"1": "block/oak_planks",
-		"2": "custom_textures/bookshelf_custom",
-		"3": "custom_textures/bookshelf_custom_1",
+		"2": "block/bookshelf_custom",
+		"3": "block/bookshelf_custom_1",
 		"particle": "block/bookshelf"
 	},
 	"elements": [

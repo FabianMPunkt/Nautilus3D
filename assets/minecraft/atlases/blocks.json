@@ -1,9 +1,0 @@
-{
-    "sources": [
-		{
-			"type": "directory",
-            "source": "custom_textures",
-            "prefix": "custom_textures/"
-		}
-    ]
-}

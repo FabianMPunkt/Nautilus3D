@@ -1,12 +1,13 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
 		"6": "block/oak_planks",
-		"7": "custom_textures/spyglass/brass",
-		"8": "custom_textures/cartography_table/globe",
-		"cartography_table_top": "custom_textures/cartography_table/cartography_table_top",
-		"cartography_table_side2": "custom_textures/cartography_table/cartography_table_side2",
-		"cartography_table_side1": "custom_textures/cartography_table/cartography_table_side1",
+		"7": "block/brass",
+		"8": "block/cartography_table/globe",
+		"cartography_table_top": "block/cartography_table/cartography_table_top",
+		"cartography_table_side2": "block/cartography_table/cartography_table_side2",
+		"cartography_table_side1": "block/cartography_table/cartography_table_side1",
 		"cartography_table_side3": "block/cartography_table_side3",
 		"particle": "block/crafting_table_front"
 	},

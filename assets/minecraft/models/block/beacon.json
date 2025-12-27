@@ -2,12 +2,12 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"parent": "block/block",
 	"textures": {
-		"4": "custom_textures/beacon/beacon_side",
+		"4": "block/beacon/beacon_side",
 		"5": "block/quartz_pillar_top",
 		"particle": "block/glass",
 		"glass": "block/glass",
-		"obsidian": "custom_textures/beacon/beacon_obsidian",
-		"beacon": "custom_textures/beacon/beacon"
+		"obsidian": "block/beacon/beacon_obsidian",
+		"beacon": "block/beacon/beacon"
 	},
 	"elements": [
 		{

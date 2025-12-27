@@ -4,7 +4,7 @@
 	"textures": {
 		"pumpkin_top": "block/pumpkin_top",
 		"pumpkin_side": "block/pumpkin_side",
-		"pumpkin_bottom": "custom_textures/pumpkins/pumpkin_bottom",
+		"pumpkin_bottom": "block/pumpkins/pumpkin_bottom",
 		"particle": "block/carved_pumpkin",
 		"carved_pumpkin": "block/carved_pumpkin"
 	},

@@ -2,7 +2,7 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "custom_textures/fences/oak/oak_fence_post",
+		"2": "block/fences/oak/oak_fence_post",
 		"particle": "block/cobblestone",
 		"base": "block/cobblestone",
 		"lever": "block/lever"

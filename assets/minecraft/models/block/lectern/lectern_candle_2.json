@@ -2,7 +2,7 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
 		"5": "block/gold_block",
-		"6": "custom_textures/pumpkins/candle"
+		"6": "block/pumpkins/candle"
 	},
 	"elements": [
 		{

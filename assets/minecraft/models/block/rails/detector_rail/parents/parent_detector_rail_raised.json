@@ -6,8 +6,8 @@
 		"2": "block/oak_planks",
 		"iron_block": "block/iron_block",
 		"#redstone": "#redstone",
-		"particle": "custom_textures/rails/rail",
-		"1_iron_block": "custom_textures/rails/rail"
+		"particle": "block/rails/rail",
+		"1_iron_block": "block/rails/rail"
 	},
 	"elements": [
 		{

@@ -4,8 +4,8 @@
 	"textures": {
 		"1": "block/cauldron_side",
 		"2": "block/oak_planks",
-		"particle": "custom_textures/rails/rail",
-		"iron_block": "custom_textures/rails/rail"
+		"particle": "block/rails/rail",
+		"iron_block": "block/rails/rail"
 	},
 	"elements": [
 		{

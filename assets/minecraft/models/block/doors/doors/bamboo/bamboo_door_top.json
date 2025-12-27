@@ -2,10 +2,10 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "custom_textures/doors/doors/bamboo/bamboo_door_side_0",
-		"3": "custom_textures/doors/doors/bamboo/bamboo_door_side_1",
-		"particle": "custom_textures/doors/doors/bamboo/bamboo_door_top",
-		"top": "custom_textures/doors/doors/bamboo/bamboo_door_top"
+		"2": "block/doors/doors/bamboo/bamboo_door_side_0",
+		"3": "block/doors/doors/bamboo/bamboo_door_side_1",
+		"particle": "block/doors/doors/bamboo/bamboo_door_top",
+		"top": "block/doors/doors/bamboo/bamboo_door_top"
 	},
 	"elements": [
 		{

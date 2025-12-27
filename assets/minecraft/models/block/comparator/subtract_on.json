@@ -2,8 +2,8 @@
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"lit": "custom_textures/torches/redstone_torch_on",
-		"particle": "custom_textures/torches/redstone_torch_fire"
+		"lit": "block/torches/redstone_torch_on",
+		"particle": "block/torches/redstone_torch_fire"
 	},
 	"elements": [
 		{

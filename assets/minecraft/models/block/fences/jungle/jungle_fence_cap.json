@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/fences/template_fence_cap",
   "textures": {
-    "texture": "minecraft:custom_textures/fences/jungle/jungle_fence_side"
+    "texture": "minecraft:block/fences/jungle/jungle_fence_side"
   }
 }

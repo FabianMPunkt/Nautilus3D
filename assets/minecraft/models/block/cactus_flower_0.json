@@ -2,6 +2,6 @@
   "parent": "minecraft:block/template_cactus_flower",
   "textures": {
     "flower": "block/cactus_flower",
-	"flower_inner": "custom_textures/cactus_flower_inner_0"
+	"flower_inner": "block/cactus_flower_inner_0"
   }
 }

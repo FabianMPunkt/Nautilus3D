@@ -1,7 +1,7 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
-		"0": "custom_textures/brown_mushroom",
+		"0": "block/brown_mushroom",
 		"particle": "block/brown_mushroom"
 	},
 	"elements": [
