@@ -30,6 +30,7 @@
 			DarkOakLeaves: true,
 			MangroveLeaves: true,
 			CherryLeaves: true,
+			PaleOakLeaves: true,
 			AzaleaLeaves: true,
 			FloweringAzaleaLeaves: true
 		},
