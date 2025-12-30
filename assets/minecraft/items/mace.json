@@ -1,21 +1,46 @@
 {
   "model": {
     "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
     "cases": [
       {
+        "when": "Mjölnir",
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/mace"
-        },
-        "when": [
-          "gui"
-        ]
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": "gui",
+              "model": {
+                "type": "minecraft:model",
+                "model": "minecraft:item/mjolnir"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/mjolnir_in_hand"
+          }
+        }
       }
     ],
     "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/mace_in_hand"
-    },
-    "property": "minecraft:display_context"
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "when": "gui",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/mace"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/mace_in_hand"
+      }
+    }
   }
 }
