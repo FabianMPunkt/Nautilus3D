@@ -1,8 +1,9 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textures": {
 		"1": "item/mace_model",
-		"all": "block/heavy_core"
+		"all": "item/heavy_core"
 	},
 	"elements": [
 		{
