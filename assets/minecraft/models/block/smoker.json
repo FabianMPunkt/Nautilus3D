@@ -435,7 +435,6 @@
 		{
 			"from": [2, 1, 0.75],
 			"to": [14, 7, 0.75],
-			"light_emission": 15,
 			"faces": {
 				"north": {"uv": [2, 9, 14, 15], "texture": "#front", "cullface": "north"}
 			}
