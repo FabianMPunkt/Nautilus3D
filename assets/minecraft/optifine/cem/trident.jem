@@ -1,7 +1,6 @@
 {
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"textureSize": [32, 32],
-	"texture": "textures/entity/trident_cem.png",
 	"models": [
 		{
 			"part": "body",
