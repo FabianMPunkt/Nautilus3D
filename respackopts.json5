@@ -85,7 +85,8 @@
 			Ladder: true,
 			Torch: true,
 			Lantern: true,
-			Chain: true
+			Chain: true,
+			Buttons: true
 		}
 	}	
 }
