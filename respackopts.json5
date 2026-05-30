@@ -77,6 +77,7 @@
 			Mace: true,
 			Trident: true,
 			Chest: true,
+			Bell: true,
 			RandomBookshelves: true,
 			Rails: true,
 			RailCorner: ["curved", "diagonal"],
