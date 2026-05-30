@@ -7,7 +7,6 @@
 			"id": "base",
 			"invertAxis": "xy",
 			"translate": [-8, 0, -8],
-			"rotate": [-180, 0, 0],
 			"submodels": [
 				{
 					"id": "base_full",
@@ -63,7 +62,6 @@
 			"id": "lid",
 			"invertAxis": "xy",
 			"translate": [-8, -9, -7],
-			"rotate": [-180, 0, 0],
 			"boxes": [
 				{
 					"coordinates": [-7, 4, 7, 14, 5, 14],
@@ -99,7 +97,6 @@
 			"id": "knob",
 			"invertAxis": "xy",
 			"translate": [-8, -9, -7],
-			"rotate": [-180, 0, 0],
 			"boxes": [
 				{"coordinates": [-1, 7, 21, 2, 4, 1], "textureOffset": [0, 0]}
 			],
