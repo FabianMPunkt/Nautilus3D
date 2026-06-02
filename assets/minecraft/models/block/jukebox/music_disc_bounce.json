@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/jukebox/template_disc",
+  "textures": {
+    "disc": "minecraft:block/jukebox/music_disc_bounce"
+  }
+}
