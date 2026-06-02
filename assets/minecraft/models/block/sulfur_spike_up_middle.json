@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_spike_up_middle",
+  "textures": {
+    "spike": "minecraft:block/sulfur_spike_up_middle"
+  }
+}
