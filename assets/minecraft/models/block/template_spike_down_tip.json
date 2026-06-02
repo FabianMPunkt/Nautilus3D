@@ -1,0 +1,42 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by TheWaschtlPlays using Blockbench",
+	"textures": {
+		"particle": "#spike"
+	},
+	"elements": [
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#spike"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#spike"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#spike"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#spike"}
+			}
+		},
+		{
+			"from": [6.5, 11, 6.5],
+			"to": [9.5, 16, 9.5],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [6.5, 0, 9.5, 5], "texture": "#spike"},
+				"east": {"uv": [6.5, 0, 9.5, 5], "texture": "#spike"},
+				"south": {"uv": [6.5, 0, 9.5, 5], "texture": "#spike"},
+				"west": {"uv": [6.5, 0, 9.5, 5], "texture": "#spike"},
+				"up": {"uv": [6.5, 0, 9.5, 3], "texture": "#spike", "cullface": "up"},
+				"down": {"uv": [6.5, 0, 9.5, 3], "texture": "#spike"}
+			}
+		}
+	]
+}
