@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
@@ -67,16 +68,28 @@
 		},
 		{
 			"name": "Metal",
-			"from": [-0.25, 10, -0.25],
+			"from": [-0.25, 10, 1],
 			"to": [3.25, 12, 13],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 17.75, 9.25]},
 			"faces": {
-				"north": {"uv": [0, 4, 3, 6], "texture": "#3"},
-				"east": {"uv": [13, 4, 0, 6], "texture": "#bottom"},
+				"east": {"uv": [13, 4, 1, 6], "texture": "#bottom"},
 				"south": {"uv": [12, 4, 13, 6], "texture": "#bottom"},
-				"west": {"uv": [0, 4, 13, 6], "texture": "#bottom", "cullface": "west"},
-				"up": {"uv": [0, 4, 13, 5], "rotation": 90, "texture": "#bottom"},
-				"down": {"uv": [0, 5, 13, 6], "rotation": 270, "texture": "#bottom"}
+				"west": {"uv": [1, 4, 13, 6], "texture": "#bottom", "cullface": "west"},
+				"up": {"uv": [1, 4, 13, 5], "rotation": 90, "texture": "#bottom"},
+				"down": {"uv": [1, 5, 13, 6], "rotation": 270, "texture": "#bottom"}
+			}
+		},
+		{
+			"name": "Metal",
+			"from": [-0.25, 10, -0.25],
+			"to": [3.25, 12, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.75, 17.75, 8]},
+			"faces": {
+				"north": {"uv": [0, 4, 1, 6], "texture": "#3"},
+				"east": {"uv": [0, 4, 1, 6], "texture": "#3"},
+				"west": {"uv": [0, 4, 1, 6], "texture": "#3"},
+				"up": {"uv": [0, 4, 1, 5], "texture": "#3"},
+				"down": {"uv": [0, 5, 1, 6], "texture": "#3"}
 			}
 		},
 		{
