@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "stage=0": { "model": "minecraft:block/poplar_sapling" },
+	"stage=1": { "model": "minecraft:block/saplings/poplar_sapling_big" }
+  }
+}
