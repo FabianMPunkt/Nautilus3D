@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/fences/template_fence_post",
+    "textures": {
+        "texture": "block/fences/poplar/poplar_fence_post"
+    }
+}

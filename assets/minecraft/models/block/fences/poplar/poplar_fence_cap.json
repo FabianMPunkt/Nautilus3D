@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fences/template_fence_cap",
+  "textures": {
+    "texture": "minecraft:block/fences/poplar/poplar_fence_side"
+  }
+}
