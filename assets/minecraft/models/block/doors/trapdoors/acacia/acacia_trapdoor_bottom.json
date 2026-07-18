@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made by TheWaschtlPlays using Blockbench",
 	"ambientocclusion": false,
 	"textures": {
@@ -80,23 +81,23 @@
 		{
 			"name": "Cube",
 			"from": [5, 3, 0],
-			"to": [11, 3.25, 2],
+			"to": [11, 3.5, 2],
 			"faces": {
-				"north": {"uv": [5, 15, 11, 14.25], "texture": "#texture", "cullface": "north"},
+				"north": {"uv": [5, 16, 11, 15], "texture": "#texture", "cullface": "north"},
 				"east": {"uv": [5, 16, 6, 14], "rotation": 90, "texture": "#texture"},
-				"south": {"uv": [5, 14, 11, 14.25], "texture": "#texture"},
+				"south": {"uv": [5, 14, 11, 15], "texture": "#texture"},
 				"west": {"uv": [10, 16, 11, 14], "rotation": 270, "texture": "#texture"},
 				"up": {"uv": [5, 16, 11, 14], "texture": "#texture"}
 			}
 		},
 		{
 			"name": "Cube",
-			"from": [5, -0.25, 0],
+			"from": [5, -0.5, 0],
 			"to": [11, 0, 2],
 			"faces": {
-				"north": {"uv": [5, 15, 11, 14.25], "texture": "#texture", "cullface": "down"},
+				"north": {"uv": [5, 16, 11, 15], "texture": "#texture", "cullface": "down"},
 				"east": {"uv": [5, 16, 6, 14], "rotation": 90, "texture": "#texture", "cullface": "down"},
-				"south": {"uv": [5, 14, 11, 14.25], "texture": "#texture", "cullface": "down"},
+				"south": {"uv": [5, 14, 11, 15], "texture": "#texture", "cullface": "down"},
 				"west": {"uv": [10, 16, 11, 14], "rotation": 270, "texture": "#texture", "cullface": "down"},
 				"down": {"uv": [5, 14, 11, 16], "texture": "#texture", "cullface": "down"}
 			}
@@ -132,10 +133,10 @@
 			"scale": [0.625, 0.625, 0.625]
 		},
 		"head": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, -180, 0]
 		},
 		"fixed": {
-			"rotation": [0, 180, 0]
+			"rotation": [0, -180, 0]
 		}
 	}
 }
