@@ -29,13 +29,9 @@ Feel free to leave bug-reports & feature suggestions our [GitHub issue-page](htt
 
 
 ## Compatibility
-We highly recommend using Fabric (+ Sodium & Iris) since it is the defacto standard nowadays. OptiFine & Forge should work aswell, but you might run into issues with OptiFine since it has become somewhat outdated in recent years.
+We highly recommend always using the latest Fabric (+ Sodium & Iris) since it is the defacto standard nowadays. OptiFine & Forge should work aswell, but you might run into minor issues with OptiFine since it has become somewhat outdated in recent years.
 
-Some features (like the Trident) require OptiFine to work as intended.
-For Fabric you can use these alternatives:
- - [EMF](https://modrinth.com/mod/entity-model-features) and [ETF](https://modrinth.com/mod/entitytexturefeatures) for custom entity-models
- - [CIT-Resewn](https://modrinth.com/mod/cit-resewn) for custom item-textures
- - [Continuity](https://modrinth.com/mod/continuity) for connected-textures.
+Some features (like the Chests, or the Trident) require OptiFine or [EMF](https://modrinth.com/mod/entity-model-features) / [ETF](https://modrinth.com/mod/entitytexturefeatures) to work as intended.
 
 Nautilus3D is taking extensive use of [Respackopts](https://modrinth.com/mod/respackopts), a mod that allows for custom Resoucrepack options and configs.
 
@@ -44,7 +40,7 @@ If you still play on Minecraft 1.8 - 1.12 you can find older Nautilus3D versions
 
 ## Performance
 The only thing really impacting the in-game performance are our fancy leaves and their variations. We tried our best to make them as fast as possible, while not compromising on their variety.
-If you're on Fabric/Sodium, we recommend using the ["Cull Less Leaves"](https://modrinth.com/mod/cull-less-leaves) mod to get back a bit of performance. If you wish to disable the leaves, you can do so using [Respackopts](https://modrinth.com/mod/respackopts)!
+If you wish to disable the leaves, you can do so using [Respackopts](https://modrinth.com/mod/respackopts)!
 
 ## Shaders
 I'ts been a high priority for us to make Nautilus3D play nice with the vast majority of shaders out there. That's also why we don't include any fancy flower / vegetation models, because that would look horrible combined with wind effects. (Also, it's really hard to make lol)
