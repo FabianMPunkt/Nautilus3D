@@ -36,7 +36,7 @@ Some features (like the Chests, or the Trident) require OptiFine or [EMF](https:
 Nautilus3D is taking extensive use of [Respackopts](https://modrinth.com/mod/respackopts), a mod that allows for custom Resoucrepack options and configs.
 
 We used to make separate editions of the pack for Minecraft 1.8 - 1.12 up until Nautilus3D V1.8
-If you still play on Minecraft 1.8 - 1.12 you can find older Nautilus3D versions in the GitHub [Release Archive](https://github.com/FabianMPunkt/Nautilus3D-Files/tree/main/_ReleaseArchive) folder.
+If you still play on Minecraft 1.8 - 1.12, check out the [Nautlilus3D Legacy](https://modrinth.com/resourcepack/nautilus3d-legacy) page on Modrinth.
 
 ## Performance
 The only thing really impacting the in-game performance are our fancy leaves and their variations. We tried our best to make them as fast as possible, while not compromising on their variety.
